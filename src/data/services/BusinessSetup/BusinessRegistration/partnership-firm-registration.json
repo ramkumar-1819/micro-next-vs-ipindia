@@ -1,0 +1,1093 @@
+{
+  "url": "partnership-firm-registration",
+  "pageName": "partnership-firm-deed",
+  "serviceName": "Partnership Firm Registration",
+  "kommunicateGenricChatBot": true,
+  "kommunicateServiceBotName": "partnership-firm",
+  "whitenav": true,
+  "b2bServicePage": true,
+  "language": "en",
+  "hidetars": true,
+  "criteoscript": true,
+  "showDash": true,
+  "showYellowBorder": true,
+  "hideBorder": true,
+  "hidewebengage": true,
+  "testvariantA2": true,
+  "testvariantAnew": true,
+  "testvariantformpvt": true,
+  "newvariant": true,
+  "ptltestimonial": true,
+  "hasHindiPage": true,
+  "secondformtitle": "Get Partnership now!",
+  "pageTitle": "Partnership Firm Registration Deed Services Online - Vakilsearch",
+  "canonical": true,
+  "canonicalUrl": "partnership-firm-registration",
+  "hideStateField": true,
+  "showGoogleCityField": true,
+  "conditionsApply": true,
+  "conditionText": "<b>*TERMS & CONDITIONS</b><br/><ol><li>Customer has to review the deed on time</li><li>All documents must be provided by the client on time</li><li>Government portal down-time might cause delays</li></ol>",
+
+  "meta": {
+    "keyword": "partnership deed, partnership firm, what is partnership deed, dissolution of partnership firm, partnership deed format, partnership firm registration, partnership deed word format, partnership registration, what is partnership firm, partnership deed registration",
+    "description": "​​Get your partnership firm deed registered hassle-free with our online registration service. Avoid the long queues and complete the process with ease"
+  },
+  "schema": {
+    "articleSchema": {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://vakilsearch.com/partnership-firm-registration"
+      },
+      "headline": "Partnership Firm Deed Registration Services Online - Vakilsearch",
+      "description": "​​Get your partnership firm deed registered hassle-free with our online registration service. Avoid the long queues and complete the process with ease.",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://vakilsearch.com/bloghttps://vakilsearch.com/blog/wp-content/uploads/2023/04/partnership-registration.jpg"
+      },
+      "articleSection": "v2",
+      "keywords": "partnership firm, partnership firm registration partnership registration, partnership deed registration, firm registration online, partnership registration online, how to register partnership firm, partnership deed online, partnership firm registration online, original partnership deed, partnership firm in india",
+      "datePublished": "",
+      "dateModified": "",
+      "author": {
+        "@type": "Person",
+        "name": "VakilSearch"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "VakilSearch",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjpD1lt7g1naDsHjs2yuf-KpP9QtH0D9MJ30uqVkvc&s",
+          "width": 800,
+          "height": 344
+        }
+      }
+    }
+  },
+  "ogtags": [
+    {
+      "property": "og:title",
+      "content": "Partnership Firm Registration Online - Process & Documents"
+    },
+    {
+      "property": "og:url",
+      "content": "https://vakilsearch.com/partnership-firm"
+    },
+    {
+      "property": "og:description",
+      "content": "Get your Partnership Firm registered online without any difficulties. Tell us your requirements and our experts will draft a Partnership Deed for you in just 4 days!"
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:locale",
+      "content": "en_IN"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Vakilsearch"
+    }
+  ],
+  "twittercards": [
+    {
+      "name": "twitter:title",
+      "content": "Partnership Firm Registration Online - Process & Documents"
+    },
+    {
+      "name": "twitter:description",
+      "content": "Get your Partnership Firm registered online without any difficulties. Tell us your requirements and our experts will draft a Partnership Deed for you in just 4 days!"
+    },
+    {
+      "name": "twitter:url",
+      "content": "https://vakilsearch.com/partnership-firm"
+    },
+    {
+      "name": "twitter:card",
+      "content": "summary"
+    },
+    {
+      "name": "twitter:site",
+      "content": "Vakilsearch"
+    }
+  ],
+  "recommendedPages": {
+    "title": "Other Important Pages Related to Partnership Registration",
+    "links": [
+      {
+        "name": "Partnership Deed",
+        "url": "partnership-deed"
+      },
+      {
+        "name": "Partnership Deed Format",
+        "url": "partnership-deed-format"
+      },
+      {
+        "name": "Affiliate Partnership",
+        "url": "affiliate-partnership"
+      }
+    ]
+  },
+  "serviceItems": [
+    {
+      "header": "",
+      "items": [
+        "Easy online process",
+        "Experts guidance",
+        "Affordable",
+        "Quick turnaround time",
+        "Free iterations"
+      ]
+    }
+  ],
+  "content": {
+    "serviceId": "5",
+    "workflow": "part-onboarding",
+    "newtestimonialWithReview": true,
+    "citylists_type": 2,
+    "lpsBanner": true,
+    "title": "Partnership Firm Registration",
+    "modalTitle": "View sample Certificate / Agreement",
+    "certificateLink": "https://assets.vakilsearch.com/lpsservice/partnershipCertificateRevamp.jpg",
+    "partnerImages": "https://assets.vakilsearch.com/lpsservice/iso.svg",
+    "modalIcon": "https://assets.vakilsearch.com/lpsservice/partnerlogo.svg",
+    "bannerInsight": "<b>30,000+</b> Partnership Deed Registered Since 2011",
+    "bannerBottomContent": "",
+    "bannerReviews": true,
+    "formSection": {
+      "title": "Partnership Firm Registration",
+      "subTitle": "",
+      "list": [
+        "Partnership firm registration deed drafted within <b>3 days</b>, completely online & hasslefree",
+        "Transparent process through follow-up and regular updates"
+      ],
+      "formTitle": "Get Started!",
+      "submitCTA": "Consult an Expert",
+      "secondaryFormSection": {
+        "formTitle": "Get Partnership now!",
+        "submitCTA": "Consult an Expert"
+      }
+    },
+    "thirdform": true,
+    "bannerClickspan": false,
+    "subcontent": "",
+    "subcontent2": "",
+    "menus": [
+      {
+        "title": "Overview - Partnership Firm",
+        "href": "#section1"
+      },
+      {
+        "title": "Characteristics of Partnership Firm",
+        "href": "#section2"
+      },
+      {
+        "title": "Partnership Firm Registration Process",
+        "href": "#section4"
+      },
+      {
+        "title": "Need for Partnership Firm Registration Online",
+        "href": "#section22"
+      },
+      {
+        "title": "Eligibility for Firm Registration Online ",
+        "href": "#section23"
+      },
+      {
+        "title": "Partnership Deed Format",
+        "href": "#section5"
+      },
+      {
+        "title": "Documents Required for Partnership Firm Registration Online",
+        "href": "#section6"
+      },
+      {
+        "title": "Relevance of Partnership Firm Registration",
+        "href": "#section7"
+      },
+      {
+        "title": "Partnership Firm Registration Online Fees",
+        "href": "#section8"
+      },
+      {
+        "title": "Check Partnership Firm Registration Online Status",
+        "href": "#section9"
+      },
+      {
+        "title": "Distinction Between Partnership and Firm",
+        "href": "#section10"
+      },
+      {
+        "title": "Partnerships Vs. Company",
+        "href": "#section11"
+      },
+      {
+        "title": "Partnership Vs. Club",
+        "href": "#section12"
+      },
+      {
+        "title": "Partnership Vs. Hindu Undivided Family",
+        "href": "#section13"
+      },
+      {
+        "title": "Partnership Vs. Co-ownership",
+        "href": "#section14"
+      },
+      {
+        "title": "Partnership Vs. Association",
+        "href": "#section15"
+      },
+      {
+        "title": "Types of Partners",
+        "href": "#section16"
+      },
+      {
+        "title": "Benefits Of Registration Of Partnership Firm",
+        "href": "#section17"
+      },
+      {
+        "title": "Consequences Of Non Registration Of Partnership Firm",
+        "href": "#section18"
+      },
+      {
+        "title": "Tax Compliance For Partnership Firm",
+        "href": "#section19"
+      },
+      {
+        "title": "FAQ's On Firm Registration Online",
+        "href": "#section20"
+      },
+      {
+        "title": "Dash",
+        "href": "#section21",
+        "new": true
+      }
+    ],
+    "summary": {
+      "title": "Partnership Firm Registration Online Using Vakilsearch",
+      "description": "Registering your partnership firm online is now a very easy task! Start drafting your partnership deed in just three easy steps.",
+      "steps": [
+        {
+          "title": "Reach out to our experts",
+          "description": "Our business experts can resolve all your doubts regarding the process. Subsequently provide all the required information",
+          "sign": "https://assets.vakilsearch.com/live-images/website_revamp/new-service-step2.svg"
+        },
+        {
+          "title": "Get your first draft",
+          "description": "Our team will submit the first partnership deed draft in just 4 days.",
+          "sign": "https://assets.vakilsearch.com/live-images/website_revamp/new-service-step3.svg"
+        },
+        {
+          "title": "Free iterations",
+          "description": "In case of any changes, reach out to us. We provide two free rounds of iterations.",
+          "sign": "https://assets.vakilsearch.com/live-images/website_revamp/new-service-step1.svg"
+        }
+      ]
+    },
+    "sections": [
+      [
+        {
+          "title": "What Is Partnership Firm?",
+          "href": "section1",
+          "text": " A business established by two or more partners with the goal of achieving a profit is called a partnership firm registration. There are benefits to registering a partnership firm. The legal document used to establish a partnership company registration is known as a partnership deed."
+        },
+        {
+          "text": "The Indian <strong>Partnership Registration</strong> Act of 1932 is the primary governing partnership registration law in India. A partnership, as defined by the law, is a union of individuals who have consented to divide the profits from a company that they all, or any of them, act for a banking business. A partnership firm registration can only have a maximum of 10 members, whereas for other enterprises, it can have a maximum of 20 members."
+        },
+        {
+          "text": "While the partners are separate legal entities, partnership firms are not. A partnership firm registration is not permitted to be a debtor, creditor, or property owner. According to the law, the assets, liabilities, and credit of a partnership registration firm belong to the partners. To prevent future misunderstandings, the partnership agreement must specifically state how profits and losses will be distributed among the partners. Each partner is allowed to conduct business on behalf of the others.",
+          "serviceImage": [
+            {
+              "imgurl": "live-images/infographics/partnership-firm-registration.jpg",
+              "alt": "partnership firm registration"
+            }
+          ]
+        },
+        {
+          "text": "Given its low expenses, simplicity of setup, and lack of stringent compliance requirements, it makes sense for some businesses, such as home-based ones that are unlikely to go into debt to register themselves as <em>partnership firms</em>. General partnerships have an optional registration process. To draft a current original partnership deed registration format, get in touch with our Vakilsearch experts right away. If there are fewer than two partners after a partner's death, incapacitation, or resignation, the partnership firm registration will be dissolved."
+        }
+      ],
+      [
+        {
+          "title": "Characteristics of Partnership Firm",
+          "href": "section2",
+          "text": "<b>1. Number of Partners</b>: A partnership registration must have at least two partners. When performing banking transactions, the maximum is 10; in all other situations, the maximum is 20."
+        },
+        {
+          "text": "<b>2. Voluntary Registration</b>: Although it is not required to register a partnership, it is always advisable to do so because doing so has many additional advantages."
+        },
+        {
+          "text": "<b>3. Contractual partner</b>: There is a contractual tie between each partner. A original partnership deed registration format proposes that in order on various aspects governs the relationship. Each and every partner signs the deed, binding each and each of them."
+        },
+        {
+          "text": "<b>4. Competency of the Partners</b>: According to the Act, the partners entering into the agreement must be competent adults and cannot be minors."
+        },
+        {
+          "text": "<b>5. Profit and Loss Sharing</b>: The partners divide the profits or losses according to the percentages that were agreed upon and recorded in the agreement."
+        },
+        {
+          "text": "<b>6. Unlimited Liability</b>: In all partnership firm registartion governed by the aforementioned Act, each partner is jointly and severally liable for any losses incurred by the firm."
+        },
+        {
+          "text": "<b>7. Interest Transfer</b>: A partner's interest may not be transferred without the other partners' approval."
+        },
+        {
+          "text": "<b>8. Principal-agent relationship</b>: Partners and the firm have a principal-agent relationship. The agent acts on behalf of the company, so it is expected that he will act in the company's best interests. Any one of the partners may act on behalf of the other partners, or the entire partnership may carry out the business jointly."
+        }
+      ],
+      [
+        {
+          "title": "Need for Partnership Firm Registration",
+          "href": "section22",
+          "text": "If there is an agreement, it must be in writing and is known as a 'Partnership Deed' or 'Deed of Partnership' in any partnership. To enjoy the legal benefits and to avoid various legal restrictions, it is always advised to register your partnership firm and document the partnership. The following criteria has to be satisfied",
+          "items": "Two or more people/individuals are required | The interested persons must enter into an agreement to share the business' profits, and the enterprise must be operated by all of them, or by one of them acting on their behalf | It does not need to be registered or in writing; it can be verbally assured."
+        }
+      ],
+      [
+        {
+          "title": "Steps for Partnership Firm Registration Online",
+          "href": "section4",
+          "serviceImage": [
+            {
+              "imgurl": "live-images/infographics/partnership_firm_registration_process.png",
+              "alt": "partnership firm registration online",
+              "title": "partnership registration process"
+            }
+          ]
+        },
+        {
+          "items": "<b>Step 1: Submit a Register Partnership Firm Application</b><br>The Registrar of Firms in the state where the company is located must receive an application form and the required fees. All partners or their representatives must sign and verify the registration application. | <b>Step 2: Choosing the Name of the Partnership Firm</b><br>A partnership firm registration can be referred to by any name. But make sure they abide by the rules—for example, no two names should be the same, nothing related to the government, etc. | <b>Step 3: Registration Certificate</b><br>The firm will be registered in the Register of Firms and given the Registration Certificate if the Registrar is pleased with the registration application and supporting documentation. All firms' most recent information is available in the Register of Firms, which anybody can access for a fee."
+        }
+      ],
+      [
+        {
+          "title": "Eligibility for Partnership Firm Registration Online",
+          "href": "section23",
+          "text": "Anyone with the legal capacity to enter into a contract may enter into the partnership agreement. Every individual who meets the legal requirements for majority, is of sound mind, and is not prohibited from contracting by any laws to which they are subject, may form a partnership."
+        },
+        {
+          "text": "The following people are eligible to enter into a partnership"
+        },
+        {
+          "text": "<b>1. Individual:</b> A person who has the legal capacity to enter into a contract may join the partnership firm as a partner. An individual can be a partner in a company with more than two partners both as himself and as a representative known as Karta of the Hindu undivided family."
+        },
+        {
+          "text": "<b>2. Firm:</b> Because a partnership firm is not a person, it cannot form a partnership with another firm or person. Yet, a partner in a partnership firm is free to form a partnership with another individual and split the firm's profits with his other parent company partners."
+        },
+        {
+          "text": "<b>3. Hindu Undivided Family:</b> As long as the member has contributed their own effort and ability, a Karta of the Hindu undivided family may join a partnership in his or her individual capacity."
+        },
+        {
+          "text": "<b>4. Company:</b> If permitted to do so by its goals, a business may join a partnership firm registration as a partner because it is a juristic person."
+        },
+        {
+          "text": "<b>5. Trustees:</b> Unless its constitution or goals forbid it, trustees of private religious trusts, family trusts, Hindu mutts, and other religious endowments are legal persons and can thus form partnerships."
+        }
+      ],
+      [
+        {
+          "title": "Partnership Deed Format",
+          "href": "section5",
+          "text": "The legal options available to the firm's partners are summarised in a partnership deed format. It should cover:",
+          "items": "Each partner's obligations, rights, and liabilities are governed by it | The deed contains all of the terms and circumstances of the partnerships, which is very beneficial in preventing misunderstandings between the partners | The partnership deed will be simply referred to in the event of a dispute among the partners, making a resolution simple | The partners' misunderstanding of how to split losses and receive reimbursement for earnings | Explains the part played by each partner | The partnership deed will also include sections that specify the amount of compensation that shall be paid."
+        }
+      ],
+      [
+        {
+          "title": "Documents Required for Partnership Firm Registration",
+          "href": "section6",
+          "serviceImage": [
+            {
+              "imgurl": "live-images/infographics/documents-required-for-a-partnership-registration.jpg",
+              "alt": "documents required for partnership firm",
+              "title": "documents required for partnership firm registration"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "title": "Relevance of Partnership Firm Registration",
+          "href": "section7",
+          "text": "The Indian Partnership Act states that partnership registration is neither necessary nor needed. It is optional and up to the partners' discretion. The firm may be registered at the moment of its formation, incorporation, or ongoing operation as a partnership."
+        },
+        {
+          "text": "However, according to experts it is always recommended that you register the civil partnership because registered firms are entitled to a number of unique rights and advantages over unregistered ones. The advantages of registration of partnership firm are:",
+          "items": "In order to enforce his contractual rights against a partner or the firm, a partner may file a lawsuit against any other partner or the partnership itself. Partners cannot file a lawsuit to enforce their rights against their fellow partners or an unregistered partnership firm registration in india | To enforce a contractual right, the registered corporation may file a lawsuit against any third party. A non-registered business cannot sue a third party to enforce its rights. Any unregistered business, however, is subject to third-party litigation | The registered business may use set-off or other legal actions to enforce a contractual right. The unregistered company cannot use setoff in any legal action brought against it."
+        }
+      ],
+      [
+        {
+          "title": "Partnership Deed Online Registration Fees",
+          "href": "section8",
+          "text": "Depending on the contribution of the partners, different states have different government fees for registering a partnership firm in india. However, the Vakilsearch Partnership Firm Registration Online Plan allows you to register a partnership firm online."
+        },
+        {
+          "text": "Start your partnership firm registration online at Just ₹499"
+        },
+        {
+          "text": "The following services are included in the partnership firm registration online plan cost:",
+          "items": "Application PAN | Drafting partnership agreements | Documents must be filed with the Registrar of Corporates (RoC), including a deed | 100% online registration certificate issuance | Expert consultation."
+        }
+      ],
+      [
+        {
+          "title": "How to Check Partnership Firm Registration Status?",
+          "href": "section9",
+          "items": "<b>Step 1:</b> Visit the Ministry of Corporate Affairs (MCA) website | <b>Step 2:</b> Click on the 'MCA Services' tab and select 'View Company or LLP Master Data' from the drop-down menu | <b>Step 3:</b> Enter the partnership firm's name or registration number in the search field and click on the 'Search' button the partnership firm will be displayed, including its registration number, date of registration, and address | <b>Step 4:</b> If the partnership firm is not registered, a message stating 'No matching records found' will be displayed."
+        }
+      ],
+      [
+        {
+          "title": "Distinction Between Partnership and Firm",
+          "href": "section10"
+        },
+        {
+          "datas": [
+            {
+              "type": "table",
+              "headings": ["Partnership", "Firm"],
+              "rows": [
+                {
+                  "field1": "Business owned by two or more persons",
+                  "field2": "Business owned by an individual or group"
+                },
+                {
+                  "field1": "Owners are called partners",
+                  "field2": "Owners are called proprietors"
+                },
+                {
+                  "field1": "Partners share profits and losses",
+                  "field2": "Proprietors bear profits and losses"
+                },
+                {
+                  "field1": "Partners are personally liable",
+                  "field2": "Proprietors are personally liable"
+                },
+                {
+                  "field1": "A partnership deed is necessary",
+                  "field2": "No separate deed is required"
+                },
+                {
+                  "field1": "Registration is optional",
+                  "field2": "Registration is mandatory"
+                },
+                {
+                  "field1": "Dissolution is by mutual agreement",
+                  "field2": "Dissolution can be voluntary or compulsory"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "title": "Partnerships Vs. Company",
+          "href": "section11"
+        },
+        {
+          "datas": [
+            {
+              "type": "table",
+              "headings": ["Criteria", "Partnership", "Company"],
+              "rows": [
+                {
+                  "field1": "Legal Status",
+                  "field2": "Unincorporated",
+                  "field3": "Incorporated"
+                },
+                {
+                  "field1": "Number of Owners",
+                  "field2": "Two or more",
+                  "field3": "One or more"
+                },
+                {
+                  "field1": "Liability",
+                  "field2": "Unlimited liability for partners",
+                  "field3": "Limited liability for shareholders"
+                },
+                {
+                  "field1": "Management",
+                  "field2": "Managed by partners",
+                  "field3": "Managed by directors appointed by shareholders"
+                },
+                {
+                  "field1": "Ownership",
+                  "field2": "Joint ownership by partners",
+                  "field3": "Individual ownership of shares by shareholders"
+                },
+                {
+                  "field1": "Raising Capital",
+                  "field2": "Limited options",
+                  "field3": "Can issue shares and raise capital from public"
+                },
+                {
+                  "field1": "Legal Compliance",
+                  "field2": "Less formalities governed by Partnership Act, 1932",
+                  "field3": "More formalities, governed by Companies Act, 2013"
+                },
+                {
+                  "field1": "Taxation",
+                  "field2": "Partners pay tax on share of partnership income",
+                  "field3": "Company taxed as separate legal entity, shareholders taxed on dividends"
+                },
+                {
+                  "field1": "Continuity",
+                  "field2": "Dissolves on death or resignation of a partner",
+                  "field3": "Continuity of existence"
+                },
+                {
+                  "field1": "Transferability of Ownership",
+                  "field2": "No transferability of ownership without consent of partners",
+                  "field3": "Shares can be bought and sold freely"
+                },
+                {
+                  "field1": "Reporting",
+                  "field2": "No mandatory reporting requirements",
+                  "field3": "Must maintain books and file annual returns and financial statements"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "title": "Partnership Vs. Club",
+          "href": "section12"
+        },
+        {
+          "datas": [
+            {
+              "type": "table",
+              "headings": ["Criteria", "Partnership", "Club"],
+              "rows": [
+                {
+                  "field1": "Legal Structure",
+                  "field2": "Unincorporated",
+                  "field3": "Unincorporated"
+                },
+                {
+                  "field1": "Formation",
+                  "field2": "Requires an agreement between two or more persons",
+                  "field3": "Formed by individuals with a common interest"
+                },
+                {
+                  "field1": "Members",
+                  "field2": "Called partners, who jointly own and manage the business",
+                  "field3": "Called members, who are part of a group with a common interest"
+                },
+                {
+                  "field1": "Liability",
+                  "field2": "Partners have unlimited liability for the firm's debts and obligations",
+                  "field3": "Members have limited liability, typically up to the amount of their contribution"
+                },
+                {
+                  "field1": "Management",
+                  "field2": "Partners manage the business jointly",
+                  "field3": "Club is typically run by a board of directors or an elected group of officers"
+                },
+                {
+                  "field1": "Taxation",
+                  "field2": "Partnerships are pass-through entities, with the profits and losses flowing through to partners' personal tax returns",
+                  "field3": "Clubs may be taxed as nonprofit organisations, and may be exempt from federal income tax"
+                },
+                {
+                  "field1": "Ownership",
+                  "field2": "Partners jointly own the assets and liabilities of the business",
+                  "field3": "Clubs may be owned by a nonprofit organisation or by the members collectively"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "title": "Partnership Vs. Hindu Undivided Family",
+          "href": "section13"
+        },
+        {
+          "datas": [
+            {
+              "type": "table",
+              "headings": ["Partnership", "Hindu Undivided Family (HUF)"],
+              "rows": [
+                {
+                  "field1": "A partnership is a type of business organisation in which two or more people come together to carry on a business.",
+                  "field2": "HUF is a type of business organisation in which the family members of a Hindu undivided family collectively own and manage the business."
+                },
+                {
+                  "field1": "A partnership is governed by the Indian Partnership Act, 1932.",
+                  "field2": "HUF is governed by the Hindu Succession Act, 1956."
+                },
+                {
+                  "field1": "A partnership deed, which outlines the partnership's terms and conditions, including the profit-sharing ratio, each partner's capital commitment, their respective roles and responsibilities, etc., creates a partnership.",
+                  "field2": "HUF is created by the operation of law, that is, by the birth of a male child in a Hindu undivided family."
+                },
+                {
+                  "field1": "Each partner's responsibility in a partnership is uncapped. This indicates that the partners are liable for the debts and obligations of the partnership jointly and severally.",
+                  "field2": "In an HUF, the liability of the members is limited to the extent of their share in the HUF property"
+                },
+                {
+                  "field1": "A partnership can have a maximum of 20 partners in a general partnership and 50 partners in a banking business.",
+                  "field2": "There is no upper limit for the total number of members in the HUF."
+                },
+                {
+                  "field1": "A partnership is a separate legal entity",
+                  "field2": "HUF is not a separate legal entity"
+                },
+                {
+                  "field1": "In a partnership, the partners divide the company's gains and losses according to the proportion specified in the partnership deed.",
+                  "field2": "In a HUF, members split the business's gains and losses proportionately to their ownership stakes in the HUF's assets."
+                },
+                {
+                  "field1": "Partnership firm is dissolved based on the mutual consent from every partner or through legal operations",
+                  "field2": "An HUF can be dissolved by the members of the HUF or by operation of law."
+                },
+                {
+                  "field1": "In a partnership, the partners have the right to manage the business and make decisions jointly.",
+                  "field2": "In an HUF, the karta or head of the family has the right to manage the business and make decisions on behalf of the family."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "title": "Partnership Vs. Co-ownership",
+          "href": "section14"
+        },
+        {
+          "datas": [
+            {
+              "type": "table",
+              "headings": ["Partnership", "Co-ownership"],
+              "rows": [
+                {
+                  "field1": "Formation",
+                  "field2": "Formed by agreement between two or more partners"
+                },
+                {
+                  "field1": "Ownership",
+                  "field2": "Partners own the business and share profits, losses, and liabilities."
+                },
+                {
+                  "field1": "Management",
+                  "field2": "The business is managed by the partners jointly"
+                },
+                {
+                  "field1": "Liability",
+                  "field2": "Partners are jointly  liable for all the debts and obligations."
+                },
+                {
+                  "field1": "Transfer of interest.",
+                  "field2": "With the consent of all partners or referring to the terms and conditions provided in the partnership deed."
+                },
+                {
+                  "field1": "Taxation",
+                  "field2": "The firms are not taxed as separate entities. The partners report their share on their personal tax returns."
+                },
+                {
+                  "field1": "Termination",
+                  "field2": "Partnerships may be dissolved by agreement, death or incapacity of a partner, bankruptcy, or court order"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "title": "Partnership Vs. Association",
+          "href": "section15"
+        },
+        {
+          "datas": [
+            {
+              "type": "table",
+              "headings": ["Partnership", "Association"],
+              "rows": [
+                {
+                  "field1": "A partnership firm is a business structure where two or more individuals share ownership and responsibility.",
+                  "field2": "On the other hand an Association represents a group of people who come together to attain a common interest."
+                },
+                {
+                  "field1": "Both the profits and losses are shared  equally among the partners",
+                  "field2": "Association members do not typically share profits and losses, and the organisation is run according to its bylaws."
+                },
+                {
+                  "field1": "Partners stand liable for all the debt accumulated in the business",
+                  "field2": "Association members generally do not have personal liability for the debts of the organisation"
+                },
+                {
+                  "field1": "Partnerships are typically formed for the purpose of conducting business activities.",
+                  "field2": "Associations can be formed for a variety of purposes, such as social, cultural, or charitable."
+                },
+                {
+                  "field1": "Partnerships are obligated to report their partnership revenue on their tax returns and pay taxes on it.",
+                  "field2": "Associations may be tax-exempt if they meet certain criteria, such as being organised for a charitable or educational purpose."
+                },
+                {
+                  "field1": "Partnerships may be dissolved by agreement of the partners, death or withdrawal of a partner, or court order.",
+                  "field2": "Associations may be dissolved by agreement of the members, expiration of the organisation's charter, or court order."
+                },
+                {
+                  "field1": "Termination",
+                  "field2": "Partnerships may be dissolved by agreement, death or incapacity of a partner, bankruptcy, or court order"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "title": "Types of Partners",
+          "href": "section16",
+          "text": "It is mandatory by law to have at least two partners to register a partnership firm. Based on the role of the partner they are classified into the following types:"
+        },
+        {
+          "heading": "Active Partner",
+          "text": "An active partner is an individual or a group who is actively involved in the daily functioning of the partnership. They represent the other partners in all decisions made during the business activity."
+        },
+        {
+          "heading": "Dormant Partner",
+          "text": "As the name suggests these partners do not actively take part in the company's management. These partners are liable to third parties, share in the partnership firm's profits and losses."
+        },
+        {
+          "heading": "Nominal Partner",
+          "text": "Nominal partners are those people whose names are listed on the partnership agreement. They do not have any interest in the business and neither participate in the day's activities. A nominal partner is not entitled to the shares and profits of the phone. They also don't provide any capital investment. This partner has no ownership stake in the business and is not involved in its management. Even so, this partner is liable to third parties for all business-related actions."
+        },
+        {
+          "heading": "Partner In Profits Only",
+          "text": "This is a partner who is eligible for a cut of the gains but is not responsible for the losses. Only acts committed for personal benefit make these  partners responsible to third parties."
+        },
+        {
+          "heading": "Sub-Partner",
+          "text": "Sab partner refers to an individual who is in a partnership firm and shares the profits to an outsider of the firm. The sub partner doesn't have any right against the form and is not liable to any debt."
+        },
+        {
+          "heading": "Incoming Partners",
+          "text": "This refers to a new partner who is accepted in an existing form with consent from all the partners. An incoming partner doesn't stand liable for any act of the firm conducted before their entry."
+        },
+        {
+          "heading": "Outgoing Partner",
+          "text": "An outgoing partner leaves the firm where the rest of the partners continue to carry on the business. It is mandatory to provide a public notice concerning the retirement of an outgoing partner. In most cases until the public notice is provided the outgoing partner stands liable to third parties for all the actions taken."
+        },
+        {
+          "heading": "Partner By Holding Out (Section 28)",
+          "text": "Partnership by holding out is also known as partnership by estoppel. In simpler words it denotes  a person who may have given the impression that they are a partner through their words or behaviour, or they may have allowed others to do so. But in reality, they have no claim or connection with the partnership firm. They don't stand liable for any losses or benefits incurred for an creditor or an investor who has believed or assumed that they are a partner and made an investment."
+        }
+      ],
+      [
+        {
+          "title": "Advantages of Partnership Firm Registration Online",
+          "href": "section17",
+          "serviceImage": [
+            {
+              "imgurl": "live-images/infographics/benefits_of_partnership_firm_registration.png",
+              "alt": "partnership registration",
+              "title": "benefits of partnership registration"
+            }
+          ]
+        },
+        {
+          "items": "<b>Minimum Compliance</b><br>Whenever a private limited company is involved, something else always gets in the way (unless you hire someone to handle this for you). You avoid this hassle when you form a partnership. Seriously you don't want to start out your business burdened with compliance work. You simply want to concentrate on your company. | <b>Simple to Begin</b><br>One of the simplest types of businesses to launch is a partnership. In most cases, a partnership deed registration is the only necessity for register partnership firm in india. As a result, a partnership can be established today. On the other hand, an LLP enrollment would take between 5 and 10 working days to complete because the MCA must be contacted for the electronic signature, DIN, name approval, and incorporation. | <b>Comparatively Economical</b><br>You will have to pay at least ₹15,000 to establish a private limited company, not to mention compliance and auditor fees. When you're just getting started, do you want all this baggage? A partnership, however, will only set you back about ₹2,000."
+        }
+      ],
+      [
+        {
+          "title": "What Are the Consequences if the Partnership Firm Is Not Registered?",
+          "href": "section18",
+          "text": "If the partnership firm is not registered, the partners of the aforementioned firm may in fact enforce their rights under the terms of the Indian Partnership Act, 1932. This means that the involved firm is not permitted to file a lawsuit or make a setoff claim in the event of any dispute with a third party. However, the unregistered partnership firm is subject to third-party litigation."
+        }
+      ],
+      [
+        {
+          "title": "Tax Compliances After Obtaining Partnership Firm Registration Online",
+          "href": "section19",
+          "items": "After the registration process for the registration of <strong>partnership firm</strong> is officially initiated, the partners of the aforementioned partnership firm must receive PANs Permanent Account Number and TANs (Tax Deduction Account Numbers) from the IT department | No matter how much money is made or lost, a partnership firm in india must <a href='https://vakilsearch.com/income-tax-return-filing-online'><b>file an ITR</b></a> (Income Tax Return) | In the case of a register partnership firm, the total income will be taxed at a rate of 30% plus an additional income tax surcharge | Furthermore, a tax audit must be performed by all partnership firms with a yearly revenue of over ₹100 lakhs."
+        },
+        {
+          "text": "Businesses that generate more than ₹40 lakhs in annual income must register for GST online (₹20 lakhs in the case of the north-eastern states). However, businesses involved in e-commerce, market place aggregation, and export-import must register for GST in order to operate."
+        },
+        {
+          "text": "After registering for GST, the concerned firm is required to submit monthly, quarterly, and annual GST returns. Partnership firms must also submit their quarterly TDS (Tax Deducted at Source) returns, which must deduct tax at source in accordance with the applicable TDS rules and have TANs."
+        },
+        {
+          "text": "Last but not least, all partnership firms must obtain an ESIC registration and file an ESIC return."
+        }
+      ]
+    ],
+    "faqs": {
+      "faqTitle": "Partnership Firm Registration FAQ's",
+      "href": "section20",
+      "items": [
+        {
+          "question": "What documents are required to register a partnership firm in India?",
+          "answer": "To register a partnership firm in India, you need several documents, including: <br> 1. Application for Registration (Form 1).<br> 2. A duly signed and notarized Partnership Deed. <br> 3. Proof of the principal place of business (like rent agreement or property documents). <br> 4. ID and Address proof of all partners. <br> 5. Affidavit stating the willingness of the partners. Please consult a legal advisor for comprehensive information."
+        },
+        {
+          "question": "Can I convert my partnership firm into a company in India?",
+          "answer": "Yes, a partnership firm can be converted into a company in India. This is governed by Section 366 of the Companies Act, 2013. There are specific procedures and requirements to be followed for the conversion."
+        },
+        {
+          "question": "Is audit mandatory for a partnership firm?",
+          "answer": "Yes, An audit is mandatory for all partnership firms in India. As per the Income Tax Act, only those firms whose turnover exceeds ₹1 crore in case of a business, or ₹50 lakhs in case of a profession, during a financial year need to get their accounts audited."
+        },
+        {
+          "question": "Is the preparation of a partnership deed compulsory?",
+          "answer": "No, the preparation of a Partnership Deed is not compulsory for registering a partnership firm. It is a document that outlines the rights, duties, and responsibilities of each partner and the terms of the partnership. But it is recommended to draft a deed. Get in touch with our legal experts today!"
+        },
+        {
+          "question": "What is the timeline for registration of a partnership firm?",
+          "answer": "The timeline can vary, get in touch with our expert and get basic legal advice."
+        },
+        {
+          "question": "How do you convert a partnership firm into a private company?",
+          "answer": "Converting a partnership into a private company involves several steps: <br> 1. Obtain No Objection Certificate (NOC) from the secure creditors, if any. <br> 2. Apply for the Director Identification Numbers (DIN) for all partners. <br> 3. Apply for the Digital Signature Certificate (DSC) for all partners. <br> 4. File Form URC-1 with the Registrar of Companies. <br> 5. Submit all necessary documents (like the Partnership Deed, Statement of Accounts, etc.). <br> 6. Once approved, the Registrar of Companies will issue a Certificate of Incorporation, which signifies the completion of the conversion. Consult our compliance expert today!"
+        },
+        {
+          "question": "What are the essential requirements to register a partnership firm in Tamil Nadu?",
+          "answer": "To formalise a partnership firm in Tamil Nadu, specific prerequisites must be met:<br><b>Minimum Number of Partners:</b> The formation of a partnership requires a minimum of two partners.<br><b>Drafting a Partnership Deed:</b> The partners are obligated to prepare a partnership deed, which delineates the terms and conditions of their cooperation.<br><b>Partnership Deed Stamping and Notarization:</b> It is crucial to have the partnership deed stamped and notarized, signifying its legal validation.<br><b>Obtaining a Permanent Account Number (PAN):</b> The partners must secure a PAN for the firm, which serves as its unique tax identification.<br>Additionally, certain necessary documents are required from the partners. These include:<li>PAN Card</li><li>Aadhaar Card</li><li>Driver’s License</li><li>Passport</li><li>Voter ID</li><li>Sale deed (in case a partner owns the premises)</li><li>Rental agreement copy (if the property is rented)</li><li>Latest electricity bill (not more than 3 months old)</li><br>These prerequisites and documents collectively enable the formal registration of a partnership firm in Tamil Nadu, ensuring it functions within the legal framework"
+        },
+        {
+          "question": "Can a partnership firm registered in Delhi operate in other states?",
+          "answer": "Yes, a partnership firm registered in Delhi can operate in other states as well. However, if you plan to establish branch offices or carry out business activities extensively in other states, you may need to comply with additional requirements, such as obtaining necessary licenses or registrations specific to those states."
+        },
+        {
+          "question": "What is the required stamp paper value for a partnership deed in Haryana?",
+          "answer": "The stamp duty for partnership deeds in Haryana is generally a fixed fee of INR 1,000, regardless of the amount of capital involved in the partnership. However, rules and rates can change, and the stamp duty can vary based on factors like the nature of the partnership, the total capital involved, and other specific details."
+        },
+        {
+          "question": "What are the eligibility criteria for registering a partnership firm in Madhya Pradesh?",
+          "answer": "To register a partnership firm in Madhya Pradesh, the following criteria must be met:<li>The firm must have at least two partners.</li><li>The partners must be competent to contract.</li><li>The partners must agree to share profits and losses.</li><li>The firm's business must be lawful.</li>"
+        },
+        {
+          "question": "What are the rules for partnership in AP?",
+          "answer": "Partners should retain a copy of the partnership deed. According to the Andhra Pradesh Partnership (Registration of Firms) Rules, 1957, partners are required to download and complete Form-1. This form is to be submitted in conjunction with the registration application to the Registrar of Firms. Form-1 can be found appended at the conclusion of the aforementioned Rules."
+        },
+        {
+          "question": "What are the consequences of non registration of partnership firm?",
+          "answer": "Non-registration of a partnership firm can result in various consequences such as the firm cannot sue or file a case against third parties or partners, partners cannot sue each other, and the firm cannot claim setoff in a dispute. The firm may also face difficulties in obtaining loans or raising capital."
+        },
+        {
+          "question": "What is partnership firm registration number?",
+          "answer": "The partnership firm registration number is a unique identification number allotted to a registered partnership firm by the Registrar of Firms. It is used to identify the partnership firm for various purposes."
+        },
+        {
+          "question": "Is it compulsory for partnership firms to file income tax returns?",
+          "answer": "Yes, filing income tax returns is required for partnership firms. Annually, income tax returns must be submitted by the Income Tax Department's deadline."
+        },
+        {
+          "question": "Can a person transfer to a partnership firm?",
+          "answer": "Yes, a person can transfer to a partnership firm by becoming a partner. The transfer process involves signing the partnership deed, contributing capital, and obtaining the consent of all the partners."
+        },
+        {
+          "question": "What is a partnership deed?",
+          "answer": "It is a legal document that outlines all the terms and conditions on which the partnership firm functions. It also provides clear cut information on the total number of partners. It includes the name of the firm, the name and addresses of the partners, the capital contribution of each partner, profit-sharing ratios, rules for admission and retirement of partners, and dissolution procedures."
+        },
+        {
+          "question": "Why is a partnership deed necessary?",
+          "answer": "A partnership deed is necessary to avoid any disputes among the partners and to establish a clear understanding of the roles and responsibilities of each partner. It also helps to protect the interests of the partners in the event of disputes or dissolution of the partnership."
+        },
+        {
+          "question": "How can I transfer my partnership firm?",
+          "answer": "The transfer to a partnership firm involves signing the partnership deed, contributing capital, and obtaining the consent of all the partners. The transfer process may also require the transfer or to fulfil other obligations under the partnership deed and the law."
+        },
+        {
+          "question": "Can I convert my partnership firm into a company/LLP?",
+          "answer": "Yes, a partnership firm can be converted into a Company or LLP (Limited Liability Partnership) by following the necessary legal formalities and procedures as per the Companies Act, 2013 or LLP Act, 2008."
+        },
+        {
+          "question": "How to open a bank account for a partnership firm?",
+          "answer": "The following paperwork is typically needed to open a bank account for a partnership firm:<li>Deed of partnership</li><li>Address on the PAN card for the partnership firm</li><li>Evidence of the partnership</li><li>Company ID evidence of each partner's participation</li><li>Partnership business registration document (if registered)</li><li>GST registration document (if applicable)</li><li>All partners' KYC records</li><li>Board decision approving a partner's opening a bank account</li><li>A pair of passport-sized images of each partner.</li>"
+        },
+        {
+          "question": "How many partners are required to form a partnership firm?",
+          "answer": "A minimum of two partners is required to form a partnership firm."
+        },
+        {
+          "question": "Who is eligible to be a partner in a partnership firm?",
+          "answer": "Any individual or entity capable of entering into a contract can become a partner in a partnership firm."
+        },
+        {
+          "question": "What is the minimum capital for a partnership firm?",
+          "answer": "There is no minimum capital requirement for a partnership firm."
+        },
+        {
+          "question": "When a partnership firm is liable for audit?",
+          "answer": "A partnership firm is liable for audit if its turnover exceeds ₹1 crore in a financial year."
+        },
+        {
+          "question": "What are the factors to consider before forming a partnership?",
+          "answer": "Factors to consider before forming a partnership include mutual trust, understanding, complementary skills, and shared goals."
+        },
+        {
+          "question": "How do you prepare a partnership balance sheet?",
+          "answer": "To prepare a partnership balance sheet, the assets, liabilities, and capital of the partnership are listed and balanced."
+        },
+        {
+          "question": "What is a partnership registration number?",
+          "answer": "Partnership registration number is a unique identification number assigned to a partnership firm upon registration with the registrar of firms."
+        },
+        {
+          "question": "Is it compulsory for partnership firms to file income tax returns?",
+          "answer": "Yes, it is compulsory for a partnership firm to file income tax returns."
+        },
+        {
+          "question": "How is tax calculated for a partnership?",
+          "answer": "The income tax of a partnership is calculated on the basis of its total income, which is divided among the partners as per their profit-sharing ratio."
+        },
+        {
+          "question": "What is the rate of partnership taxation?",
+          "answer": "The rate of taxation for a partnership firm is the same as that for an individual taxpayer, based on the applicable income tax slab rates."
+        }
+      ]
+    },
+    "recommendedPages": {
+      "title": "Other Important Pages Related to Partnership Registration",
+      "links": [
+        {
+          "name": "Partnership Deed",
+          "url": "partnership-deed"
+        },
+        {
+          "name": "Partnership Deed Format",
+          "url": "partnership-deed-format"
+        },
+        {
+          "name": "Affiliate Partnership",
+          "url": "affiliate-partnership"
+        }
+      ]
+    },
+    "recentUpdates": [],
+    "serviceTypes": {
+      "title": "Types of Government Registrations",
+      "rows": [
+        "Recommended For",
+        "Ease of Accommodating Investment",
+        "Limited Liability Protection",
+        "Tax Advantages",
+        "Perpetual Existence",
+        "Statutory Compliances"
+      ],
+      "cols": [
+        " Partnership Firm ",
+        " Limited Liability Partnership ",
+        " One Person Company ",
+        " Private Limited Company ",
+        " Sole Proprietorship "
+      ],
+      "values": [
+        [
+          "Home businesses",
+          "Almost impossible",
+          "No",
+          "Minimal",
+          "No",
+          "Minimal"
+        ],
+        [
+          "Professional services firms",
+          "Possible, but unlikely",
+          "Yes",
+          "Most efficient",
+          "Yes",
+          "Low"
+        ],
+        [
+          "Sole promoters",
+          "Possible, but severely unlikely ",
+          "Yes",
+          "Few benefits",
+          "Yes",
+          "High"
+        ],
+        [
+          "Start-ups and growing companies",
+          "Very easy to accommodate",
+          "Yes",
+          "Few benefits",
+          "Yes",
+          "High"
+        ],
+        [
+          "Small traders and manufacturers",
+          "Impossible",
+          "No",
+          "Minimal",
+          "No",
+          "Minimal"
+        ]
+      ],
+      "links": [
+        "",
+        "/llp-registration-india",
+        "/one-person-company-opc-india",
+        "/online-company-registration",
+        "/proprietorship-registration-india-sole-proprietorship"
+      ]
+    },
+    "gridContent": {
+      "title": "Why Vakilsearch",
+      "content": [
+        {
+          "title": "8 BUSINESS DAYS",
+          "text": "Getting the partnership deed is very simple. All you got to do is tell us about your company or business and we will get the partnership deed processed in 8 business days. Along with your request, we will be working on 400 business registrations every month"
+        },
+        {
+          "title": "9.1 CUSTOMER SCORE",
+          "text": "We make your interaction with government as smooth as is possible by doing all the paperwork for you. We will also give you absolute clarity on the process to set realistic expectations."
+        },
+        {
+          "title": "160 STRONG TEAM",
+          "text": "Our team of experienced business advisors are a phone call away, should you have any queries about the process. But we'll try to ensure that your doubts are cleared before they even arise."
+        }
+      ]
+    },
+    "additionBannerContent": {
+      "spanclick": true,
+      "spanclickcontent": {
+        "tables": [
+          {
+            "header_title": "Statutory Fees",
+            "rows": ["State", "Total Fees (All inclusive)"],
+            "columns": [
+              ["", "<b>Stamp Duty</b>"],
+              ["Delhi", "₹7500"],
+              ["Tamilnadu", "₹3500"],
+              ["Telangana", "₹6000"],
+              ["Karnataka", "₹7100"],
+              ["Bihar", "₹4500"],
+              ["Mumbai", "₹9500"],
+              ["Pune", "₹20000"]
+            ]
+          }
+        ]
+      }
+    },
+    "tarsbotScript": "ByTo3M",
+    "hideformfields": true,
+    "citywidth": true,
+    "hidelangfield": "NA",
+    "nofreeconsultation": true,
+    "newbanner": false,
+    "newcontentgst": true,
+    "subheading4": "",
+    "submitbtn": "Consult an Expert",
+    "legalbtn": "",
+    "moreDetailsnew": "",
+    "video": ""
+  },
+  "dashboardtm": true,
+  "languages": ["hindi"],
+  "bannerBottomContent": "Get complimentary access to our Invoicing & Accounting tool- DASH"
+}

@@ -1,0 +1,445 @@
+{
+  "url": "farmer-producer-company-registration",
+  "serviceName": "FPO registration",
+  "whitenav": true,
+  "sliderwidth": true,
+  "showCityField": true,
+  "hideStateField": true,
+  "Noflag": true,
+  "hidePartnerList": true,
+  "canonical": true,
+  "b2bServicePage": true,
+  "showClickToWatch": true,
+  "canonicalUrl": "farmer-producer-company-registration",
+  "pageTitle": "Farmer Producer Company | FPO Registration Online - Vakilsearch",
+  "meta": {
+    "title": "Farmer Producer Company Registration: Types, Documents, Process",
+    "keyword": "farmer producer organisation, farmer producer company, fpo farmer producer organisation, fpo registration, fpo registration process, farmer producer company registration, farmer producer company registration process, producer company registration, fpo registration online, incorporation of producer company, producer company incorporation",
+    "description": "Simplify your FPO registration process with Vakilsearch. Establish a farmer-owned organization for small and marginal farmers. Get assistance now!"
+  },
+  "schema": {
+    "articleSchema": {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://vakilsearch.com/farmer-producer-company-registration"
+      },
+      "headline": "Farmer Producer Company Registration: Types, Documents, Process",
+      "description": "Simplify your FPO registration process with Vakilsearch. Establish a farmer-owned organization for small and marginal farmers. Get assistance now!",
+      "image": {
+        "@type": "ImageObject",
+
+        "url": "https://vakilsearch.com/blog/wp-content/uploads/2023/04/farmer-producer-company-registraton.jpg"
+      },
+      "articleSection": "v2",
+      "keywords": "farmer producer organisation,farmer producer company,fpo farmer producer organisation,fpo registration,farmer producer organization,fpo registration process,farmer producer company registration,farmer producer company registration process,producer company registration,fpo registration online,incorporation of producer company,producer company incorporation.",
+      "datePublished": "",
+      "dateModified": "",
+      "author": {
+        "@type": "Person",
+        "name": "VakilSearch"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "VakilSearch",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjpD1lt7g1naDsHjs2yuf-KpP9QtH0D9MJ30uqVkvc&s",
+          "width": 800,
+          "height": 344
+        }
+      }
+    }
+  },
+  "content": {
+    "serviceId": "238",
+    "workflow": "fpcr-onboarding",
+    "title": "Farmer Producer Company Registration in India",
+    "formTitle": "Register Producer Company",
+    "hideLine": true,
+    "newtestimonialWithReview": true,
+    "bannerBottomContent": "Get Partner Benefits Worth Upto 4 lakhs by Incorporating Your Company With Us!",
+    "b2bBanner": true,
+    "formSection": {
+      "title": "Farmer Producer Company Registration in India",
+      "subTitle": "",
+      "list": [
+        "Effortlessly register your Farmer Producer Company under the Ministry of Corporate Affairs",
+        "Transparent process, thorough follow up and regular updates"
+      ],
+      "formTitle": "Get Started!",
+      "submitCTA": "Talk to registration expert",
+      "secondaryFormSection": {
+        "formTitle": "Get me more details",
+        "submitCTA": "Talk to registration expert",
+        "hasLanguageField": true,
+        "bannerKey": "easy-monthly-emi"
+      }
+    },
+    "partnerBenefits": true,
+    "partnerBenefitsContent": {
+      "href": "section11",
+      "title": " Exclusive Partner Benefits for Vakilsearch Clients",
+      "subTitle": "Benefits worth up to <b>4 lakhs</b> when you Incorporate with us!",
+      "partners": [
+        {
+          "image": "https://assets.vakilsearch.com/llp/bank-partners-min.png",
+          "width": 285,
+          "height": 24,
+          "alt": "bank",
+          "benefitText": "Current Bank",
+          "benefits": [
+            "Zero Balance current account for 1 year",
+            "Get upto 7% interest on deposits "
+          ]
+        },
+        {
+          "image": "https://assets.vakilsearch.com/llp/cloud-min.png",
+          "width": 251,
+          "height": 24,
+          "alt": "cloud",
+          "benefitText": "Cloud based HRMS payroll",
+          "benefits": [
+            "Few tap attendance/Leave tracking",
+            "Mobile app for employees"
+          ]
+        },
+        {
+          "image": "https://assets.vakilsearch.com/llp/nium-min.png",
+          "width": 87,
+          "height": 24,
+          "alt": "nium",
+          "benefitText": "Cloud based HRMS payroll",
+          "benefits": [
+            "Offer your clients to pay in their local currency",
+            "Convert the funds at great FX rates",
+            "Get money into your account within 24-48 hh"
+          ]
+        },
+        {
+          "image": "https://assets.vakilsearch.com/llp/nowfloats-new-min.png",
+          "width": 166,
+          "height": 24,
+          "alt": "nowfloat",
+          "benefitText": "Website development",
+          "benefits": [
+            "Create your website within minutes",
+            "Get a custom domain",
+            "No server or hosting fee"
+          ]
+        },
+        {
+          "image": "https://assets.vakilsearch.com/llp/chqbook-new-min.png",
+          "width": 86,
+          "height": 24,
+          "alt": "chqbook",
+          "benefitText": "Business loan",
+          "benefits": [
+            "Business loan approved in under 72 hours",
+            "Collateral-free loans",
+            "Digital process, minimal documentation"
+          ]
+        },
+        {
+          "image": "https://assets.vakilsearch.com/llp/bimakavach-min.png",
+          "width": 211,
+          "height": 24,
+          "alt": "bimakavach",
+          "benefitText": "Business Insurance Made Easy",
+          "benefits": [
+            "Directors & Officers Insurance",
+            "Crime Insurance",
+            "Product Liability Insurance"
+          ]
+        }
+      ]
+    },
+    "menus": [
+      {
+        "title": "Farmer Producer Company",
+        "href": "#section1"
+      },
+      {
+        "title": "What Is Farmer Producer Organisation?",
+        "href": "#section2"
+      },
+      {
+        "title": "Role of Farmer Producer Organisation",
+        "href": "#section3"
+      },
+      {
+        "title": "Types of Farmer Producer Company",
+        "href": "#section4"
+      },
+      {
+        "title": "Documents Required for FPO Registration",
+        "href": "#section5"
+      },
+      {
+        "title": "FPO Registration Process",
+        "href": "#section6"
+      },
+      {
+        "title": "Advantages of a FPO Registration",
+        "href": "#section7"
+      },
+      {
+        "title": "Why vakilsearch",
+        "href": "#section8"
+      },
+      {
+        "title": "FAQs",
+        "href": "#section9"
+      },
+      {
+        "title": "Recent Updates",
+        "href": "#section10"
+      },
+      {
+        "title": "Partner Benefits",
+        "href": "#section11",
+        "new": true
+      }
+    ],
+    "summary": {
+      "title": "How To Register A Farmer Producer Company?",
+      "description": "Vakilsearch assists you in Farmer Producer Company Registration Process at every stage until the MCA issues you a certificate of incorporation.",
+      "steps": [
+        {
+          "title": "Name Reservation",
+          "description": "We help you with your company’s name reservation. We ensure the name should have the words ‘PRODUCER COMPANY’ at the end.",
+          "sign": "https://assets.vakilsearch.com/live-images/website_revamp/new-service-step3.svg"
+        },
+        {
+          "title": "DSCs & DIN",
+          "description": "We help you get 5 DSCs and 1 DIN.",
+          "sign": "https://assets.vakilsearch.com/live-images/website_revamp/new-service-step2.svg"
+        },
+        {
+          "title": "Drafting & Filing",
+          "description": "We draft and file the documents required for your producer company registration (MoA, AoA, PAN & TAN).",
+          "sign": "https://assets.vakilsearch.com/live-images/website_revamp/new-service-step3.svg"
+        }
+      ]
+    },
+    "sections": [
+      [
+        {
+          "title": "Farmer Producer Company - Overview",
+          "href": "section1",
+          "text": "A Producer Company was introduced in India with the Companies Act, 2013. It gives persons engaged in activities related to producing (what has been grown or produced, particularly by farming) the opportunity to form a company. A <strong>farmer producer company</strong> can be formed by 10 or more producers (persons involved in, or in activities related to, produce or growth), two or more producer institutions or a combination of 10 or more producers and producer institutions. Such a company can only have equity capital, require a minimum of five directors and an authorised capital of ₹ 5 lakh. The procedure for forming a Farmer Producer company is similar to the one for forming a private limited company."
+        }
+      ],
+      [
+        {
+          "title": "What is the Farmer Producer Organisation (FPO)?",
+          "href": "section2",
+          "text": "A Farmer Producer Organisation (FPO) is a group of farmers who come together to form a company or an organisation, with the aim of increasing their bargaining power and improving their economic status. FPOs are typically formed to help small and marginal farmers, and they are regulated by the Indian Companies Act, 2013."
+        }
+      ],
+      [
+        {
+          "title": "What is the Role of Farmer Producer Organisation (FPO)?",
+          "href": "section3",
+          "items": "Provide quality production inputs like seed, fertiliser, pesticides, and other inputs at wholesale rates that are reasonably lower | Make production and post-production machinery and equipment, such as cultivators, tillers, sprinkler sets, combine harvesters, and others, available on a custom hiring basis to members to reduce per-unit production costs | Offer value-added services such as cleaning, assaying, sorting, grading, packing, and farm-level processing facilities at affordable user charges. Additionally, storage and transportation facilities may be provided | Engage in higher income-generating activities like seed production, beekeeping, mushroom cultivation, and more | Aggregate smaller lots of farmer-members' produce and add value to make them more marketable | Provide market information about the produce to facilitate judicious decision-making in production and marketing | Offer logistics services like storage, transportation, loading/unloading, etc., on a shared cost basis | Market the aggregated produce with better negotiation strength to buyers and in marketing channels that offer better and more remunerative prices."
+        }
+      ],
+      [
+        {
+          "title": "Types of Farmer Producer Company",
+          "href": "section4",
+          "heading": "Production Businesses",
+          "text": "The main functions of producer companies are production, procurement or manufacture of any primary produce for its members (for further sale) and to others."
+        },
+        {
+          "heading": "Marketing Businesses",
+          "text": "Even a business involved in the marketing or promotion of primary produce or provision of educational services to members and others can constitute itself as a farmer producer company."
+        },
+        {
+          "heading": "Technical Service Businesses",
+          "text": "Any business offering technical assistance to producers, providing training and educational services or conducting research and development can register as a producer company."
+        },
+        {
+          "heading": "Financing Businesses",
+          "text": "Any business financing producer activities, be it in the production, marketing or development domain, can register itself as a farmer producer company."
+        },
+        {
+          "heading": "Infrastructure Businesses",
+          "text": "Businesses involved in providing infrastructure to producers, whether in the form of electricity, water resources, irrigation techniques, land utilisation, or consultation with regard to the same, may constitute themselves as a producer company."
+        },
+        {
+          "serviceImage": [
+            {
+              "imgurl": "live-images/infographics/types-of-producer-companies.jpg",
+              "alt": "farmer producer company"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "title": "Documents Required for FPO Registration",
+          "href": "section5",
+          "heading": "TO BE SUBMITTED BY DIRECTORS & SHAREHOLDERS",
+          "items": " Scanned copy of PAN Card or Passport (Foreign Nationals &amp; NRIs) |Scanned copy of Voter&apos;s ID/Passport/Driver&apos;s License |Scanned copy of Latest Bank Statement/Telephone or Mobile Bill/Electricity or Gas Bill |Passport-size Photograph |Specimen signature (blank document with signature [directors only])  "
+        },
+        {
+          "text": "<b>Note:</b> Any one of the directors must self-attest the first three documents. In the case of foreign nationals and NRIs, all the documents must be notarised (if currently in India or a non-Commonwealth country) or apostilled (if in a Commonwealth country)."
+        },
+        {
+          "heading": "FOR THE REGISTERED OFFICE",
+          "items": " Scanned copy of Latest Bank Statement/Telephone or Mobile Bill/Electricity or Gas Bill |Scanned copy of Notarised Rental Agreement in English |Scanned copy of No-objection Certificate from property owner | Scanned copy of <a href='https://vakilsearch.com/sale-deed'><b>sale deed registration</b></a>/Property Deed in English (in case of owned property)"
+        },
+        {
+          "text": "<b>Note:</b> Your registered office need not be a commercial space; it can be your residence, too."
+        }
+      ],
+      [
+        {
+          "title": "FPO Registration Process",
+          "href": "section6",
+          "heading": "5 Business Days",
+          "text": "A minimum of five directors must apply for a <a href='https://vakilsearch.com/dsc-registration'><b>digital signature registration online</b></a>, which is necessary to file the producer company registration documents. For this, you will only need to provide a few scanned documents and details; our representatives will fill the form and submit it online."
+        },
+        {
+          "heading": "7 Business Days",
+          "text": "As soon as we apply for the DSC, we will prepare the SPICe i.e. INC-32 documents. These documents will take around a week to prepare, and will include the name for your company, the Memorandum of Association (MoA) and Articles of Association (AoA). Once these documents are prepared satisfactorily, they will be submitted to the RoC."
+        },
+        {
+          "heading": "10 TO 15 Business Days",
+          "text": "Depending on the workload of the RoC, the documents will be approved in 10 to 15 days. Once approved, the Certificate of Incorporation will be mailed to your registered office address. With this document, you can apply for a Permanent Account Number (PAN) and Tax Account Number (TAN), both of which are necessary for opening a bank account in the name of the business."
+        }
+      ],
+      [
+        {
+          "title": "Advantages of a FPO Registration",
+          "href": "section7",
+          "heading": "Limited Liability",
+          "text": "All businesses can run the risk of not being able to repay their liabilities. It is a necessary evil. In this event, a sole proprietor (or individual producer) would be personally liable for all the debts of the business. The members of a producer company, on the other hand, have unlimited liability as the company is an entity in itself. Therefore, only the amount invested in the business would be lost; the personal property of the directors would be safe.",
+          "icontype": "home"
+        },
+        {
+          "heading": "Economies Of Scale",
+          "text": "Only 15% of India's farmers own over two acres of land. The majority of farmers are, therefore, unable to safely unlock the advantages that come with economies of scale. With a farmer producer company, multiple farmers can work as a collective and lower costs, reduce risk and even get access to better credit facilities. This enables better planning and bargaining power with buyers.",
+          "icontype": "tick"
+        },
+        {
+          "heading": "Better Management",
+          "text": "Rather than a single farmer managing the entire business, work within a producer company can be divided between its directors. The entity is managed by the Board of Management, which has a tenure of five years. Also, a Producer company has a separate legal existence, which means that it isn't affected by the death of any of its members.",
+          "icontype": "currency"
+        }
+      ],
+      [
+        {
+          "title": "Why Vakilsearch?",
+          "href": "section8",
+          "heading": "35 Business Days",
+          "text": "Farmer producer company registration process takes anywhere around 32-35 business days(subject to government authorisation). Every month we handle 400 requests for registrations, so let us in about your business and we’ll get the process initiated as soon as we can."
+        },
+        {
+          "heading": "9.1 Customer Score",
+          "text": "We make your interaction with the government as smooth as is possible by doing all the paperwork for you. We will also give you absolute clarity on the process to set realistic expectations."
+        },
+        {
+          "heading": "160 Strong Team",
+          "text": "Our team of experienced business advisors are a phone call away, should you have any queries about the process. But we'll try to ensure that your doubts are cleared before they even arise."
+        }
+      ]
+    ],
+    "faqs": {
+      "href": "section9",
+      "items": [
+        {
+          "question": "What is the Farmer Producer Organisation (FPO)?",
+          "answer": "Farmers are the members of a Farmer Producer Organisation (FPO). It is a producer-run association that unites all types of products, including artisanal, agricultural, and non-farm products. FPO promotion is aided by the Small Farmers' Agribusiness Consortium (SFAC)."
+        },
+        {
+          "question": "What are the goals of the Farmer Producer Organisation (FPO)?",
+          "answer": "Goals of the farmer producer organisation seek to boost farmers' competitiveness and advantage in emerging market prospects. The FPOs' main activities include providing seed, market connections, fertiliser, machinery, training, finance, networking, and technical advice."
+        },
+        {
+          "question": "What are the features of Farmer Producer Organisation (FPO)",
+          "answer": "Some of the features of farmer producer company involves: <br> 1. FPOs are controlled by farmer-members who make decisions and policies <br> 1. FPOs are open to all without discrimination <br> 3. FPOs provide training and education for members and employees <br> 4. FPOs are formed through CBBOs at cluster or state level <br> 5. FPOs are promoted under 'One District One Product' for better branding and exports <br> 6. CBBOs provide initial training and hand-holding to FPOs <br> 7. Aspirational districts get priority for FPO formation, with at least one FPO in every block.<br>"
+        },
+        {
+          "question": "What is the promotion of the Farmer Producer Organisation (FPO) by the Government?",
+          "answer": "The FPOs run by the NABARD, SFAC, NGOs, and state governments have been heavily pushed by the government since 2011. A five-year tax exemption was among the measures for assisting FPOs that were announced in the Budget 2018-19. The Budget 2019–20 mentioned creating 10,000 more FPOs over the following five years."
+        },
+        {
+          "question": "What are the activities to be undertaken by the Farmer Producer Organisation?",
+          "answer": "Farmer producer organisations serve farmers by offering high-quality inputs at lower wholesale prices, need-based machinery and equipment on an as-needed basis, value-added services at competitive pricing, and storage and transportation facilities. They also engage in higher-paying jobs including growing mushrooms, beekeeping, and seed production."
+        },
+        {
+          "question": "What is a producer company?",
+          "answer": " A producer company is a legal structure created by farmers, craftspeople, or other producers that carries out operations including the production, promotion, and export of fresh food."
+        },
+        {
+          "question": "What are producer companies in India?",
+          "answer": "Another division of Private and Public Company is Producer Company. These business models resemble cooperative societies in many ways. Only 'primary producers' or 'producer institutions' are permitted to establish producer corporations and take part in their ownership."
+        },
+        {
+          "question": "Who owns the Farmer Producer Company?",
+          "answer": "Farmers who are members of a Farmer Producer Company own it. Under the Companies Act,2013 it is recognised as a company and is governed by the cooperative principles. The FPC's members elect a board of directors, who are in charge of running the business and making decisions on the members' behalf."
+        },
+        {
+          "question": "Is the Farmer Producer Organisation a good investment?",
+          "answer": "Supporting smallholder farmers and advancing sustainable agriculture can be accomplished by making investments in Farmer Producer Organisations (FPOs). Like any investment, there are risks, and results might not be seen right away. Before making an investment, it is crucial to carefully evaluate the financial viability and potential effects of an FPO."
+        },
+        {
+          "question": "Do I need to be physically present during this process?",
+          "answer": "This isn't required. The entire process is now automated and handled online. You will receive the DIN numbers and Certificate of Incorporation by e-mail from the Ministry of Corporate Affairs (MCA)."
+        },
+        {
+          "question": "How much time is needed for setting up a producer company in India?",
+          "answer": "Expect it to take 35 to 40 days to complete the entire procedure. This will, however, depend on whether you have all your papers in order and the workload of the RoC."
+        },
+        {
+          "question": "What are the rules for picking a name for a producer company?",
+          "answer": "Every company has two parts to its name. The first part is unique. For example, 'WIPRO' or 'MERCEDES-BENZ'. The second part describes the business activity of the company. For example, 'Legal Solutions' or 'Technologies'. This second part must be as descriptive as possible. The name of the company must end with 'Producer Company Limited'."
+        },
+        {
+          "question": "What documents need to be submitted to start a producer company?",
+          "answer": "Most importantly, all directors must have an identity and address proof and rights to practice on the property they are operating on. The owner of the registered office will also need to submit an NoC, stating that the company may operate from that location."
+        },
+        {
+          "question": "Will my producer company have a continuous existence?",
+          "answer": "All companies are legal entities by themselves. Therefore, they have a continuous existence. The only way a producer company can cease to exist (other than shutting it down voluntarily) is if the annual compliances are not met or if the creditors/courts force its closure."
+        },
+        {
+          "question": "Will the books of a producer company need auditing?",
+          "answer": "Yes, a producer company must have its books audited from its very first year. And in case turnover crosses ₹5 crore, it must employ a full-time company secretary to manage its affairs."
+        },
+        {
+          "question": "What is the maximum loan amount for FPO?",
+          "answer": "The maximum loan amount for FPOs (Farmer Producer Organisations) depends on various factors such as the size of the organisation, the purpose of the loan, and the creditworthiness of the FPO. The loan amount can range from a few lakhs to crores of Indian."
+        },
+        {
+          "question": "What is the minimum capital for a farmer producer company?",
+          "answer": "The minimum capital requirement for a Farmer Producer Company (FPC) in India is ₹5 lakh. This capital can be raised by the members of the FPC through the issuance of shares. The FPC must have a minimum of 10 members, who can be individuals or institutions, and the maximum number of members is limited to 50."
+        }
+      ]
+    },
+    "recentUpdates": {
+      "title": "Recent Updates",
+      "href": "section10",
+      "items": [
+        {
+          "text": "<b>December 9, 2022</b>"
+        },
+        {
+          "text": "The first licenced private agriculture mandi in India is being constructed by a Farmer Producer Company (FPC) in the Nashik district. The Sahyadri Farmer Producer Company, a Farmer Producer Company (FPC), is constructing India's first authorised private agricultural market yard. Additionally, it is creating an internet trading platform. Farmers act as producers, warehousers, and marketers in this situation, hence the decentralisation greatly increases farmers' earnings."
+        },
+        {
+          "text": "<b>November 28, 2022</b>"
+        },
+        {
+          "text": "The Tuichangral FPC in the Khawzawl district of Mizoram State was named the best FPC in the State for encouraging more than 50 Farmer Producer Companies (FPCs) to adopt organic farming practices, meeting the goal of selling 18 MT of organic pineapple and 350 MT of organic ginger in the State of Mizoram, and making outstanding contributions to the agricultural industry."
+        }
+      ]
+    },
+    "tarsbotScript": "rJiev5",
+    "video": "https://www.youtube.com/embed/Ano0-T8-gm8?autoplay=1"
+  },
+  "languages": ["hindi"]
+}

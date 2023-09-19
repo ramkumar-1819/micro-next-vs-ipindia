@@ -1,0 +1,2626 @@
+[ 
+    {
+      "baseUrl": "sole-proprietorship-registration",
+      "baseHeading": "Sole Proprietorship Registration Customised by States",
+      "stateWiseHeading": "Explore Other States for Sole Proprietorship Registration",
+      "stateList": [
+        {
+          "id": 1,
+          "name": "Sole Proprietorship Registration in Maharashtra",
+          "url": "sole-proprietorship-registration-india/maharashtra"
+        },
+        {
+          "id": 2,
+          "name": "Sole Proprietorship Registration in Karnataka",
+          "url": "sole-proprietorship-registration-india/karnataka"
+        },
+        {
+          "id": 3,
+          "name": "Sole Proprietorship Registration in Tamil Nadu",
+          "url": "sole-proprietorship-registration-india/tamil-nadu"
+        },
+        {
+          "id": 4,
+          "name": "Sole Proprietorship Registration in Gujarat",
+          "url": "sole-proprietorship-registration-india/gujarat"
+        },
+        {
+          "id": 5,
+          "name": "Sole Proprietorship Registration in Uttar Pradesh",
+          "url": "sole-proprietorship-registration-india/uttar-pradesh"
+        },
+        {
+          "id": 6,
+          "name": "Sole Proprietorship Registration in Rajasthan",
+          "url": "sole-proprietorship-registration-india/rajasthan"
+        },
+        {
+          "id": 7,
+          "name": "Sole Proprietorship Registration in Punjab",
+          "url": "sole-proprietorship-registration-india/punjab"
+        },
+        {
+          "id": 8,
+          "name": "Sole Proprietorship Registration in Madhya Pradesh",
+          "url": "sole-proprietorship-registration-india/madhya-pradesh"
+        },
+        {
+          "id": 9,
+          "name": "Sole Proprietorship Registration in Odisha",
+          "url": "sole-proprietorship-registration-india/odisha"
+        },
+        {
+          "id": 10,
+          "name": "Sole Proprietorship Registration in Chandigarh",
+          "url": "sole-proprietorship-registration-india/chandigarh"
+        },
+        {
+          "id": 11,
+          "name": "Sole Proprietorship Registration in Uttarakhand",
+          "url": "sole-proprietorship-registration-india/uttarakhand"
+        },
+        {
+          "id": 12,
+          "name": "Sole Proprietorship Registration in Jharkhand",
+          "url": "sole-proprietorship-registration-india/jharkhand"
+        },
+        {
+          "id": 13,
+          "name": "Sole Proprietorship Registration in Chhattisgarh",
+          "url": "sole-proprietorship-registration-india/chhattisgarh"
+        },
+        {
+          "id": 14,
+          "name": "Sole Proprietorship Registration in Haryana",
+          "url": "sole-proprietorship-registration-india/haryana"
+        },
+        {
+          "id": 15,
+          "name": "Sole Proprietorship Registration in Andhra Pradesh",
+          "url": "sole-proprietorship-registration-india/andhra-pradesh"
+        },
+        {
+          "id": 16,
+          "name": "Sole Proprietorship Registration in Assam",
+          "url": "sole-proprietorship-registration-india/assam"
+        },
+        {
+          "id": 17,
+          "name": "Sole Proprietorship Registration in Jammu And Kashmir",
+          "url": "sole-proprietorship-registration-india/jammu-and-kashmir"
+        },
+        {
+          "id": 18,
+          "name": "Sole Proprietorship Registration in Delhi",
+          "url": "sole-proprietorship-registration-india/delhi"
+        },
+        {
+          "id": 19,
+          "name": "Sole Proprietorship Registration in Telangana",
+          "url": "sole-proprietorship-registration-india/telangana"
+        },
+        {
+          "id": 20,
+          "name": "Sole Proprietorship Registration in West Bengal",
+          "url": "sole-proprietorship-registration-india/west-bengal"
+        },
+        {
+          "id": 21,
+          "name": "Sole Proprietorship Registration in Kerala",
+          "url": "sole-proprietorship-registration-india/kerala"
+        },
+        {
+          "id": 22,
+          "name": "Sole Proprietorship Registration in Goa",
+          "url": "sole-proprietorship-registration-india/goa"
+        },
+        {
+          "id": 23,
+          "name": "Sole Proprietorship Registration in Bihar",
+          "url": "sole-proprietorship-registration-india/bihar"
+        },
+        {
+          "id": 24,
+          "name": "Sole Proprietorship Registration in Puducherry",
+          "url": "sole-proprietorship-registration-india/puducherry"
+        },
+        {
+          "id": 25,
+          "name": "Sole Proprietorship Registration in Himachal Pradesh",
+          "url": "sole-proprietorship-registration-india/himachal-pradesh"
+        },
+        {
+          "id": 26,
+          "name": "Sole Proprietorship Registration in Arunachal Pradesh",
+          "url": "sole-proprietorship-registration-india/arunachal-pradesh"
+        },
+        {
+          "id": 27,
+          "name": "Sole Proprietorship Registration in Manipur",
+          "url": "sole-proprietorship-registration-india/manipur"
+        },
+        {
+          "id": 28,
+          "name": "Sole Proprietorship Registration in Meghalaya",
+          "url": "sole-proprietorship-registration-india/meghalaya"
+        },
+        {
+          "id": 29,
+          "name": "Sole Proprietorship Registration in Mizoram",
+          "url": "sole-proprietorship-registration-india/mizoram"
+        },
+        {
+          "id": 30,
+          "name": "Sole Proprietorship Registration in Nagaland",
+          "url": "sole-proprietorship-registration-india/nagaland"
+        },
+        {
+          "id": 31,
+          "name": "Sole Proprietorship Registration in Sikkim",
+          "url": "sole-proprietorship-registration-india/sikkim"
+        },
+        {
+          "id": 32,
+          "name": "Sole Proprietorship Registration in Tripura",
+          "url": "sole-proprietorship-registration-india/tripura"
+        },
+        {
+          "id": 33,
+          "name": "Sole Proprietorship Registration in Lakshadweep",
+          "url": "sole-proprietorship-registration-india/lakshadweep"
+        }
+      ]
+    },
+    {
+      "baseUrl": "online-trademark-registration",
+      "baseHeading": "Trademark Registration Customised by States",
+      "stateWiseHeading": "Explore Other States for Trademark Registration",
+      "stateList": [
+        {
+          "id": 1,
+          "name": "Trademark Registration In Delhi",
+          "url": "online-trademark-registration/delhi"
+        },
+        {
+          "id": 2,
+          "name": "Trademark Registration In Kerala",
+          "url": "online-trademark-registration/kerala"
+        },
+        {
+          "id": 3,
+          "name": "Trademark Registration In Chandigarh",
+          "url": "online-trademark-registration/chandigarh"
+        },
+        {
+          "id": 4,
+          "name": "Trademark Registration In West Bengal",
+          "url": "online-trademark-registration/west-bengal"
+        },
+        {
+          "id": 5,
+          "name": "Trademark Registration In Goa",
+          "url": "online-trademark-registration/goa"
+        },
+        {
+          "id": 6,
+          "name": "Trademark Registration In Maharashtra",
+          "url": "online-trademark-registration/maharashtra"
+        },
+        {
+          "id": 7,
+          "name": "Trademark Registration In Gujarat",
+          "url": "online-trademark-registration/gujarat"
+        },
+        {
+          "id": 8,
+          "name": "Trademark Registration In Rajasthan",
+          "url": "online-trademark-registration/rajasthan"
+        },
+        {
+          "id": 9,
+          "name": "Trademark Registration In Karnataka",
+          "url": "online-trademark-registration/karnataka"
+        },
+        {
+          "id": 10,
+          "name": "Trademark Registration In Tamil Nadu",
+          "url": "online-trademark-registration/tamil-nadu"
+        },
+        {
+          "id": 11,
+          "name": "Trademark Registration In Uttar Pradesh",
+          "url": "online-trademark-registration/uttar-pradesh"
+        },
+        {
+          "id": 12,
+          "name": "Trademark Registration In Punjab",
+          "url": "online-trademark-registration/punjab"
+        },
+        {
+          "id": 13,
+          "name": "Trademark Registration In Madhya Pradesh",
+          "url": "online-trademark-registration/madhya-pradesh"
+        },
+        {
+          "id": 14,
+          "name": "Trademark Registration In Odisha",
+          "url": "online-trademark-registration/odisha"
+        },
+        {
+          "id": 15,
+          "name": "Trademark Registration In Uttarakhand",
+          "url": "online-trademark-registration/uttarakhand"
+        },
+        {
+          "id": 16,
+          "name": "Trademark Registration In Jharkhand",
+          "url": "online-trademark-registration/jharkhand"
+        },
+        {
+          "id": 17,
+          "name": "Trademark Registration In Jammu And Kashmir",
+          "url": "online-trademark-registration/jammu-and-kashmir"
+        },
+        {
+          "id": 18,
+          "name": "Trademark Registration In Chhattisgarh",
+          "url": "online-trademark-registration/chhattisgarh"
+        },
+        {
+          "id": 19,
+          "name": "Trademark Registration In Haryana",
+          "url": "online-trademark-registration/haryana"
+        },
+        {
+          "id": 20,
+          "name": "Trademark Registration In Telangana",
+          "url": "online-trademark-registration/telangana"
+        },
+        {
+          "id": 21,
+          "name": "Trademark Registration In Bihar",
+          "url": "online-trademark-registration/bihar"
+        },
+        {
+          "id": 22,
+          "name": "Trademark Registration In Puducherry",
+          "url": "online-trademark-registration/puducherry"
+        },
+        {
+          "id": 23,
+          "name": "Trademark Registration In Himachal Pradesh",
+          "url": "online-trademark-registration/himachal-pradesh"
+        },
+        {
+          "id": 24,
+          "name": "Trademark Registration In Arunachal Pradesh",
+          "url": "online-trademark-registration/arunachal-pradesh"
+        },
+        {
+          "id": 25,
+          "name": "Trademark Registration In Manipur",
+          "url": "online-trademark-registration/manipur"
+        },
+        {
+          "id": 26,
+          "name": "Trademark Registration In Meghalaya",
+          "url": "online-trademark-registration/meghalaya"
+        },
+        {
+          "id": 27,
+          "name": "Trademark Registration In Mizoram",
+          "url": "online-trademark-registration/mizoram"
+        },
+        {
+          "id": 28,
+          "name": "Trademark Registration In Nagaland",
+          "url": "online-trademark-registration/nagaland"
+        },
+        {
+          "id": 29,
+          "name": "Trademark Registration In Sikkim",
+          "url": "online-trademark-registration/sikkim"
+        },
+        {
+          "id": 30,
+          "name": "Trademark Registration In Tripura",
+          "url": "online-trademark-registration/tripura"
+        },
+        {
+          "id": 31,
+          "name": "Trademark Registration In Lakshadweep",
+          "url": "online-trademark-registration/lakshadweep"
+        },
+        {
+          "id": 32,
+          "name": "Trademark Registration In Andhra Pradesh",
+          "url": "online-trademark-registration/andhra-pradesh"
+        },
+        {
+          "id": 33,
+          "name": "Trademark Registration In Assam",
+          "url": "online-trademark-registration/assam"
+        }
+      ]
+    },
+    {
+      "baseUrl": "online-gst-registration",
+      "baseHeading": "GST Registration Customised by Cities",
+      "stateWiseHeading": "Explore Other States for GST Registration",
+      "stateList": [
+        {
+          "id": 1,
+          "name": "GST Registration in Lakshadweep",
+          "url": "online-gst-registration/Lakshadweep"
+        },
+        {
+          "id": 2,
+          "name": "GST Registration In Arunachal Pradesh",
+          "url": "online-gst-registration/arunachal-pradesh"
+        },
+        {
+          "id": 3,
+          "name": "GST Registration In Bihar",
+          "url": "online-gst-registration/bihar"
+        },
+        {
+          "id": 4,
+          "name": "GST Registration In Chandigarh",
+          "url": "online-gst-registration/chandigarh"
+        },
+        {
+          "id": 5,
+          "name": "GST Registration In Chhattisgarh",
+          "url": "online-gst-registration/chhattisgarh"
+        },
+        {
+          "id": 6,
+          "name": "GST Registration In Jharkhand",
+          "url": "online-gst-registration/Jharkhand"
+        },
+        {
+          "id": 7,
+          "name": "GST Registration In Meghalaya",
+          "url": "online-gst-registration/meghalaya"
+        },
+        {
+          "id": 8,
+          "name": "GST Registration In Jammu and Kashmir",
+          "url": "online-gst-registration/jammu-and-kashmir"
+        },
+        {
+          "id": 9,
+          "name": "GST Registration In Puducherry",
+          "url": "online-gst-registration/puducherry"
+        },
+        {
+          "id": 10,
+          "name": "GST Registration In Sikkim",
+          "url": "online-gst-registration/sikkim"
+        },
+        {
+          "id": 11,
+          "name": "GST Registration In Tripura",
+          "url": "online-gst-registration/tripura"
+        },
+        {
+          "id": 12,
+          "name": "GST Registration In Manipur",
+          "url": "online-gst-registration/manipur"
+        },
+        {
+          "id": 13,
+          "name": "GST Registration In Karnataka",
+          "url": "online-gst-registration/karnataka"
+        },
+        {
+          "id": 14,
+          "name": "GST Registration In Punjab",
+          "url": "online-gst-registration/punjab"
+        },
+        {
+          "id": 15,
+          "name": "GST Registration In Odisha",
+          "url": "online-gst-registration/odisha"
+        },
+        {
+          "id": 16,
+          "name": "GST Registration In Maharashtra",
+          "url": "online-gst-registration/maharashtra"
+        },
+        {
+          "id": 17,
+          "name": "GST Registration In Gujarat",
+          "url": "online-gst-registration/gujarat"
+        },
+        {
+          "id": 18,
+          "name": "GST Registration In Uttarakhand",
+          "url": "online-gst-registration/uttarakhand"
+        },
+        {
+          "id": 19,
+          "name": "GST Registration In Telangana",
+          "url": "online-gst-registration/telangana"
+        },
+        {
+          "id": 20,
+          "name": "GST Registration In Madhya Pradesh",
+          "url": "online-gst-registration/madhya-pradesh"
+        },
+        {
+          "id": 21,
+          "name": "GST Registration In Delhi",
+          "url": "online-gst-registration/delhi"
+        },
+        {
+          "id": 22,
+          "name": "GST Registration In Kerala",
+          "url": "online-gst-registration/Kerala"
+        },
+        {
+          "id": 23,
+          "name": "GST Registration In Goa",
+          "url": "online-gst-registration/goa"
+        },
+        {
+          "id": 24,
+          "name": "GST Registration In West Bengal",
+          "url": "online-gst-registration/west-bengal"
+        },
+        {
+          "id": 25,
+          "name": "GST Registration In Tamil Nadu",
+          "url": "online-gst-registration/tamil-nadu"
+        },
+        {
+          "id": 26,
+          "name": "GST Registration In Rajasthan",
+          "url": "online-gst-registration/rajasthan"
+        },
+        {
+          "id": 27,
+          "name": "GST Registration In Haryana",
+          "url": "online-gst-registration/haryana"
+        },
+        {
+          "id": 28,
+          "name": "GST Registration In Uttar-Pradesh",
+          "url": "online-gst-registration/uttar-pradesh"
+        },
+        {
+          "id": 29,
+          "name": "GST Registration In Andhra-Pradesh",
+          "url": "online-gst-registration/andhra-pradesh"
+        },
+        {
+          "id": 30,
+          "name": "GST Registration In Assam",
+          "url": "online-gst-registration/gst-registration-in-assam"
+        },
+        {
+          "id": 31,
+          "name": "GST Registration In Mizoram",
+          "url": "online-gst-registration/gst-registration-in-mizoram"
+        },
+        {
+          "id": 32,
+          "name": "GST Registration In Daman And Diu",
+          "url": "online-gst-registration/gst-registration-in-daman-and-diu"
+        },
+        {
+          "id": 33,
+          "name": "GST Registration In Andaman And Nicobar",
+          "url": "online-gst-registration/gst-registration-in-andaman-nicobar-island"
+        },
+        {
+        "id": 34,
+        "name": "GST Registration In Ahmedabad",
+        "url": "online-gst-registration/gujarat/ahmedabad"
+      },
+      {
+        "id": 35,
+        "name": "GST Registration in Pune",
+        "url": "online-gst-registration/maharashtra/pune"
+      },
+      {
+        "id": 36,
+        "name": "GST Registration In Agra",
+        "url": "online-gst-registration/uttar-pradesh/agra"
+      },
+      {
+        "id": 37,
+        "name": "GST Registration In Aligarh",
+        "url": "online-gst-registration/uttar-pradesh/aligarh"
+      },
+      {
+        "id": 38,
+        "name": "GST Registration In Amravati",
+        "url": "online-gst-registration/maharashtra/amravati"
+      },
+      {
+        "id": 39,
+        "name": "GST Registration In Gurgaon",
+        "url": "online-gst-registration/haryana/gurgaon"
+      },
+      {
+        "id": 40,
+        "name": "GST Registration In Faridabad",
+        "url": "online-gst-registration/haryana/faridabad"
+      },
+      {
+        "id": 41,
+        "name": "GST Registration In Dehradun",
+        "url": "online-gst-registration/uttarakhand/dehradun"
+      },
+      {
+        "id": 42,
+        "name": "GST Registration In Nagpur",
+        "url": "online-gst-registration/maharastra/nagpur"
+      },
+      {
+        "id": 43,
+        "name": "GST Registration In Ghaziabad",
+        "url": "online-gst-registration/uttar-pradesh/ghaziabad"
+      },
+      {
+        "id": 44,
+        "name": "GST Registration In Gorakhpur",
+        "url": "online-gst-registration/uttar-pradesh/gorakhpur"
+      },
+      {
+        "id": 45,
+        "name": "GST Registration In Jaipur",
+        "url": "online-gst-registration/rajasthan/jaipur"
+      },
+      {
+        "id": 46,
+        "name": "GST Registration In Guwahati",
+        "url": "online-gst-registration/assam/guwahati"
+      },
+      {
+        "id": 47,
+        "name": "GST Registration In Indore",
+        "url": "online-gst-registration/madhya-pradesh/indore"
+      },
+      {
+        "id": 48,
+        "name": "GST Registration In Hyderabad",
+        "url": "online-gst-registration/telangana/hyderabad"
+      },
+      {
+        "id": 49,
+        "name": "GST Registration In Trichy",
+        "url": "online-gst-registration/tamil-nadu/trichy"
+      },
+      {
+        "id": 50,
+        "name": "GST Registration In Kochi",
+        "url": "online-gst-registration/kerala/kochi"
+      },
+      {
+        "id": 51,
+        "name": "GST Registration In Madurai",
+        "url": "online-gst-registration/tamil-nadu/madurai"
+      },
+      {
+        "id": 52,
+        "name": "GST Registration In Kolkata",
+        "url": "online-gst-registration/west-bengal/kolkata"
+      },
+      {
+        "id": 53,
+        "name": "GST Registration In Lucknow",
+        "url": "online-gst-registration/uttar-pradesh/lucknow"
+      },
+      {
+        "id": 54,
+        "name": "GST Registration In Ranchi",
+        "url": "online-gst-registration/jharkhand/ranchi"
+      },
+      {
+        "id": 55,
+        "name": "GST Registration In Noida",
+        "url": "online-gst-registration/uttar-pradesh/noida"
+      },
+      {
+        "id": 56,
+        "name": "GST Registration In Varanasi",
+        "url": "online-gst-registration/uttar-pradesh/varanasi"
+      },
+      {
+        "id": 57,
+        "name": "GST Registration In Srinagar",
+        "url": "online-gst-registration/jammu-and-kashmir/srinagar"
+      },
+      {
+        "id": 58,
+        "name": "GST Registration In Salem",
+        "url": "online-gst-registration/tamil-nadu/salem"
+      },
+      {
+        "id": 59,
+        "name": "GST Registration In Siliguri",
+        "url": "online-gst-registration/west-bengal/siliguri"
+      },
+      {
+        "id": 60,
+        "name": "Gst Registration in Surat",
+        "url": "online-gst-registration/gujarat/surat"
+      },
+      {
+        "id": 61,
+        "name": "GST Registration In Vadodara",
+        "url": "online-gst-registration/gujarat/vadodara"
+      }
+      ]    
+    },
+    {
+      "baseUrl": "fssai-registration",
+      "baseHeading": "FSSAI Registration Customised by States and Cities",
+      "stateWiseHeading": "Explore Other States for FSSAI Registration",
+      "stateList": [
+        {
+          "id": 1,
+          "name": "FSSAI Registration in Jharkhand",
+          "url": "fssai-registration/jharkhand"
+        },
+        {
+          "id": 2,
+          "name": "FSSAI Registration In Karnataka",
+          "url": "fssai-registration/karnataka"
+        },
+        {
+          "id": 3,
+          "name": "FSSAI Registration In West Bengal",
+          "url": "fssai-registration/west-bengal"
+        },
+        {
+          "id": 4,
+          "name": "FSSAI Registration In Andhra Pradesh",
+          "url": "fssai-registration/andhra-pradesh"
+        },
+        {
+          "id": 5,
+          "name": "FSSAI Registration In Tripura",
+          "url": "fssai-registration/tripura"
+        },
+        {
+          "id": 6,
+          "name": "FSSAI Registration In Uttarakhand",
+          "url": "fssai-registration/uttarakhand"
+        },
+        {
+          "id": 7,
+          "name": "FSSAI Registration In Uttar Pradesh",
+          "url": "fssai-registration/uttar-pradesh"
+        },
+        {
+          "id": 8,
+          "name": "FSSAI Registration In Bihar",
+          "url": "fssai-registration/bihar"
+        },
+        {
+          "id": 9,
+          "name": "FSSAI Registration In Chandigarh",
+          "url": "fssai-registration/chandigarh"
+        },
+        {
+          "id": 10,
+          "name": "FSSAI Registration In Chhattisgarh",
+          "url": "fssai-registration/chhattisgarh"
+        },
+        {
+          "id": 11,
+          "name": "FSSAI Registration In Goa",
+          "url": "fssai-registration/goa"
+        },
+        {
+          "id": 12,
+          "name": "FSSAI Registration In Gujarat",
+          "url": "fssai-registration/gujarat"
+        },
+        {
+          "id": 13,
+          "name": "FSSAI Registration In Haryana",
+          "url": "fssai-registration/haryana"
+        },
+        {
+          "id": 14,
+          "name": "FSSAI Registration In Himachal Pradesh",
+          "url": "fssai-registration/himachal-pradesh"
+        },
+        {
+          "id": 15,
+          "name": "FSSAI Registration In Jammu And Kashmir",
+          "url": "fssai-registration/jammu-and-kashmir"
+        },
+        {
+          "id": 16,
+          "name": "FSSAI Registration In Kerala",
+          "url": "fssai-registration/kerala"
+        },
+        {
+          "id": 17,
+          "name": "FSSAI Registration In Lakshadweep",
+          "url": "fssai-registration/lakshadweep"
+        },
+        {
+          "id": 18,
+          "name": "FSSAI Registration In Madhya Pradesh",
+          "url": "fssai-registration/madhya-pradesh"
+        },
+        {
+          "id": 19,
+          "name": "FSSAI Registration In Manipur",
+          "url": "fssai-registration/manipur"
+        },
+        {
+          "id": 20,
+          "name": "FSSAI Registration In Meghalaya",
+          "url": "fssai-registration/meghalaya"
+        },
+        {
+          "id": 21,
+          "name": "FSSAI Registration In Mizoram",
+          "url": "fssai-registration/mizoram"
+        },
+        {
+          "id": 22,
+          "name": "FSSAI Registration In Nagaland",
+          "url": "fssai-registration/nagaland"
+        },
+        {
+          "id": 23,
+          "name": "FSSAI Registration In Odisha",
+          "url": "fssai-registration/odisha"
+        },
+        {
+          "id": 24,
+          "name": "FSSAI Registration In Puducherry",
+          "url": "fssai-registration/puducherry"
+        },
+        {
+          "id": 25,
+          "name": "FSSAI Registration In Punjab",
+          "url": "fssai-registration/punjab"
+        },
+        {
+          "id": 26,
+          "name": "FSSAI Registration In Rajasthan",
+          "url": "fssai-registration/rajasthan"
+        },
+        {
+          "id": 27,
+          "name": "FSSAI Registration In Sikkim",
+          "url": "fssai-registration/sikkim"
+        },
+        {
+          "id": 28,
+          "name": "FSSAI Registration In Tamil Nadu",
+          "url": "fssai-registration/tamil-nadu"
+        },
+        {
+          "id": 29,
+          "name": "FSSAI Registration In Telangana",
+          "url": "fssai-registration/telangana"
+        },
+        {
+          "id": 30,
+          "name": "FSSAI Registration In Andaman And Nicobar",
+          "url": "fssai-registration/andaman-and-nicobar"
+        },
+        {
+          "id": 31,
+          "name": "FSSAI Registration In Arunachal Pradesh",
+          "url": "fssai-registration/arunachal-pradesh"
+        },
+        {
+          "id": 32,
+          "name": "FSSAI Registration In Assam",
+          "url": "fssai-registration/assam"
+        },
+        {
+          "id": 33,
+          "name": "FSSAI Registration In Dadra And Nagar Haveli",
+          "url": "fssai-registration/dadra-and-nagar-haveli"
+        },
+        {
+          "id": 33,
+          "name": "FSSAI Registration In Daman And Diu",
+          "url": "fssai-registration/daman-and-diu"
+        },
+        {
+          "id": 34,
+          "name": "FSSAI Registration In Chennai",
+          "url": "fssai-registration/tamil-nadu/chennai"
+        },
+        {
+          "id": 35,
+          "name": "FSSAI Registration In Faridabad",
+          "url": "fssai-registration/haryana/faridabad"
+        },
+        {
+          "id": 36,
+          "name": "FSSAI Registration In Patna",
+          "url": "fssai-registration/bihar/patna"
+        },
+        {
+          "id": 37,
+          "name": "FSSAI Registration In Ghaziabad",
+          "url": "fssai-registration/uttar-pradesh/ghaziabad"
+        },
+        {
+          "id": 38,
+          "name": "FSSAI Registration In Gurgaon",
+          "url": "fssai-registration/haryana/gurgaon"
+        },
+        {
+          "id": 39,
+          "name": "FSSAI Registration In Jaipur",
+          "url": "fssai-registration/rajasthan/jaipur"
+        },
+        {
+          "id": 40,
+          "name": "FSSAI Registration In Kanpur",
+          "url": "fssai-registration/uttar-pradesh/kanpur"
+        },
+        {
+          "id": 41,
+          "name": "FSSAI Registration In Hyderabad",
+          "url": "fssai-registration/telangana/hyderabad"
+        },
+        {
+          "id": 42,
+          "name": "FSSAI Registration In Kolkata",
+          "url": "fssai-registration/west-bengal/kolkata"
+        },
+        {
+          "id": 43,
+          "name": "FSSAI Registration In Lucknow",
+          "url": "fssai-registration/uttar-pradesh/lucknow"
+        },
+        {
+          "id": 44,
+          "name": "FSSAI Registration In Madurai",
+          "url": "fssai-registration/tamil-nadu/madurai"
+        },
+        {
+          "id": 45,
+          "name": "FSSAI Registration In Noida",
+          "url": "fssai-registration/uttar-pradesh/noida"
+        }, {
+          "id": 46,
+          "name": "FSSAI Registration In Agra",
+          "url": "fssai-registration/uttar-pradesh/agra"
+        }
+      ]    
+    },
+    {
+      "baseUrl": "llp-registration-india",
+      "baseHeading": "Limited Liability Partnership Registration Customised by States",
+      "stateWiseHeading": "Explore Other States for Limited Liability Partnership Registration",
+      "stateList": [
+        {
+          "id": 1,
+          "name": "Limited Liability Partnership Registration in Maharashtra",
+          "url": "llp-registration-india/maharashtra"
+        },
+        {
+          "id": 2,
+          "name": "Limited Liability Partnership Registration in Karnataka",
+          "url": "llp-registration-india/karnataka"
+        },
+        {
+          "id": 3,
+          "name": "Limited Liability Partnership Registration in Tamil Nadu",
+          "url": "llp-registration-india/tamil-nadu"
+        },
+        {
+          "id": 4,
+          "name": "Limited Liability Partnership Registration in Gujarat",
+          "url": "llp-registration-india/gujarat"
+        },
+        {
+          "id": 5,
+          "name": "Limited Liability Partnership Registration in Uttar Pradesh",
+          "url": "llp-registration-india/uttar-pradesh"
+        },
+        {
+          "id": 6,
+          "name": "Limited Liability Partnership Registration in Rajasthan",
+          "url": "llp-registration-india/rajasthan"
+        },
+        {
+          "id": 7,
+          "name": "Limited Liability Partnership Registration in Punjab",
+          "url": "llp-registration-india/punjab"
+        },
+        {
+          "id": 8,
+          "name": "Limited Liability Partnership Registration in Madhya Pradesh",
+          "url": "llp-registration-india/madhya-pradesh"
+        },
+        {
+          "id": 9,
+          "name": "Limited Liability Partnership Registration in Odisha",
+          "url": "llp-registration-india/odisha"
+        },
+        {
+          "id": 10,
+          "name": "Limited Liability Partnership Registration in Chandigarh",
+          "url": "llp-registration-india/chandigarh"
+        },
+        {
+          "id": 11,
+          "name": "Limited Liability Partnership Registration in Uttarakhand",
+          "url": "llp-registration-india/uttarakhand"
+        },
+        {
+          "id": 12,
+          "name": "Limited Liability Partnership Registration in Jharkhand",
+          "url": "llp-registration-india/jharkhand"
+        },
+        {
+          "id": 13,
+          "name": "Limited Liability Partnership Registration in Chhattisgarh",
+          "url": "llp-registration-india/chhattisgarh"
+        },
+        {
+          "id": 14,
+          "name": "Limited Liability Partnership Registration in Haryana",
+          "url": "llp-registration-india/haryana"
+        },
+        {
+          "id": 15,
+          "name": "Limited Liability Partnership Registration in Andhra Pradesh",
+          "url": "llp-registration-india/andhra-pradesh"
+        },
+        {
+          "id": 16,
+          "name": "Limited Liability Partnership Registration in Assam",
+          "url": "llp-registration-india/assam"
+        },
+        {
+          "id": 17,
+          "name": "Limited Liability Partnership Registration in Jammu And Kashmir",
+          "url": "llp-registration-india/jammu-kashmir"
+        },
+        {
+          "id": 18,
+          "name": "Limited Liability Partnership Registration in Delhi",
+          "url": "llp-registration-india/delhi"
+        },
+        {
+          "id": 19,
+          "name": "Limited Liability Partnership Registration in Telangana",
+          "url": "llp-registration-india/telangana"
+        },
+        {
+          "id": 20,
+          "name": "Limited Liability Partnership Registration in West Bengal",
+          "url": "llp-registration-india/west-bengal"
+        },
+        {
+          "id": 21,
+          "name": "Limited Liability Partnership Registration in Kerala",
+          "url": "llp-registration-india/kerala"
+        },
+        {
+          "id": 22,
+          "name": "Limited Liability Partnership Registration in Goa",
+          "url": "llp-registration-india/goa"
+        },
+        {
+          "id": 23,
+          "name": "Limited Liability Partnership Registration in Bihar",
+          "url": "llp-registration-india/bihar"
+        },
+        {
+          "id": 24,
+          "name": "Limited Liability Partnership Registration in Puducherry",
+          "url": "llp-registration-india/puducherry"
+        },
+        {
+          "id": 25,
+          "name": "Limited Liability Partnership Registration in Himachal Pradesh",
+          "url": "llp-registration-india/himachal-pradesh"
+        },
+        {
+          "id": 26,
+          "name": "Limited Liability Partnership Registration in Arunachal Pradesh",
+          "url": "llp-registration-india/arunachal-pradesh"
+        },
+        {
+          "id": 27,
+          "name": "Limited Liability Partnership Registration in Manipur",
+          "url": "llp-registration-india/manipur"
+        },
+        {
+          "id": 28,
+          "name": "Limited Liability Partnership Registration in Meghalaya",
+          "url": "llp-registration-india/meghalaya"
+        },
+        {
+          "id": 29,
+          "name": "Limited Liability Partnership Registration in Mizoram",
+          "url": "llp-registration-india/mizoram"
+        },
+        {
+          "id": 30,
+          "name": "Limited Liability Partnership Registration in Nagaland",
+          "url": "llp-registration-india/nagaland"
+        },
+        {
+          "id": 31,
+          "name": "Limited Liability Partnership Registration in Sikkim",
+          "url": "llp-registration-india/sikkim"
+        },
+        {
+          "id": 32,
+          "name": "Limited Liability Partnership Registration in Tripura",
+          "url": "llp-registration-india/tripura"
+        },
+        {
+          "id": 33,
+          "name": "Limited Liability Partnership Registration in Lakshadweep",
+          "url": "llp-registration-india/lakshadweep"
+        }
+      ]
+    },
+    {
+      "baseUrl": "copyright-registration",
+      "baseHeading": "Copyright Registration Customised by States",
+      "stateWiseHeading": "Explore Other States for Copyright Registration",
+      "stateList": [
+        {
+          "id": 1,
+          "name": "Copyright Registration in Maharashtra",
+          "url": "copyright-registration/maharashtra"
+        },
+        {
+          "id": 2,
+          "name": "Copyright Registration in Karnataka",
+          "url": "copyright-registration/karnataka"
+        },
+        {
+          "id": 3,
+          "name": "Copyright Registration in Tamil Nadu",
+          "url": "copyright-registration/tamil-nadu"
+        },
+        {
+          "id": 4,
+          "name": "Copyright Registration in Gujarat",
+          "url": "copyright-registration/gujarat"
+        },
+        {
+          "id": 5,
+          "name": "Copyright Registration in Uttar Pradesh",
+          "url": "copyright-registration/uttar-pradesh"
+        },
+        {
+          "id": 6,
+          "name": "Copyright Registration in Rajasthan",
+          "url": "copyright-registration/rajasthan"
+        },
+        {
+          "id": 7,
+          "name": "Copyright Registration in Punjab",
+          "url": "copyright-registration/punjab"
+        },
+        {
+          "id": 8,
+          "name": "Copyright Registration in Madhya Pradesh",
+          "url": "copyright-registration/madhya-pradesh"
+        },
+        {
+          "id": 9,
+          "name": "Copyright Registration in Odisha",
+          "url": "copyright-registration/odisha"
+        },
+        {
+          "id": 10,
+          "name": "Copyright Registration in Chandigarh",
+          "url": "copyright-registration/chandigarh"
+        },
+        {
+          "id": 11,
+          "name": "Copyright Registration in Uttarakhand",
+          "url": "copyright-registration/uttarakhand"
+        },
+        {
+          "id": 12,
+          "name": "Copyright Registration in Jharkhand",
+          "url": "copyright-registration/jharkhand"
+        },
+        {
+          "id": 13,
+          "name": "Copyright Registration in Chhattisgarh",
+          "url": "copyright-registration/chhattisgarh"
+        },
+        {
+          "id": 14,
+          "name": "Copyright Registration in Haryana",
+          "url": "copyright-registration/haryana"
+        },
+        {
+          "id": 15,
+          "name": "Copyright Registration in Andhra Pradesh",
+          "url": "copyright-registration/andhra-pradesh"
+        },
+        {
+          "id": 16,
+          "name": "Copyright Registration in Assam",
+          "url": "copyright-registration/assam"
+        },
+        {
+          "id": 17,
+          "name": "Copyright Registration in Jammu And Kashmir",
+          "url": "copyright-registration/jammu-kashmir"
+        },
+        {
+          "id": 18,
+          "name": "Copyright Registration in Delhi",
+          "url": "copyright-registration/delhi"
+        },
+        {
+          "id": 19,
+          "name": "Copyright Registration in Telangana",
+          "url": "copyright-registration/telangana"
+        },
+        {
+          "id": 20,
+          "name": "Copyright Registration in West Bengal",
+          "url": "copyright-registration/west-bengal"
+        },
+        {
+          "id": 21,
+          "name": "Copyright Registration in Kerala",
+          "url": "copyright-registration/kerala"
+        },
+        {
+          "id": 22,
+          "name": "Copyright Registration in Goa",
+          "url": "copyright-registration/goa"
+        },
+        {
+          "id": 23,
+          "name": "Copyright Registration in Bihar",
+          "url": "copyright-registration/bihar"
+        },
+        {
+          "id": 24,
+          "name": "Copyright Registration in Puducherry",
+          "url": "copyright-registration/puducherry"
+        },
+        {
+          "id": 25,
+          "name": "Copyright Registration in Himachal Pradesh",
+          "url": "copyright-registration/himachal-pradesh"
+        },
+        {
+          "id": 26,
+          "name": "Copyright Registration in Arunachal Pradesh",
+          "url": "copyright-registration/arunachal-pradesh"
+        },
+        {
+          "id": 27,
+          "name": "Copyright Registration in Manipur",
+          "url": "copyright-registration/manipur"
+        },
+        {
+          "id": 28,
+          "name": "Copyright Registration in Meghalaya",
+          "url": "copyright-registration/meghalaya"
+        },
+        {
+          "id": 29,
+          "name": "Copyright Registration in Mizoram",
+          "url": "copyright-registration/mizoram"
+        },
+        {
+          "id": 30,
+          "name": "Copyright Registration in Nagaland",
+          "url": "copyright-registration/nagaland"
+        },
+        {
+          "id": 31,
+          "name": "Copyright Registration in Sikkim",
+          "url": "copyright-registration/sikkim"
+        },
+        {
+          "id": 32,
+          "name": "Copyright Registration in Tripura",
+          "url": "copyright-registration/tripura"
+        },
+        {
+          "id": 33,
+          "name": "Copyright Registration in Lakshadweep",
+          "url": "copyright-registration/lakshadweep"
+        },
+        {
+          "id": 33,
+          "name": "Copyright Disclaimer",
+          "url": "copyright-registration/copyright-disclaimer"
+        },
+        {
+          "id": 34,
+          "name": "Copyright for Reproduction Rights",
+          "url": "copyright-registration/copyright-for-reproduction-right"
+        },
+        {
+          "id": 35,
+          "name": "Copyright Objection",
+          "url": "copyright-objection"
+        },
+        {
+          "id": 36,
+          "name": "Copyright for Artistic Work",
+          "url": "copyright-registration/copyright-for-artistic-work"
+        },
+        {
+          "id": 37,
+          "name": "Copyright for Cinematograph Film",
+          "url": "copyright-registration/copyright-for-cinematograph-film"
+        },
+        {
+          "id": 38,
+          "name": "Copyright for Literary Work",
+          "url": "copyright-registration/copyright-for-literary-work"
+        },
+        {
+          "id": 39,
+          "name": "Copyright for Mechanical License",
+          "url": "copyright-registration/copyright-for-mechanical-license"
+        },
+        {
+          "id": 40,
+          "name": "Copyright for Digital Performance Right in Sound Recordings",
+          "url": "copyright-registration/copyright-for-performance-rights-in-sound-recordings"
+        },
+        {
+          "id": 41,
+          "name": "Copyright for Public Performance License",
+          "url": "copyright-registration/copyright-for-public-performance-license"
+        },
+        {
+          "id": 42,
+          "name": "Copyright for Public Performing Right",
+          "url": "copyright-registration/copyright-for-public-performing-right"
+        },
+        {
+          "id": 43,
+          "name": "Copyright for Synchronization License",
+          "url": "copyright-registration/copyright-for-synchronization-license"
+        },
+        {
+          "id": 44,
+          "name": "Copyright in Sound Recording",
+          "url": "copyright-registration/copyright-in-sound-recording"
+        }
+      ]
+    },
+    {
+      "baseUrl": "online-company-registration",
+      "baseHeading": "Company Registration Customised by States and Cities",
+      "stateWiseHeading": "Explore Other States for Online Company Registration",
+      "stateList": [
+        {
+          "id": 1,
+          "name": "Online Company Registration in Maharashtra",
+          "url": "online-company-registration/maharashtra"
+        },
+        {
+          "id": 2,
+          "name": "Online Company Registration in Karnataka",
+          "url": "online-company-registration/karnataka"
+        },
+        {
+          "id": 3,
+          "name": "Online Company Registration in Tamil Nadu",
+          "url": "online-company-registration/tamil-nadu"
+        },
+        {
+          "id": 4,
+          "name": "Online Company Registration in Gujarat",
+          "url": "online-company-registration/gujarat"
+        },
+        {
+          "id": 5,
+          "name": "Online Company Registration in Uttar Pradesh",
+          "url": "online-company-registration/uttar-pradesh"
+        },
+        {
+          "id": 6,
+          "name": "Online Company Registration in Rajasthan",
+          "url": "online-company-registration/rajasthan"
+        },
+        {
+          "id": 7,
+          "name": "Online Company Registration in Punjab",
+          "url": "online-company-registration/punjab"
+        },
+        {
+          "id": 8,
+          "name": "Online Company Registration in Madhya Pradesh",
+          "url": "online-company-registration/madhya-pradesh"
+        },
+        {
+          "id": 9,
+          "name": "Online Company Registration in Odisha",
+          "url": "online-company-registration/odisha"
+        },
+        {
+          "id": 10,
+          "name": "Online Company Registration in Chandigarh",
+          "url": "online-company-registration/chandigarh"
+        },
+        {
+          "id": 11,
+          "name": "Online Company Registration in Uttarakhand",
+          "url": "online-company-registration/uttarakhand"
+        },
+        {
+          "id": 12,
+          "name": "Online Company Registration in Jharkhand",
+          "url": "online-company-registration/jharkhand"
+        },
+        {
+          "id": 13,
+          "name": "Online Company Registration in Chhattisgarh",
+          "url": "online-company-registration/chhattisgarh"
+        },
+        {
+          "id": 14,
+          "name": "Online Company Registration in Haryana",
+          "url": "online-company-registration/haryana"
+        },
+        {
+          "id": 15,
+          "name": "Online Company Registration in Andhra Pradesh",
+          "url": "online-company-registration/andhra-pradesh"
+        },
+        {
+          "id": 16,
+          "name": "Online Company Registration in Assam",
+          "url": "online-company-registration/assam"
+        },
+        {
+          "id": 17,
+          "name": "Online Company Registration in Jammu And Kashmir",
+          "url": "online-company-registration/jammu-kashmir"
+        },
+        {
+          "id": 18,
+          "name": "Online Company Registration in Delhi",
+          "url": "online-company-registration/delhi"
+        },
+        {
+          "id": 19,
+          "name": "Online Company Registration in Telangana",
+          "url": "online-company-registration/telangana"
+        },
+        {
+          "id": 20,
+          "name": "Online Company Registration in West Bengal",
+          "url": "online-company-registration/west-bengal"
+        },
+        {
+          "id": 21,
+          "name": "Online Company Registration in Kerala",
+          "url": "online-company-registration/kerala"
+        },
+        {
+          "id": 22,
+          "name": "Online Company Registration in Goa",
+          "url": "online-company-registration/goa"
+        },
+        {
+          "id": 23,
+          "name": "Online Company Registration in Bihar",
+          "url": "online-company-registration/bihar"
+        },
+        {
+          "id": 24,
+          "name": "Online Company Registration in Puducherry",
+          "url": "online-company-registration/puducherry"
+        },
+        {
+          "id": 25,
+          "name": "Online Company Registration in Himachal Pradesh",
+          "url": "online-company-registration/himachal-pradesh"
+        },
+        {
+          "id": 26,
+          "name": "Online Company Registration in Arunachal Pradesh",
+          "url": "online-company-registration/arunachal-pradesh"
+        },
+        {
+          "id": 27,
+          "name": "Online Company Registration in Manipur",
+          "url": "online-company-registration/manipur"
+        },
+        {
+          "id": 28,
+          "name": "Online Company Registration in Meghalaya",
+          "url": "online-company-registration/meghalaya"
+        },
+        {
+          "id": 29,
+          "name": "Online Company Registration in Mizoram",
+          "url": "online-company-registration/mizoram"
+        },
+        {
+          "id": 30,
+          "name": "Online Company Registration in Nagaland",
+          "url": "online-company-registration/nagaland"
+        },
+        {
+          "id": 31,
+          "name": "Online Company Registration in Sikkim",
+          "url": "online-company-registration/sikkim"
+        },
+        {
+          "id": 32,
+          "name": "Online Company Registration in Tripura",
+          "url": "online-company-registration/tripura"
+        },
+        {
+          "id": 33,
+          "name": "Online Company Registration in Lakshadweep",
+          "url": "online-company-registration/lakshadweep"
+        },
+        {
+          "id": 34,
+          "name": "Online Company Registration in Gurgaon",
+          "url": "online-company-registration/gurgaon"
+        },
+        {
+          "id": 35,
+          "name": "Online Company Registration in Pune",
+          "url": "online-company-registration/pune"
+        },
+        {
+          "id": 36,
+          "name": "Online Company Registration in Ahmedabad",
+          "url": "online-company-registration/ahmedabad"
+        },
+        {
+          "id": 37,
+          "name": "Online Company Registration in Kolkata",
+          "url": "online-company-registration/kolkata"
+        }
+      ]
+    },
+    {
+      "baseUrl": "gst-return-filing",
+      "baseHeading": "Gst Returns Filling Customised by States",
+      "stateWiseHeading": "Explore Other States for Gst Returns Filling",
+      "stateList": [
+        {
+          "id": 1,
+          "name": "Gst Returns Filling in Maharashtra",
+          "url": "gst-return-filing/maharashtra"
+        },
+        {
+          "id": 2,
+          "name": "Gst Returns Filling in Karnataka",
+          "url": "gst-return-filing/karnataka"
+        },
+        {
+          "id": 3,
+          "name": "Gst Returns Filling in Tamil Nadu",
+          "url": "gst-return-filing/tamil-nadu"
+        },
+        {
+          "id": 4,
+          "name": "Gst Returns Filling in Gujarat",
+          "url": "gst-return-filing/gujarat"
+        },
+        {
+          "id": 5,
+          "name": "Gst Returns Filling in Uttar Pradesh",
+          "url": "gst-return-filing/uttar-pradesh"
+        },
+        {
+          "id": 6,
+          "name": "Gst Returns Filling in Rajasthan",
+          "url": "gst-return-filing/rajasthan"
+        },
+        {
+          "id": 7,
+          "name": "Gst Returns Filling in Punjab",
+          "url": "gst-return-filing/punjab"
+        },
+        {
+          "id": 8,
+          "name": "Gst Returns Filling in Madhya Pradesh",
+          "url": "gst-return-filing/madhya-pradesh"
+        },
+        {
+          "id": 9,
+          "name": "Gst Returns Filling in Odisha",
+          "url": "gst-return-filing/odisha"
+        },
+        {
+          "id": 10,
+          "name": "Gst Returns Filling in Chandigarh",
+          "url": "gst-return-filing/chandigarh"
+        },
+        {
+          "id": 11,
+          "name": "Gst Returns Filling in Uttarakhand",
+          "url": "gst-return-filing/uttarakhand"
+        },
+        {
+          "id": 12,
+          "name": "Gst Returns Filling in Jharkhand",
+          "url": "gst-return-filing/jharkhand"
+        },
+        {
+          "id": 13,
+          "name": "Gst Returns Filling in Chhattisgarh",
+          "url": "gst-return-filing/chhattisgarh"
+        },
+        {
+          "id": 14,
+          "name": "Gst Returns Filling in Haryana",
+          "url": "gst-return-filing/haryana"
+        },
+        {
+          "id": 15,
+          "name": "Gst Returns Filling in Andhra Pradesh",
+          "url": "gst-return-filing/andhra-pradesh"
+        },
+        {
+          "id": 16,
+          "name": "Gst Returns Filling in Assam",
+          "url": "gst-return-filing/assam"
+        },
+        {
+          "id": 17,
+          "name": "Gst Returns Filling in Jammu And Kashmir",
+          "url": "gst-return-filing/jammu-and-kashmir"
+        },
+        {
+          "id": 18,
+          "name": "Gst Returns Filling in Delhi",
+          "url": "gst-return-filing/delhi"
+        },
+        {
+          "id": 19,
+          "name": "Gst Returns Filling in Telangana",
+          "url": "gst-return-filing/telangana"
+        },
+        {
+          "id": 20,
+          "name": "Gst Returns Filling in West Bengal",
+          "url": "gst-return-filing/west-bengal"
+        },
+        {
+          "id": 21,
+          "name": "Gst Returns Filling in Kerala",
+          "url": "gst-return-filing/kerala"
+        },
+        {
+          "id": 22,
+          "name": "Gst Returns Filling in Goa",
+          "url": "gst-return-filing/goa"
+        },
+        {
+          "id": 23,
+          "name": "Gst Returns Filling in Bihar",
+          "url": "gst-return-filing/bihar"
+        },
+        {
+          "id": 24,
+          "name": "Gst Returns Filling in Puducherry",
+          "url": "gst-return-filing/puducherry"
+        },
+        {
+          "id": 25,
+          "name": "Gst Returns Filling in Himachal Pradesh",
+          "url": "gst-return-filing/himachal-pradesh"
+        },
+        {
+          "id": 26,
+          "name": "Gst Returns Filling in Arunachal Pradesh",
+          "url": "gst-return-filing/arunachal-pradesh"
+        },
+        {
+          "id": 27,
+          "name": "Gst Returns Filling in Manipur",
+          "url": "gst-return-filing/manipur"
+        },
+        {
+          "id": 28,
+          "name": "Gst Returns Filling in Meghalaya",
+          "url": "gst-return-filing/meghalaya"
+        },
+        {
+          "id": 29,
+          "name": "Gst Returns Filling in Mizoram",
+          "url": "gst-return-filing/mizoram"
+        },
+        {
+          "id": 30,
+          "name": "Gst Returns Filling in Nagaland",
+          "url": "gst-return-filing/nagaland"
+        },
+        {
+          "id": 31,
+          "name": "Gst Returns Filling in Sikkim",
+          "url": "gst-return-filing/sikkim"
+        },
+        {
+          "id": 32,
+          "name": "Gst Returns Filling in Tripura",
+          "url": "gst-return-filing/tripura"
+        },
+        {
+          "id": 33,
+          "name": "Gst Returns Filling in Lakshadweep",
+          "url": "gst-return-filing/lakshadweep"
+        }
+      ]
+    },
+    {
+      "baseUrl": "partnership-firm-registration",
+      "baseHeading": "Partnership Firm Registration Customised by States",
+      "stateWiseHeading": "Explore Other States for Partnership Firm Registration",
+      "stateList": [
+        {
+          "id": 1,
+          "name": "Partnership Firm Registration in Maharashtra",
+          "url": "partnership-firm-registration/maharashtra"
+        },
+        {
+          "id": 2,
+          "name": "Partnership Firm Registration in Karnataka",
+          "url": "partnership-firm-registration/karnataka"
+        },
+        {
+          "id": 3,
+          "name": "Partnership Firm Registration in Tamil Nadu",
+          "url": "partnership-firm-registration/tamil-nadu"
+        },
+        {
+          "id": 4,
+          "name": "Partnership Firm Registration in Gujarat",
+          "url": "partnership-firm-registration/gujarat"
+        },
+        {
+          "id": 5,
+          "name": "Partnership Firm Registration in Uttar Pradesh",
+          "url": "partnership-firm-registration/uttar-pradesh"
+        },
+        {
+          "id": 6,
+          "name": "Partnership Firm Registration in Rajasthan",
+          "url": "partnership-firm-registration/rajasthan"
+        },
+        {
+          "id": 7,
+          "name": "Partnership Firm Registration in Punjab",
+          "url": "partnership-firm-registration/punjab"
+        },
+        {
+          "id": 8,
+          "name": "Partnership Firm Registration in Madhya Pradesh",
+          "url": "partnership-firm-registration/madhya-pradesh"
+        },
+        {
+          "id": 9,
+          "name": "Partnership Firm Registration in Odisha",
+          "url": "partnership-firm-registration/odisha"
+        },
+        {
+          "id": 10,
+          "name": "Partnership Firm Registration in Chandigarh",
+          "url": "partnership-firm-registration/chandigarh"
+        },
+        {
+          "id": 11,
+          "name": "Partnership Firm Registration in Uttarakhand",
+          "url": "partnership-firm-registration/uttarakhand"
+        },
+        {
+          "id": 12,
+          "name": "Partnership Firm Registration in Jharkhand",
+          "url": "partnership-firm-registration/jharkhand"
+        },
+        {
+          "id": 13,
+          "name": "Partnership Firm Registration in Chhattisgarh",
+          "url": "partnership-firm-registration/chhattisgarh"
+        },
+        {
+          "id": 14,
+          "name": "Partnership Firm Registration in Haryana",
+          "url": "partnership-firm-registration/haryana"
+        },
+        {
+          "id": 15,
+          "name": "Partnership Firm Registration in Andhra Pradesh",
+          "url": "partnership-firm-registration/andhra-pradesh"
+        },
+        {
+          "id": 16,
+          "name": "Partnership Firm Registration in Assam",
+          "url": "partnership-firm-registration/assam"
+        },
+        {
+          "id": 17,
+          "name": "Partnership Firm Registration in Jammu And Kashmir",
+          "url": "partnership-firm-registration/jammu-and-kashmir"
+        },
+        {
+          "id": 18,
+          "name": "Partnership Firm Registration in Delhi",
+          "url": "partnership-firm-registration/delhi"
+        },
+        {
+          "id": 19,
+          "name": "Partnership Firm Registration in Telangana",
+          "url": "partnership-firm-registration/telangana"
+        },
+        {
+          "id": 20,
+          "name": "Partnership Firm Registration in West Bengal",
+          "url": "partnership-firm-registration/west-bengal"
+        },
+        {
+          "id": 21,
+          "name": "Partnership Firm Registration in Kerala",
+          "url": "partnership-firm-registration/kerala"
+        },
+        {
+          "id": 22,
+          "name": "Partnership Firm Registration in Goa",
+          "url": "partnership-firm-registration/goa"
+        },
+        {
+          "id": 23,
+          "name": "Partnership Firm Registration in Bihar",
+          "url": "partnership-firm-registration/bihar"
+        },
+        {
+          "id": 24,
+          "name": "Partnership Firm Registration in Puducherry",
+          "url": "partnership-firm-registration/puducherry"
+        },
+        {
+          "id": 25,
+          "name": "Partnership Firm Registration in Himachal Pradesh",
+          "url": "partnership-firm-registration/himachal-pradesh"
+        },
+        {
+          "id": 26,
+          "name": "Partnership Firm Registration in Arunachal Pradesh",
+          "url": "partnership-firm-registration/arunachal-pradesh"
+        },
+        {
+          "id": 27,
+          "name": "Partnership Firm Registration in Manipur",
+          "url": "partnership-firm-registration/manipur"
+        },
+        {
+          "id": 28,
+          "name": "Partnership Firm Registration in Meghalaya",
+          "url": "partnership-firm-registration/meghalaya"
+        },
+        {
+          "id": 29,
+          "name": "Partnership Firm Registration in Mizoram",
+          "url": "partnership-firm-registration/mizoram"
+        },
+        {
+          "id": 30,
+          "name": "Partnership Firm Registration in Nagaland",
+          "url": "partnership-firm-registration/nagaland"
+        },
+        {
+          "id": 31,
+          "name": "Partnership Firm Registration in Sikkim",
+          "url": "partnership-firm-registration/sikkim"
+        },
+        {
+          "id": 32,
+          "name": "Partnership Firm Registration in Tripura",
+          "url": "partnership-firm-registration/tripura"
+        },
+        {
+          "id": 33,
+          "name": "Partnership Firm Registration in Lakshadweep",
+          "url": "partnership-firm-registration/lakshadweep"
+        }
+      ]
+    },
+    {
+      "baseUrl": "tools",
+      "baseHeading": "",
+      "stateWiseHeading": "More Calculators",
+      "stateList": [
+        {
+          "id": 1,
+          "name": "Income Tax Calculator",
+          "url": "tools/income-tax-calculator"
+        },
+        {
+          "id": 2,
+          "name": "GST Calculator",
+          "url": "tools/gst-calculator"
+        },
+        {
+          "id": 3,
+          "name": "TDS Calculator",
+          "url": "tools/tds-calculator"
+        },
+        {
+          "id": 4,
+          "name": "HRA Calculator",
+          "url": "tools/hra-calculator"
+        },
+        {
+          "id": 5,
+          "name": "Gratuity Calculator",
+          "url": "tools/gratuity-calculator"
+        },
+        {
+          "id": 6,
+          "name": "SIP Calculator",
+          "url": "tools/sip-calculator"
+        },
+        {
+          "id": 7,
+          "name": "NPS Calculator",
+          "url": "tools/nps-calculator"
+        },
+        {
+          "id": 8,
+          "name": "EPF Calculator",
+          "url": "tools/epf-calculator"
+        },
+        {
+          "id": 9,
+          "name": "Business Setup Calculator",
+          "url": "tools/business-setup-calculator"
+        },
+        {
+          "id": 10,
+          "name": "PPF Calculator",
+          "url": "tools/ppf-calculator"
+        },
+        {
+          "id": 11,
+          "name": "Simple Compound Interest Calculator",
+          "url": "tools/simple-compound-interest-calculator"
+        },
+        {
+          "id": 12,
+          "name": "Salary Calculator",
+          "url": "tools/salary-calculator"
+        },
+        {
+          "id": 13,
+          "name": "Retirement Planning Calculator",
+          "url": "tools/retirement-planning-calculator"
+        },
+        {
+          "id": 14,
+          "name": "RD Calculator",
+          "url": "tools/rd-calculator"
+        }
+      ]
+    },
+    {
+      "baseUrl": "section-8-company-registration",
+      "baseHeading": "Section 8 Compamy Registration Customised by States",
+      "stateWiseHeading": "Explore Other States for Section 8 Compamy Registration",
+      "stateList": [
+        {
+          "id": 1,
+          "name": "Section 8 Compamy Registration In Delhi",
+          "url": "section-8-company-registration/delhi"
+        },
+        {
+          "id": 2,
+          "name": "Section 8 Compamy Registration In Kerala",
+          "url": "section-8-company-registration/kerala"
+        },
+        {
+          "id": 3,
+          "name": "Section 8 Compamy Registration In Chandigarh",
+          "url": "section-8-company-registration/chandigarh"
+        },
+        {
+          "id": 4,
+          "name": "Section 8 Compamy Registration In West Bengal",
+          "url": "section-8-company-registration/west-bengal"
+        },
+        {
+          "id": 5,
+          "name": "Section 8 Compamy Registration In Goa",
+          "url": "section-8-company-registration/goa"
+        },
+        {
+          "id": 6,
+          "name": "Section 8 Compamy Registration In Maharashtra",
+          "url": "section-8-company-registration/maharashtra"
+        },
+        {
+          "id": 7,
+          "name": "Section 8 Compamy Registration In Gujarat",
+          "url": "section-8-company-registration/gujarat"
+        },
+        {
+          "id": 8,
+          "name": "Section 8 Compamy Registration In Rajasthan",
+          "url": "section-8-company-registration/rajasthan"
+        },
+        {
+          "id": 9,
+          "name": "Section 8 Compamy Registration In Karnataka",
+          "url": "section-8-company-registration/karnataka"
+        },
+        {
+          "id": 10,
+          "name": "Section 8 Compamy Registration In Tamil Nadu",
+          "url": "section-8-company-registration/tamil-nadu"
+        },
+        {
+          "id": 11,
+          "name": "Section 8 Compamy Registration In Uttar Pradesh",
+          "url": "section-8-company-registration/uttar-pradesh"
+        },
+        {
+          "id": 12,
+          "name": "Section 8 Compamy Registration In Punjab",
+          "url": "section-8-company-registration/punjab"
+        },
+        {
+          "id": 13,
+          "name": "Section 8 Compamy Registration In Madhya Pradesh",
+          "url": "section-8-company-registration/madhya-pradesh"
+        },
+        {
+          "id": 14,
+          "name": "Section 8 Compamy Registration In Odisha",
+          "url": "section-8-company-registration/odisha"
+        },
+        {
+          "id": 15,
+          "name": "Section 8 Compamy Registration In Uttarakhand",
+          "url": "section-8-company-registration/uttarakhand"
+        },
+        {
+          "id": 16,
+          "name": "Section 8 Compamy Registration In Jharkhand",
+          "url": "section-8-company-registration/jharkhand"
+        },
+        {
+          "id": 17,
+          "name": "Section 8 Compamy Registration In Jammu And Kashmir",
+          "url": "section-8-company-registration/jammu-and-kashmir"
+        },
+        {
+          "id": 18,
+          "name": "Section 8 Compamy Registration In Chhattisgarh",
+          "url": "section-8-company-registration/chhattisgarh"
+        },
+        {
+          "id": 19,
+          "name": "Section 8 Compamy Registration In Haryana",
+          "url": "section-8-company-registration/haryana"
+        },
+        {
+          "id": 20,
+          "name": "Section 8 Compamy Registration In Telangana",
+          "url": "section-8-company-registration/telangana"
+        },
+        {
+          "id": 21,
+          "name": "Section 8 Compamy Registration In Bihar",
+          "url": "section-8-company-registration/bihar"
+        },
+        {
+          "id": 22,
+          "name": "Section 8 Compamy Registration In Puducherry",
+          "url": "section-8-company-registration/puducherry"
+        },
+        {
+          "id": 23,
+          "name": "Section 8 Compamy Registration In Himachal Pradesh",
+          "url": "section-8-company-registration/himachal-pradesh"
+        },
+        {
+          "id": 24,
+          "name": "Section 8 Compamy Registration In Arunachal Pradesh",
+          "url": "section-8-company-registration/arunachal-pradesh"
+        },
+        {
+          "id": 25,
+          "name": "Section 8 Compamy Registration In Manipur",
+          "url": "section-8-company-registration/manipur"
+        },
+        {
+          "id": 26,
+          "name": "Section 8 Compamy Registration In Meghalaya",
+          "url": "section-8-company-registration/meghalaya"
+        },
+        {
+          "id": 27,
+          "name": "Section 8 Compamy Registration In Mizoram",
+          "url": "section-8-company-registration/mizoram"
+        },
+        {
+          "id": 28,
+          "name": "Section 8 Compamy Registration In Nagaland",
+          "url": "section-8-company-registration/nagaland"
+        },
+        {
+          "id": 29,
+          "name": "Section 8 Compamy Registration In Sikkim",
+          "url": "section-8-company-registration/sikkim"
+        },
+        {
+          "id": 30,
+          "name": "Section 8 Compamy Registration In Tripura",
+          "url": "section-8-company-registration/tripura"
+        },
+        {
+          "id": 31,
+          "name": "Section 8 Compamy Registration In Lakshadweep",
+          "url": "section-8-company-registration/lakshadweep"
+        },
+        {
+          "id": 32,
+          "name": "Section 8 Compamy Registration In Andhra Pradesh",
+          "url": "section-8-company-registration/andhra-pradesh"
+        },
+        {
+          "id": 33,
+          "name": "Section 8 Compamy Registration In Assam",
+          "url": "section-8-company-registration/assam"
+        }
+      ]
+    },
+    {
+      "baseUrl": "trade-license-registration",
+      "baseHeading": "Trade License Registration Customised by States",
+      "stateWiseHeading": "Explore Other States for Trade License Registration",
+      "stateList": [
+        {
+          "id": 1,
+          "name": "Trade License Registration In Delhi",
+          "url": "trade-license-registration/delhi"
+        },
+        {
+          "id": 2,
+          "name": "Trade License Registration In Kerala",
+          "url": "trade-license-registration/kerala"
+        },
+        {
+          "id": 3,
+          "name": "Trade License Registration In Chandigarh",
+          "url": "trade-license-registration/chandigarh"
+        },
+        {
+          "id": 4,
+          "name": "Trade License Registration In West Bengal",
+          "url": "trade-license-registration/west-bengal"
+        },
+        {
+          "id": 5,
+          "name": "Trade License Registration In Goa",
+          "url": "trade-license-registration/goa"
+        },
+        {
+          "id": 6,
+          "name": "Trade License Registration In Maharashtra",
+          "url": "trade-license-registration/maharashtra"
+        },
+        {
+          "id": 7,
+          "name": "Trade License Registration In Gujarat",
+          "url": "trade-license-registration/gujarat"
+        },
+        {
+          "id": 8,
+          "name": "Trade License Registration In Rajasthan",
+          "url": "trade-license-registration/rajasthan"
+        },
+        {
+          "id": 9,
+          "name": "Trade License Registration In Karnataka",
+          "url": "trade-license-registration/karnataka"
+        },
+        {
+          "id": 10,
+          "name": "Trade License Registration In Tamil Nadu",
+          "url": "trade-license-registration/tamil-nadu"
+        },
+        {
+          "id": 11,
+          "name": "Trade License Registration In Uttar Pradesh",
+          "url": "trade-license-registration/uttar-pradesh"
+        },
+        {
+          "id": 12,
+          "name": "Trade License Registration In Punjab",
+          "url": "trade-license-registration/punjab"
+        },
+        {
+          "id": 13,
+          "name": "Trade License Registration In Madhya Pradesh",
+          "url": "trade-license-registration/madhya-pradesh"
+        },
+        {
+          "id": 14,
+          "name": "Trade License Registration In Odisha",
+          "url": "trade-license-registration/odisha"
+        },
+        {
+          "id": 15,
+          "name": "Trade License Registration In Uttarakhand",
+          "url": "trade-license-registration/uttarakhand"
+        },
+        {
+          "id": 16,
+          "name": "Trade License Registration In Jharkhand",
+          "url": "trade-license-registration/jharkhand"
+        },
+        {
+          "id": 17,
+          "name": "Trade License Registration In Jammu And Kashmir",
+          "url": "trade-license-registration/jammu-and-kashmir"
+        },
+        {
+          "id": 18,
+          "name": "Trade License Registration In Chhattisgarh",
+          "url": "trade-license-registration/chhattisgarh"
+        },
+        {
+          "id": 19,
+          "name": "Trade License Registration In Haryana",
+          "url": "trade-license-registration/haryana"
+        },
+        {
+          "id": 20,
+          "name": "Trade License Registration In Telangana",
+          "url": "trade-license-registration/telangana"
+        },
+        {
+          "id": 21,
+          "name": "Trade License Registration In Bihar",
+          "url": "trade-license-registration/bihar"
+        },
+        {
+          "id": 22,
+          "name": "Trade License Registration In Puducherry",
+          "url": "trade-license-registration/puducherry"
+        },
+        {
+          "id": 23,
+          "name": "Trade License Registration In Himachal Pradesh",
+          "url": "trade-license-registration/himachal-pradesh"
+        },
+        {
+          "id": 24,
+          "name": "Trade License Registration In Arunachal Pradesh",
+          "url": "trade-license-registration/arunachal-pradesh"
+        },
+        {
+          "id": 25,
+          "name": "Trade License Registration In Manipur",
+          "url": "trade-license-registration/manipur"
+        },
+        {
+          "id": 26,
+          "name": "Trade License Registration In Meghalaya",
+          "url": "trade-license-registration/meghalaya"
+        },
+        {
+          "id": 27,
+          "name": "Trade License Registration In Mizoram",
+          "url": "trade-license-registration/mizoram"
+        },
+        {
+          "id": 28,
+          "name": "Trade License Registration In Nagaland",
+          "url": "trade-license-registration/nagaland"
+        },
+        {
+          "id": 29,
+          "name": "Trade License Registration In Sikkim",
+          "url": "trade-license-registration/sikkim"
+        },
+        {
+          "id": 30,
+          "name": "Trade License Registration In Tripura",
+          "url": "trade-license-registration/tripura"
+        },
+        {
+          "id": 31,
+          "name": "Trade License Registration In Lakshadweep",
+          "url": "trade-license-registration/lakshadweep"
+        },
+        {
+          "id": 32,
+          "name": "Trade License Registration In Andhra Pradesh",
+          "url": "trade-license-registration/andhra-pradesh"
+        },
+        {
+          "id": 33,
+          "name": "Trade License Registration In Assam",
+          "url": "trade-license-registration/assam"
+        }
+      ]
+    },
+    {
+      "baseUrl": "will-registration-online-india",
+      "baseHeading": "Other Important Pages Related to NGO Registration",
+      "stateWiseHeading": "Other Important Pages Related to NGO Registration",
+      "stateList": [
+        {
+          "id": 1,
+          "name": "Concurrent Will",
+          "url": "will-registration-online-india/concurrent-will"
+        },
+        {
+          "id": 2,
+          "name": "Unprivileged Will",
+          "url": "will-registration-online-india/unprivileged-will"
+        },
+        {
+          "id": 1,
+          "name": "Conditional Will",
+          "url": "will-registration-online-india/conditional-will"
+        },
+        {
+          "id": 1,
+          "name": "Mutual Will",
+          "url": "will-registration-online-india/mutual-will"
+        },
+        {
+          "id": 1,
+          "name": "Privileged Will",
+          "url": "will-registration-online-india/privileged-will"
+        },
+        {
+          "id": 1,
+          "name": "Duplicate Will",
+          "url": "will-registration-online-india/duplicate-will"
+        },
+        {
+          "id": 1,
+          "name": "Holograph Will",
+          "url": "will-registration-online-india/holograph-will"
+        }
+      ]
+    },
+    {
+      "baseUrl": "cheque-bounce-case",
+      "baseHeading": "Other Important Pages Related to Cheque Bounce",
+      "stateWiseHeading": "Other Important Pages Related to Cheque Bounce",
+      "stateList": [
+        {
+          "id": 1,
+          "name": "Cheque Bounce Charges",
+          "url": "cheque-bounce-charges"
+        },
+        {
+          "id": 2,
+          "name": "Section 138 of the Negotiable Instruments Act",
+          "url": "section-138-negotiable-instruments-act"
+        }
+      ]
+    },
+    {
+      "baseUrl": "joint-venture-agreement",
+      "baseHeading": "Other Important Pages Related to JV Agreement",
+      "stateWiseHeading": "Other Important Pages Related to JV Agreement",
+      "stateList": [
+        {
+          "id": 1,
+          "name": "Basic Joint Venture",
+          "url": "joint-venture-agreement/basic-joint-venture"
+        },
+        {
+          "id": 2,
+          "name": "Project-Based Joint Venture",
+          "url": "joint-venture-agreement/project-based-joint-venture"
+        },
+        {
+          "id": 3,
+          "name": "Vertical Joint Venture",
+          "url": "joint-venture-agreement/vertical-joint-venture"
+        }
+      ]
+    },
+    {
+      "baseUrl": "pf-registration",
+      "baseHeading": "Other Important Pages Related to Provident Fund Registration",
+      "stateWiseHeading": "Other Important Pages Related to Provident Fund Registration",
+      "stateList": [
+        {
+          "id": 1,
+          "name": "EPFO Claim Status",
+          "url": "pf-registration/epfo-claim-status"
+        },
+        {
+          "id": 2,
+          "name": "EPFO Registration Online",
+          "url": "pf-registration/epfo-india"
+        },
+        {
+          "id": 3,
+          "name": "Employees Provident Fund Form 5",
+          "url": "pf-registration/epf-form5"
+        },
+        {
+          "id": 4,
+          "name": "Universal Account Number (UAN) Member Portal",
+          "url": "pf-registration/universal-account-number"
+        },
+        {
+          "id": 5,
+          "name": "PPF Advantages and Disadvantages",
+          "url": "pf-registration/pros-cons-ppf"
+        },
+        {
+          "id": 6,
+          "name": "Why Provident Fund May Be Your Best Investment?",
+          "url": "pf-registration/pf-best-investment"
+        }
+      ]
+    },
+    {
+      "baseUrl": "accounting-bookkeeping-services",
+      "baseHeading": "",
+      "stateWiseHeading": "Other Important Pages Related to Accounting and Bookkeeping",
+      "stateList": [
+        {
+          "id": 1,
+          "name": "Networth Certificate",
+          "url": "accounting-bookkeeping-services/networth-certificate"
+        }
+      ]
+    },
+   
+    {
+      "baseUrl": "business-ideas",
+      "baseHeading": "",
+      "stateWiseHeading": "Other Important Pages Related to Business Ideas",
+      "stateList": [
+        {
+          "id": 1,
+          "name": "Business Ideas for Small Towns",
+          "url": "business-ideas/small-towns"
+        },
+        {
+          "id": 2,
+          "name": "Business Ideas for Housewives",
+          "url": "business-ideas/housewives"
+        }
+      ]
+    },
+    {
+      "baseUrl": "removal-of-a-director",
+      "baseHeading": "Other Important Pages Related to Removal of Director",
+      "stateWiseHeading": "Other Important Pages Related to Removal of Director",
+      "stateList": [
+        {
+          "id": 1,
+          "name": "Resignation of Director",
+          "url": "removal-of-a-director/resignation-of-director"
+        }
+      ]
+    },
+    {
+      "baseUrl": "esi-registration",
+      "baseHeading": "Other Important Pages Related to ESI Registration",
+      "stateWiseHeading": "",
+      "stateList": [
+        {
+          "id": 1,
+          "name": "ESI Returns",
+          "url": "esi-registration/file-esi-returns"
+        },
+        {
+          "id": 2,
+          "name": "ESI Registration Procedure",
+          "url": "esi-registration/procedure"
+        },
+        {
+          "id": 3,
+          "name": "ESI Registration Benefits",
+          "url": "esi-registration/esi-scheme-benefits"
+        }
+      ]
+    },
+    {
+      "baseUrl": "trust-registration",
+      "baseHeading": "Other Important Pages Related to Trust Registration",
+      "stateWiseHeading": "",
+      "stateList": [
+        {
+          "id": 1,
+          "name": "Private Trust",
+          "url": "trust-registration/private-trust"
+        },
+        {
+          "id": 2,
+          "name": "Public Trust",
+          "url": "trust-registration/public-trust"
+        },
+        {
+          "id": 3,
+          "name": "Express Trust",
+          "url": "trust-registration/express-trust"
+        },
+        {
+          "id": 4,
+          "name": "Simple Trust",
+          "url": "trust-registration/simple-trust"
+        },
+        {
+          "id": 5,
+          "name": "Special Trust",
+          "url": "trust-registration/special-trust"
+        }
+      ]
+    },
+    {
+      "baseUrl": "employment-agreement-contract",
+      "baseHeading": "Other Important Pages Related to Employment Agreement",
+      "stateWiseHeading": "",
+      "stateList": [
+        {
+          "id": 1,
+          "name": "Offer Letter",
+          "url": "employment-agreement-contract/offer-letter"
+        },
+        {
+          "id": 2,
+          "name": "Zero hour employment Contract",
+          "url": "employment-agreement-contrac/zero-hour-employment-contract"
+        },
+        {
+          "id": 3,
+          "name": "Casual Employment Contract",
+          "url": "employment-agreement-contract/casual-employment-contracts"
+        },
+        {
+          "id": 4,
+          "name": "Fixed Term Employment Contract",
+          "url": "employment-agreement-contract/fixed-term-employment-contract"
+        },
+        {
+          "id": 5,
+          "name": "Permanent Employment Contract",
+          "url": "employment-agreement-contract/permanent-employment-contract"
+        },
+        {
+          "id": 6,
+          "name": "Job Appointment Letter",
+          "url": "employment-agreement-contract/job-appointment-letter"
+        }
+      ]
+    },
+    {
+      "baseUrl": "ngo-registration",
+      "baseHeading": "Other Important Pages Related to NGO Registration",
+      "stateWiseHeading": "",
+      "stateList": [
+        {
+          "id": 1,
+          "name": "Registration Process of Cooperative Society",
+          "url": "ngo-registration/setting-cooperative-society"
+        },
+        {
+          "id": 2,
+          "name": "How to Start an NGO in India?",
+          "url": "ngo-registration/start-ngo-india"
+        },
+        {
+          "id": 3,
+          "name": "Things to Know Before Starting an NGO",
+          "url": "ngo-registration/things-to-know-before-starting-ngo"
+        },
+        {
+          "id": 4,
+          "name": "CSR 1 Registration",
+          "url": "ngo-registration/form-csr-1-filing"
+        },
+        {
+          "id": 5,
+          "name": "NGO Darpan Registration",
+          "url": "ngo-registration/ngo-darpan-registration"
+        },
+        {
+          "id": 6,
+          "name": "NGO Compliance Checklist",
+          "url": "ngo-registration/ngo-compliance-darpan-80g-12a-csr-1"
+        },
+        {
+          "id": 7,
+          "name": "NGO Registration Under Section 80G & Section 12A",
+          "url": "ngo-registration/registration-under-section-80G-12A"
+        }
+      ]
+    },
+    {
+      "baseUrl": "franchise-business-agreement",
+      "baseHeading": "Other Agreement Pages",
+      "stateWiseHeading": "",
+      "stateList": [
+        {
+          "id": 1,
+          "name": "Employment Agreement",
+          "url": "employment-agreement-contract"
+        },
+        {
+          "id": 2,
+          "name": "Non Disclosure Agreement",
+          "url": "nondisclosure-agreement-nda"
+        },
+        {
+          "id": 3,
+          "name": "Share Purchase Agreement",
+          "url": "share-purchase-agreement"
+        },
+        {
+          "id": 4,
+          "name": "Service Level Agreement",
+          "url": "service-level-agreement"
+        },
+        {
+          "id": 5,
+          "name": "Scope of Work Agreement",
+          "url": "scope-of-work-and-deliverables-agreement"
+        },
+        {
+          "id": 6,
+          "name": "Non Compete Agreement",
+          "url": "noncompete-agreement"
+        },
+        {
+          "id": 7,
+          "name": "Consultancy Agreement ",
+          "url": "consultancy-agreement"
+        },
+        {
+          "id": 8,
+          "name": "Freelancer Agreement",
+          "url": "freelancer-agreement"
+        },
+        {
+          "id": 9,
+          "name": "Vendor Agreement",
+          "url": "vendor-agreement"
+        },
+        {
+          "id": 10,
+          "name": "Rental Agreement ",
+          "url": "rent-and-lease-agreement"
+        },
+        {
+          "id": 11,
+          "name": "Finance Agreement",
+          "url": "finance-agreement"
+        },
+        {
+          "id": 12,
+          "name": "Master Service Agreement",
+          "url": "master-service-agreement"
+        },
+        {
+          "id": 13,
+          "name": "Joint Venture Agreement",
+          "url": "joint-venture-agreement"
+        }
+      ]
+    }
+  ]
+  

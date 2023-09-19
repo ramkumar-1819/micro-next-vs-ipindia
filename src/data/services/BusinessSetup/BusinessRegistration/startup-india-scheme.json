@@ -1,0 +1,487 @@
+{
+  "url": "startup-india-scheme",
+  "serviceId": "710",
+  "workflow": "stups-onboarding",
+  "formTitle": "Get Started!",
+  "submitCta": "Talk to our Expert",
+  "sticky": true,
+  "startupComponent": true,
+  "showGoogleCityField": true,
+  "hideClientLogos": true,
+  "accordionServiceBody": true,
+  "pageTitle": "Startup India Scheme Registration Online - Benefits & Process",
+  "newrecentUpdates": true,
+  "newTestomonial": true,
+  "meta": {
+    "title": "Startup India Scheme Registration Online - Benefits & Process",
+    "canonical": "https://vakilsearch.com/startup-india-scheme",
+    "keyword": "startup india scheme, startup india registration, startup india portal registration",
+    "description": "Are you a budding entrepreneur? The Startup India Scheme Campaign welcomes you to boost entrepreneurship in India! Get legal qualifications & benefits at Vakilsearch."
+  },
+  "schema": {
+    "articleSchema": {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://vakilsearch.com/startup-india-scheme"
+      },
+      "headline": "Startup India Scheme Registration Online - Benefits & Process",
+      "description": "​​Are you a budding entrepreneur? The Startup India Scheme Campaign welcomes you to boost entrepreneurship in India! Get legal qualifications & benefits at Vakilsearch.",
+      "image": {
+        "@type": "ImageObject",
+
+        "url": "https://vakilsearch.com/blog/wp-content/uploads/2023/04/start-up-india-scheme.jpg"
+      },
+      "articleSection": "v2",
+      "keywords": "startup india scheme, startup india registration, startup india registration, online startup india registration certificate, startup india registration cost, startup india registration process",
+      "datePublished": "",
+      "dateModified": "",
+      "author": {
+        "@type": "Person",
+        "name": "VakilSearch"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "VakilSearch",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjpD1lt7g1naDsHjs2yuf-KpP9QtH0D9MJ30uqVkvc&s",
+          "width": 800,
+          "height": 344
+        }
+      }
+    }
+  },
+  "service": {
+    "service": {
+      "serviceName": "Startup India Registration",
+      "url": "startup-india-scheme"
+    }
+  },
+  "content": {
+    "serviceId": "710",
+    "workflow": "stups-onboarding",
+    "title": "Startup India Scheme",
+    "subTitle": "The Startup India campaign is a welcome initiative to boost entrepreneurship in India. It promotes bank financing, simplifies the incorporation process and grants exemptions to startups. But, you need to qualify as an “Eligible Startup” to avail all these benefits.",
+    "formTitle": "Get Legal Assistance",
+    "submitCta": "Talk to our Expert",
+    "newStartupFold": true,
+    "partnerImages": "https://assets.vakilsearch.com/startup/startupcta.svg",
+    "indiaSchema": true,
+    "imageWidth": "357",
+    "imageHeight": "121",
+    "bannerReviews": true,
+    "isStickyForm": true,
+    "formSection": {
+      "title": "Startup India Scheme",
+      "subTitle": "",
+      "list": [
+        "Register under the start up India scheme via Vakilsearch and get a certificate in just 3 to 5 working days. Safe end-to-end online process",
+        "Submit just 3 documents and kick-start the whole process online now"
+      ],
+      "formTitle": "Get Legal Assistance",
+      "submitCTA": "Talk to our expert"
+    },
+    "sections": [
+      {
+        "sectionId": 1,
+        "title": "Eligibility Criteria for Startup India Scheme",
+        "description": "Eligibility Criteria For Startup India Registration is as follows:",
+        "accordionTitle": "Startup India Scheme Eligibility",
+        "tick": "/bluetick.svg",
+        "renderType": "tickList",
+        "features": [
+          {
+            "title": "Company Registration: ",
+            "description": "The company must be incorporated as a private limited company,partnership firm or a limited liability partnership. An incubation fund, an angel fund, or a private equity fund must finance the business in order for DIPP to approve it."
+          },
+          {
+            "title": " Have Patron Guarantee From:",
+            "description": "The company should have received a patron guarantee from the Indian Patent and trademark office. Also It requires a recommendation letter from an incubator."
+          },
+          {
+            "title": "Company Existence: ",
+            "description": "The company should be brand-new or no more than five years old, and its annual revenue should not exceed ₹25 crores.Innovative and Scalable Entity: The entity should be working towards innovation, development, or improvement of products or processes or services. It is a scalable business model with a high potential for employment generation or wealth creation."
+          }
+        ]
+      },
+      {
+        "sectionId": 2,
+        "title": "Startup India Scheme: Documents Required",
+        "description": "The prerequisites are as follows, and the documentation process for applying for a loan under the scheme is somewhat involved:",
+        "accordionTitle": "Documents Required",
+        "renderType": "blocks",
+        "features": [
+          {
+            "title": "Identity Proof",
+            "description": "The bank will accept any legal photo ID provided by the government."
+          },
+          {
+            "title": "Address Proof",
+            "description": "Any official document that demonstrates the individual's and the company's addresses."
+          },
+          {
+            "title": "Company Documents",
+            "description": "Memorandum of Association (MOA) Articles of Association (AOA) of the company. In the case of a partnership firm, a partnership deed."
+          },
+          {
+            "title": "Patent Documents",
+            "description": "Statements of the borrower's and the guarantor's assets and liabilities. the company's three most recent balance sheets"
+          },
+          {
+            "title": "Company Incorporation Documents",
+            "description": "<span><a href='https://vakilsearch.com/online-company-registration' target='_blank'>Company registration</a></span> certificate from ROC"
+          }
+        ]
+      },
+      {
+        "sectionId": 3,
+        "title": "Benefits of Startup India Scheme",
+        "description": "The benefits of the Startup India Scheme are as follows:",
+        "accordionTitle": "Benefits",
+        "renderType": "journal",
+        "features": [
+          {
+            "title": "Income Tax Benefits",
+            "description": "Startups are now given an income tax exemption for a period of three years from the date of incorporation provided they are certified as such by the Inter-Ministerial Board of Certification. Also, upon obtaining recognition from the Department for Promotion of Industry and Internal Trade (DPIIT) and if the aggregate amount of paid-up share capital and share premium of the startup after the proposed issuing of shares, if any, does not exceed ₹25 Crore, the startup will also be exempt from capital gains tax under Section 56 of the Income-tax Act, 1961-2014."
+          },
+          {
+            "title": "Financial Benefits",
+            "description": "Startups are given a rebate on intellectual property rights (IPR) costs of 80% on patents and 50% on trademarks and are actively assisted by government-provided facilitators who aid with protecting and commercialising the IPRs. The examination and disposal of the IPR applications are also fast-tracked. The government will also pay the fees of the facilitators."
+          },
+          {
+            "title": "Registration Benefits",
+            "description": "Startup registration in India is still extremely complex, with incorporation and registration being considered more difficult than the actual running of a business due to the extensive requirements. Under the scheme, it provides a portal to create networking opportunities and assistance for startups. A problem-solving window has been provided by the government under the scheme."
+          },
+          {
+            "title": "Funding Benefits",
+            "description": "Certain states provide seed funding to startups certified under the scheme. To know about your state and the requirements in place."
+          },
+          {
+            "title": "Startup India Scheme: Regulatory Benefits",
+            "description": "Under this scheme, startups are allowed to self-certify compliance for six labour laws and three environmental laws through a simple online procedure. For labour laws, no inspections will be conducted for a period of 5 years unless there is a credible and verifiable complaint of violation, filed in writing, and approved by an official who is at least one level senior to the inspecting officer."
+          },
+          {
+            "title": "",
+            "description": "In the case of environmental laws, startups that fall under the ‘white category’ (as defined by the central pollution control board) would be able to self-certify compliance, and only random checks would be carried out in such cases"
+          },
+          {
+            "title": "Public Procurement Benefits",
+            "description": "Once your startup is certified by the Inter-Ministerial Board of Certification and a DIPP (Department of Industrial Policy and Promotion) number will be issued to you, you can get listed as a seller on the Government of India’s e-procurement portal – Government e-Marketplace – and have the inside track on all Government of India Ministries/Departments/Public Sector undertakings subject to your ability to meet quality and technical requirements. Certified startups under the Startup India scheme will also be entitled to exemptions on the earnest money deposit in your bid as well as in terms of the requirements regarding prior turnover and experience."
+          },
+          {
+            "title": "Faster Exit Benefits",
+            "description": "The government has initiated provisions making winding down operations easier by appointing an insolvency professional to fast-track the closure of operations and facilitate the sale of goods as well as paying creditors, all while recognising limited liability. Startups with a simple debt structure or those meeting the criteria outlined under this scheme will be able to achieve a complete exit within 90 days."
+          }
+        ]
+      },
+      {
+        "title": "Checklist of Startup India Scheme",
+        "description": "The checklist of the Startup India Scheme is as follows:",
+        "accordionTitle": "Checklist of Startup India Scheme",
+        "renderType": "simpleList",
+        "features": [
+          "The company must be incorporated as a private limited company, <span><a href='https://vakilsearch.com/partnership-firm-registration' target='_blank'>partnership firm</a></span> or a limited liability partnership",
+          "An incubation fund, an angel fund, or a private equity fund must finance the business in order for DIPP to approve it",
+          "The company should have received a patron guarantee from the Indian Patent and trademark office",
+          "It requires a recommendation letter from an incubator",
+          "For networks, SEBI registration is necessary under Startup India Scheme",
+          "The company should be brand-new or no more than five years old, and its annual revenue should not exceed ₹25 crores",
+          "The Startup India campaign does not impose income tax on capital gains",
+          "Capital gain is exempt from income tax",
+          "It is working towards the innovation, development, or improvement of products or processes or services",
+          "It is a scalable business model with a high potential for employment generation or wealth creation."
+        ]
+      },
+      {
+        "title": "Application Procedure for Startup India Scheme Registration",
+        "description": "The first and foremost step is to register your company as any one of the following entities:",
+        "accordionTitle": "Application Procedure for Startup India Scheme Registration",
+        "blueTick": "/bluetickwithbg.svg",
+        "renderType": "specialList",
+        "features": [
+          {
+            "title": "Private limited company (PLC)",
+            "description": "Starting your company as a private limited company under the Companies Act, 2013 will be a major advantage while applying for the startup India scheme. It is crucial to register your company. Get in touch with our experts for clear directions and hustle free private limited company registration process"
+          },
+          {
+            "title": "Limited Liability Partnership (LLP)",
+            "description": "Our team can complete <span> <a href='https://vakilsearch.com/llp-registration-india' target='_blank'/>limited liability partnership registration </a></span>quickly. Talk to our experts, provide all the required documentation, sit back and relax. Our team of business incorporation experts will complete the registration and provide the incorporation certificate"
+          }
+        ],
+        "note": "After registering your company you can apply directly for the startup India scheme through Vakilsearch. Our team will initiate the required paperwork and file completely online."
+      },
+      {
+        "accordionTitle": "Why Vakilsearch?",
+        "title": "Why Vakilearch Startup India Scheme Registration?",
+        "renderType": "imageList",
+        "features": [
+          {
+            "img": "/why1.svg",
+            "title": "Expert Guidance",
+            "description": "Vakilsearch has a team of business experts who can guide you throughout the process."
+          },
+          {
+            "img": "/why2.svg",
+            "title": "Strong Team",
+            "description": "Our team will check with the eligibility compliances of your firm and can help in company registration. They will provide complete guidance with respect to the process."
+          },
+          {
+            "img": "/why3.svg",
+            "title": "Quick Documentation",
+            "description": "They will help you with the documentation and provide a clear cut picture on the startup India scheme. Reach out to us right now to initiate the process without any delay"
+          },
+          {
+            "img": "/why4.svg",
+            "title": "Realistic Expectation",
+            "description": "Make sure that your interaction with the government officials and the procedure issmooth as possible. You can get in touch with our experts anytime you want."
+          }
+        ]
+      }
+    ],
+    "stickyBar": [
+      {
+        "img": "Expertsupport.svg",
+        "title": "Eligibility criteria"
+      },
+      {
+        "img": "docs.svg",
+        "title": "Documents required"
+      },
+      {
+        "img": "benefits.svg",
+        "title": "Benefits"
+      }
+    ],
+    "steps": {
+      "title": "Steps Involved in Startup India Scheme Registration",
+      "ś": "Eligibility criteria to avail the DPIIT Certificate of Recognition:",
+      "stepList": [
+        {
+          "img": "summary-icon-1.svg",
+          "desc": "Our experts will<br/>call you",
+          "mobdesc": "Our experts will call you"
+        },
+        {
+          "img": "summary-icon-3.svg",
+          "desc": "Submit the documents<br/>for verification",
+          "mobdesc": "Submit the documents for verification"
+        },
+        {
+          "img": "summary-icon-4.svg",
+          "desc": "Register as DPIIT<br/>under the Startup<br/>India Scheme",
+          "mobdesc": "Register as DPIIT under the Startup India Scheme"
+        }
+      ]
+    },
+    "eligibilityContainer": {
+      "sectionId": 1,
+      "title": "Eligibility Criteria for Startup India Scheme",
+      "description": "Eligibility Criteria For Startup India Registration is as follows:",
+      "tick": "/bluetick.svg",
+      "features": [
+        {
+          "title": "Company Registration: ",
+          "description": "The company must be incorporated as a private limited company,partnership firm or a limited liability partnership. An incubation fund, an angel fund, or a private equity fund must finance the business in order for DIPP to approve it."
+        },
+        {
+          "title": " Have Patron Guarantee From:",
+          "description": "The company should have received a patron guarantee from the Indian Patent and trademark office. Also It requires a recommendation letter from an incubator."
+        },
+        {
+          "title": "Company Existence: ",
+          "description": "The company should be brand-new or no more than five years old, and its annual revenue should not exceed ₹25 crores.Innovative and Scalable Entity: The entity should be working towards innovation, development, or improvement of products or processes or services. It is a scalable business model with a high potential for employment generation or wealth creation."
+        }
+      ]
+    },
+    "documentRequired": {
+      "sectionId": 2,
+      "title": "Startup India Scheme: Documents Required",
+      "description": "The prerequisites are as follows, and the documentation process for applying for a loan under the scheme is somewhat involved:",
+      "features": [
+        {
+          "title": "Identity Proof",
+          "description": "The bank will accept any legal photo ID provided by the government."
+        },
+        {
+          "title": "Address Proof",
+          "description": "Any official document that demonstrates the individual's and the company's addresses."
+        },
+        {
+          "title": "Company Documents",
+          "description": "Memorandum of Association (MOA) Articles of Association (AOA) of the company. In the case of a partnership firm, a partnership deed."
+        },
+        {
+          "title": "Patent Documents",
+          "description": "Statements of the borrower's and the guarantor's assets and liabilities. the company's three most recent balance sheets"
+        },
+        {
+          "title": "Company Incorporation Documents",
+          "description": "<span><a href='https://vakilsearch.com/online-company-registration' target='_blank'>Company registration</a></span> certificate from ROC"
+        }
+      ]
+    },
+    "benefits": {
+      "sectionId": 3,
+      "title": "Benefits of Startup India Scheme",
+      "description": "The benefits of the Startup India Scheme are as follows:",
+      "features": [
+        {
+          "title": "Income Tax Benefits",
+          "description": "Startups are now given an income tax exemption for a period of three years from the date of incorporation provided they are certified as such by the Inter-Ministerial Board of Certification. Also, upon obtaining recognition from the Department for Promotion of Industry and Internal Trade (DPIIT) and if the aggregate amount of paid-up share capital and share premium of the startup after the proposed issuing of shares, if any, does not exceed ₹25 Crore, the startup will also be exempt from capital gains tax under Section 56 of the Income-tax Act, 1961-2014."
+        },
+        {
+          "title": "Financial Benefits",
+          "description": "Startups are given a rebate on intellectual property rights (IPR) costs of 80% on patents and 50% on trademarks and are actively assisted by government-provided facilitators who aid with protecting and commercialising the IPRs. The examination and disposal of the IPR applications are also fast-tracked. The government will also pay the fees of the facilitators."
+        },
+        {
+          "title": "Registration Benefits",
+          "description": "Startup registration in India is still extremely complex, with incorporation and registration being considered more difficult than the actual running of a business due to the extensive requirements. Under the scheme, it provides a portal to create networking opportunities and assistance for startups. A problem-solving window has been provided by the government under the scheme."
+        },
+        {
+          "title": "Funding Benefits",
+          "description": "Certain states provide seed funding to startups certified under the scheme. To know about your state and the requirements in place."
+        },
+        {
+          "title": "Startup India Scheme: Regulatory Benefits",
+          "description": "Under this scheme, startups are allowed to self-certify compliance for six labour laws and three environmental laws through a simple online procedure. For labour laws, no inspections will be conducted for a period of 5 years unless there is a credible and verifiable complaint of violation, filed in writing, and approved by an official who is at least one level senior to the inspecting officer."
+        },
+        {
+          "title": "",
+          "description": "In the case of environmental laws, startups that fall under the ‘white category’ (as defined by the central pollution control board) would be able to self-certify compliance, and only random checks would be carried out in such cases"
+        },
+        {
+          "title": "Public Procurement Benefits",
+          "description": "Once your startup is certified by the Inter-Ministerial Board of Certification and a DIPP (Department of Industrial Policy and Promotion) number will be issued to you, you can get listed as a seller on the Government of India’s e-procurement portal – Government e-Marketplace – and have the inside track on all Government of India Ministries/Departments/Public Sector undertakings subject to your ability to meet quality and technical requirements. Certified startups under the Startup India scheme will also be entitled to exemptions on the earnest money deposit in your bid as well as in terms of the requirements regarding prior turnover and experience."
+        },
+        {
+          "title": "Faster Exit Benefits",
+          "description": "The government has initiated provisions making winding down operations easier by appointing an insolvency professional to fast-track the closure of operations and facilitate the sale of goods as well as paying creditors, all while recognising limited liability. Startups with a simple debt structure or those meeting the criteria outlined under this scheme will be able to achieve a complete exit within 90 days."
+        }
+      ]
+    },
+    "checklist": {
+      "title": "Checklist of Startup India Scheme",
+      "description": "The checklist of the Startup India Scheme is as follows:",
+      "features": [
+        "The company must be incorporated as a private limited company, <span><a href='https://vakilsearch.com/partnership-firm-registration' target='_blank'>partnership firm</a></span> or a limited liability partnership",
+        "An incubation fund, an angel fund, or a private equity fund must finance the business in order for DIPP to approve it",
+        "The company should have received a patron guarantee from the Indian Patent and trademark office",
+        "It requires a recommendation letter from an incubator",
+        "For networks, SEBI registration is necessary under Startup India Scheme",
+        "The company should be brand-new or no more than five years old, and its annual revenue should not exceed ₹25 crores",
+        "The Startup India campaign does not impose income tax on capital gains",
+        "Capital gain is exempt from income tax",
+        "It is working towards the innovation, development, or improvement of products or processes or services",
+        "It is a scalable business model with a high potential for employment generation or wealth creation."
+      ]
+    },
+    "applications": {
+      "title": "Application Procedure for Startup India Scheme Registration",
+      "description": "The first and foremost step is to register your company as any one of the following entities:",
+      "blueTick": "/bluetickwithbg.svg",
+      "features": [
+        {
+          "title": "Private limited company (PLC)",
+          "description": "Starting your company as a private limited company under the Companies Act, 2013 will be a major advantage while applying for the startup India scheme. It is crucial to register your company. Get in touch with our experts for clear directions and hustle free private limited company registration process"
+        },
+        {
+          "title": "Limited Liability Partnership (LLP)",
+          "description": "Our team can complete <span> <a href='https://vakilsearch.com/llp-registration-india' target='_blank'/>limited liability partnership registration </a></span>quickly. Talk to our experts, provide all the required documentation, sit back and relax. Our team of business incorporation experts will complete the registration and provide the incorporation certificate"
+        }
+      ],
+      "note": "After registering your company you can apply directly for the startup India scheme through Vakilsearch. Our team will initiate the required paperwork and file completely online."
+    },
+    "whyContainer": {
+      "title": "Why Vakilearch Startup India Scheme Registration?",
+      "features": [
+        {
+          "img": "/why1.svg",
+          "title": "Expert Guidance",
+          "description": "Vakilsearch has a team of business experts who can guide you throughout the process."
+        },
+        {
+          "img": "/why2.svg",
+          "title": "Strong Team",
+          "description": "Our team will check with the eligibility compliances of your firm and can help in company registration. They will provide complete guidance with respect to the process."
+        },
+        {
+          "img": "/why3.svg",
+          "title": "Quick Documentation",
+          "description": "They will help you with the documentation and provide a clear cut picture on the startup India scheme. Reach out to us right now to initiate the process without any delay"
+        },
+        {
+          "img": "/why4.svg",
+          "title": "Realistic Expectation",
+          "description": "Make sure that your interaction with the government officials and the procedure issmooth as possible. You can get in touch with our experts anytime you want."
+        }
+      ]
+    },
+    "recentUpdates": {
+      "title": "Recent Updates on Startup India Scheme",
+      "newspaper": "/recentUpdate.svg",
+      "points": [
+        "₹945 crore have been approved under the Startup India Seed Fund Scheme (SISFS) for a period of 4 years beginning in 2021–2022. 48 incubators have received approval for financial support totaling ₹192.25 crore as of 10 December 2021, to provide additional seed funding to chosen startups. Incubators have chosen 115 startups so far as part of the programme. Over the next four years, it will provide support to 3,600 entrepreneurs via 300 incubators.",
+        "As of 30 July 2022, 102 incubators had received approval for ₹375.25 million under the SISFS, out of a total corpus of ₹945 crore (SISFS). Additionally, 378 DPIIT-recognised startups have received approval from approved incubators under the programme for a total of ₹81.45 crore."
+      ]
+    },
+    "carouserTitle": "Customers words about us",
+    "carousel": [
+      {
+        "decs": "Vakilsearch has been helpful in many ways to me. Recently, I got the idea of starting my own startup for which I wanted to register for the Startup India Scheme. The legal expertise was efficient and quick enough to have helped with the registration process and documentation.",
+        "companyname": "Royal Trading Company"
+      },
+      {
+        "decs": "I needed help with arranging funds to start my Startup. While the experts of Vakilsearch guided me in understanding the scheme better, they also told me about the Startup India Seed Fund Scheme. The knowledge of the experts is commendable.",
+        "companyname": "Starktech"
+      },
+      {
+        "decs": "I was new to the startup culture and had only recently registered under the Startup India Scheme. I contacted Vakilsearch experts to understand the benefits and they helped me understand the concept. Their IP experts also guided me in registering my startup’s property rights which was time-saving.",
+        "companyname": "DS Traders"
+      },
+      {
+        "decs": "I registered my startup through Vakilsearch and I'm thrilled that the entire process took shorter than I expected. Thanks to Vakilsearch and their team of experts who assisted me throughout the process.",
+        "companyname": "SK Eductech"
+      }
+    ],
+    "faqs": {
+      "faqTitle": "Frequently Asked Questions (FAQs)",
+      "items": [
+        {
+          "question": "What is the legal definition of a startup in India?",
+          "answer": "A startup defined as an entity that is headquartered in India, which was opened less than 10 years ago and has an annual turnover of less than ₹100 crores (US$14 million)."
+        },
+        {
+          "question": "How long does it take for a startup to be successful?",
+          "answer": "Most small businesses take at least 2 to 3 years to be profitable and become truly successful once they've hit the 7 to 10-year mark. Most small businesses take years to be successful, despite the overnight success of companies like Facebook."
+        },
+        {
+          "question": "How much time is needed for setting up a private limited company in India?",
+          "answer": "If you have all the documents in order, it will take no longer than 15 days. However, this is dependent on the workload of the registrar."
+        },
+        {
+          "question": "What is the eligibility of designated partners/partners in an LLP?",
+          "answer": "Any individual, or even a company or an LLP, can become a partner. However, only an individual can become a ‘designated partner’ in an LLP."
+        },
+        {
+          "question": "What kind of start-ups commonly register LLPs?",
+          "answer": "Typically, only start-ups that will not be looking for venture capital funding register LLPs. This is because venture capitalists only invest in private and public limited companies."
+        },
+        {
+          "question": "Is it cheaper to run an LLP than a private limited company?",
+          "answer": "Yes, it is much cheaper to run an LLP than a private limited company, particularly in your early start-up days. This is because many compliances, such as an audit, apply to LLPs only after their turnover is sizable. Most LLPs spend about half as much as a private limited company in their first year on registrations and compliance work."
+        },
+        {
+          "question": "Which industry is the best in India for a startup?",
+          "answer": "According to the Economic Times, as of 2020, the top-earning businesses in India are from the financial services, transport and support services, aerospace, defence, and security services, technology services, and health and education services."
+        }
+      ]
+    },
+    "tarsbotScript": "N1jJ9f",
+    "nofreeconsultation": "true",
+    "submitbtn": "Talk to a company expert",
+    "video": ""
+  },
+  "languages": ["hindi"]
+}

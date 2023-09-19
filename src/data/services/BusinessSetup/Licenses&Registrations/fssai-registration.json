@@ -1,0 +1,602 @@
+{
+  "url": "fssai-registration",
+  "kommunicateGenricChatBot": true,
+  "kommunicateServiceBotName": "fssai",
+  "whitenav": true,
+  "sliderwidth": true,
+  "showYellowBorder":true,
+  "hideSubTitle":true,
+  "hidetars": true,
+  "criteoscript": true,
+  "hidewebengage": true,
+  "b2bServicePage": true,
+  "hideBannerBottom":true,
+  "testvariantA2": true,
+  "testvariantAnew": true,
+  "testvariantformpvt": true,
+  "newvariant": true,
+  "ptltestimonial": true,
+  "hidePartnerList":true,
+  "secondformtitle": "Get the FSSAI license",
+  "pageTitle": "FSSAI Registration License - Process, Documents & Fees",
+  "hideStateField": true,
+  "showGoogleCityField": true,
+  "canonical": true,
+  "canonicalUrl": "fssai-registration",
+  "meta": {
+    "keyword": "FSSAI Registration, FSSAI License, Food License, Food License Registration, Online FSSAI Services, Food Safety, FSSAI Renewal, FoSCoS FSSAI",
+    "description": "Apply FSSAI registration & licensing process with Vakilsearch. Experience our reliable services ensuring complete legal compliance for your food business."
+  },
+  "schema": {
+    "serviceSchema": {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "serviceType": "FSSAI Registration Online",
+      "name": "FSSAI Registration Online",
+      "provider": {
+        "@type": "LegalService",
+        "name": "VakilSearch",
+        "image": "https://assets.vakilsearch.com/live-images/website_revamp/brandlogo.svg",
+        "priceRange": "$$-$$",
+        "telephone": "+917200365365",
+        "url": "https://vakilsearch.com/fssai-registration",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Chennai",
+          "addressRegion": "TN",
+          "postalCode": "600058",
+          "streetAddress": "Prince Info Park, A-5th Floor, Ambattur Industrial Estate, Ambattur, Chennai"
+        }
+      }
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "IN"
+    }
+  },
+  "articleSchema": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://vakilsearch.com/fssai-registration"
+    },
+    "headline": "FSSAI Registration License - Process, Documents & Fees",
+    "description": "Apply FSSAI registration & licensing process with Vakilsearch. Experience our reliable services ensuring complete legal compliance for your food business.",
+    "image": {
+      "@type": "ImageObject",
+      "url": "https://vakilsearch.com/blog/wp-content/uploads/2022/08/FoSCoS-FSSAI-License.png"
+    },
+    "articleSection": "v2",
+    "keywords": "FSSAI Registration, FSSAI License, Food License, Food License Registration, Online FSSAI Services, Food Safety, FSSAI Renewal, FoSCoS FSSAI",
+    "datePublished": "",
+    "dateModified": "",
+    "author": {
+      "@type": "Person",
+      "name": "VakilSearch"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "VakilSearch",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjpD1lt7g1naDsHjs2yuf-KpP9QtH0D9MJ30uqVkvc&s",
+        "width": 800,
+        "height": 344
+      }
+    }
+  },
+  "ogtags": [
+    {
+      "property": "og:title",
+      "content": "FSSAI Registration Online - Documents, Application & License"
+    },
+    {
+      "property": "og:url",
+      "content": "https://vakilsearch.com/online-food-license-fssai-registration"
+    },
+    {
+      "property": "og:description",
+      "content": "A food business should register with the FSSAI. We offer a 100% online service, supported by expert professionals. Our FSSAI license application fee begins at ₹99."
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:locale",
+      "content": "en_IN"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Vakilsearch"
+    }
+  ],
+  "twittercards": [
+    {
+      "name": "twitter:title",
+      "content": "FSSAI Registration Online - Documents, Application & License"
+    },
+    {
+      "name": "twitter:description",
+      "content": "A food business should register with the FSSAI. We offer a 100% online service, supported by expert professionals. Our FSSAI license application fee begins at ₹99."
+    },
+    {
+      "name": "twitter:url",
+      "content": "https://vakilsearch.com/online-food-license-fssai-registration"
+    },
+    {
+      "name": "twitter:card",
+      "content": "summary"
+    },
+    {
+      "name": "twitter:site",
+      "content": "Vakilsearch"
+    }
+  ],
+  "conditionsApply": true,
+  "conditionText": "<b>*TERMS & CONDITIONS</b><br/><ol><li>All documents must be provided by the client on time</li><li>Government portal down-time might cause delays</li></ol>",
+  "content": {
+    "serviceId": "110",
+    "workflow": "foodl-onboarding",
+    "newtestimonialWithReview": true,
+    "title": "Apply FSSAI Food License Online",
+    "subTitle": "Take care of other aspects of your food business while we get you your FSSAI licence without hassles. Start the process at just ₹99!",
+    "formTitle": "Get FSSAI License",
+    "hideH1": true,
+    "ngoBanner": true,
+    "ngoTitleSection": {
+      "title": "Apply FSSAI Food License Online",
+      "ngoFormTitle": "FSSAI License Registration",
+      "ngoFormSubTitle": "",
+      "webHeight": "90px",
+      "mwebHeight": "145px"
+    },
+    "list": [
+      "Fastest registration turnaround time in India with <img src='https://assets.vakilsearch.com/live-images/star_tick.svg' style='padding-bottom:5px;padding-right:3px;'/><b>Guaranteed</b> document upload to the government portal under <b>24 hrs</b> or get a full refund",
+      "Fully online, safe & secure registration process"
+    ],
+    "showYellowTick": "https://assets.vakilsearch.com/live-images/blue-white-tick-b2b.svg",
+    "bannerInsight": "1.2 Lakhs+ FSSAI Registrations Since 2011",
+    "bannerReviews": true,
+    "formSection": {
+      "title": "Apply FSSAI Food License Online",
+      "subTitle": "",
+      "list": [
+        "Fastest registration turnaround time in India with <img src='https://assets.vakilsearch.com/live-images/star_tick.svg' style='display: inline-block; padding-left:2px;padding-right:2px;'/><b>Guaranteed</b> document upload to the government portal under <b>24 hrs</b> or get a full refund",
+        "Fully online, safe & secure registration process"
+      ],
+      "formTitle": "FSSAI License Registration",
+      "submitCTA": "Get started",
+      "secondaryFormSection": {
+        "formTitle": "Get the FSSAI license",
+        "submitCTA": "Get started"
+      }
+    },
+    "thirdform": true,
+    "menus": [
+      {
+        "title": "Overview",
+        "href": "#section1"
+      },
+      {
+        "title": "Registration Process",
+        "href": "#section2"
+      },
+      {
+        "title": "Benefits",
+        "href": "#section3"
+      },
+      {
+        "title": "FSSAI License Renewal",
+        "href": "#section4"
+      },
+      {
+        "title": "Who is Required to Apply?",
+        "href": "#section5"
+      },
+      {
+        "title": "Food & Safety License Fees",
+        "href": "#section6"
+      },
+      {
+        "title": "Types and Eligibility Criteria",
+        "href": "#section7"
+      },
+      {
+        "title": "Documents Required",
+        "href": "#section8"
+      },
+      {
+        "title": "Penalty",
+        "href": "#section9"
+      },
+      {
+        "title": "Difference Between FSSAI Registration and FSSAI License",
+        "href": "#section10"
+      },
+      {
+        "title": "Why Vakilsearch?",
+        "href": "#section11"
+      },
+      {
+        "title": "FAQs",
+        "href": "#section12"
+      }
+    ],
+    "summary": {
+      "title": "The FSSAI Registration Procedure",
+      "description": "With Vakilsearch, you can complete your FSSAI registration in just 3 simple steps",
+      "steps": [
+        {
+          "title": "Fix an appointment",
+          "description": "Just reach out to our experts at vakilsearch on our website",
+          "sign": "https://assets.vakilsearch.com/live-images/website_revamp/new-service-step1.svg"
+        },
+        {
+          "title": "Resolve all your queries",
+          "description": "On the call , get your queries resolved without any delay. Provide the required documents",
+          "sign": "https://assets.vakilsearch.com/live-images/website_revamp/new-service-step2.svg"
+        },
+        {
+          "title": "Complete guidance",
+          "description": "Our team will support you with the formalities and We file the FSSAI application on your behalf",
+          "sign": "https://assets.vakilsearch.com/live-images/website_revamp/new-service-step3.svg"
+        }
+      ]
+    },
+    "sections": [
+      [
+        {
+          "title": "<h1><b>FSSAI Registration and License Online<b></h1>",
+          "href": "section1",
+          "text": "If you're in the food business, getting FSSAI registration is a must. Whether you're involved in processing, manufacturing, packaging, distribution, or selling, you need a Food License. It is issued by the Food Safety and Standards Authority of India (FSSAI), which oversees food businesses adhering  to the regulations in the FSSAI Act of 2006."
+        }
+      ],
+      [
+        {
+          "title": "Food License Process",
+          "href": "section2",
+          "items": "<b>Step 1:</b> Once you get in touch with our experts, Our agents will set up a call with you later and collect all the necessary documents to start the registration process | <b>Step 2:</b> Our expert team will start the registration process for your food business. The process will be completely transparent. You will get timely updates from our experts. | <b>Step 3:</b> The officials from the food department will inspect your food business. After successful inspection, your food business is now registered and you will get the 14 digit FSSAI license.",
+          "serviceImage": [
+            {
+              "title": "FSSAI Registration Process",
+              "imgurl": "live-images/food-license-registration-process.png",
+              "alt": "Fssai registration"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "title": "Benefits of FSSAI Registration",
+          "href": "section3",
+          "text": "The food business owners  can benefit from having an FSSAI license by doing the following:",
+          "items": "Legal advantage | Maintain food safety | Increase goodwill | Make consumers aware | It helps with import food regulation, production, storage, distribution, and sale | When an entrepreneur holds an FSSAI license, raising money from investors is simple|Food goods with FSSAI trademarks assure consumers of the products' high quality."
+        },
+        {
+          "text": "The registration number visible on the food premises denotes that the location complies with criteria for cleanliness and quality."
+        }
+      ],
+      [
+        {
+          "title": "Procedure for Renewal",
+          "href": "section4",
+          "text": "An FSSAI license is valid for a period of one to five years and can be renewed before it expires. Any person or organisation that has an Food license is eligible to apply for a renewal of their license by submitting an application no later than 30 days before their license expires.The renewal process is similar to the application process and requires the same documents. Any FSSAI renewal application submitted after the expiration date is subject to a ₹100 per day late fee. The Food Business Operator must stop all operations at the location if the food license has expired."
+        },
+        {
+          "text": "If you want to change your business address or any other details on your license, you will need to apply for a new license. You can do this by filling out the online application form and providing the required documents."
+        }
+      ],
+      [
+        {
+          "title": "Who is Required to Apply for FSSAI Registration?",
+          "href": "section5",
+          "text": "From hawkers, home vendors to giant food chains everyone operating in the food industry needs to register with FSSAI. Irrespective of whether you are operating online or offline, or whether you are a local player or into the import or export of food products, you need to register with FSSAI. Based on their size and the places they operate, they have to get one of the 3 types of registration/license that are discussed below."
+        },
+        {
+          "text": "If your business falls in any one of the below-listed categories, then a food license is mandatory for you:",
+          "items": "Procurement | Manufacture | Distribution | Processing | Packaging | Storage | Selling"
+        },
+        {
+          "text": "In other words, an individual or a company that operates with food substances from farm to plate must obtain the food license."
+        }
+      ],
+      [
+        {
+          "title": "FSSAI Fees Payment Online",
+          "href": "section6",
+          "text": "When submitting the form, the applicant or FBO needs to pay the below-mentioned fees.",
+          "items": "Fee for FSSAI Basic Registration: ₹100 | Fees for the FSSAI State License range from ₹2,500 to ₹ (Depends on the type of business carried out) | Fee for FSSAI Central License: ₹7,500."
+        },
+        {
+          "title": "Penalty for Not Registering",
+          "text": "A food business operator (FBO) who runs their business without registering under FSSAI may face imprisonment and an penalty of up to ₹5 lakhs for the same."
+        }
+      ],
+      [
+        {
+          "title": "Types and Eligibility Criteria for FSSAI Registration",
+          "href": "section7"
+        },
+        {
+          "datas": [
+            {
+              "type": "table",
+              "headings": [
+                "Types of FSSAI Registration/License",
+                "Eligibility Criteria "
+              ],
+              "rows": [
+                {
+                  "field1": "FSSAI Basic Registration",
+                  "field2": "<li>Turnover up to ₹12 lakhs.</li><li>Manufacturing units with a capacity of up to 2 MT per day. </li><li>Dairy units are handling business up to 5000 litres per day.</li><li>Petty food businesses include hawkers, itinerant vendors, temporary stall holders, etc.</li>"
+                },
+                {
+                  "field1": "FSSAI State Licence",
+                  "field2": "<li>Turnover between ₹12 lakhs -₹20 crores.</li><li>Manufacturing units with a capacity of more than 2 MT per day.</li><li> Dairy units that handle the business of more than 5000 litres per day.</li><li>3-star hotels and above, repackers, relabelling units, clubs, canteens, and all catering businesses, irrespective of their turnover.</li>"
+                },
+                {
+                  "field1": "FSSAI Central Licence",
+                  "field2": "<li>Turnover exceeding ₹20 crores.</li><li>Operations in two or more states.</li>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "<b>Note:</b> These are the general eligibility criteria. The requirements may vary depending on the type of food business and the state or union territory in which the business is located. It is advisable to check with the relevant FSSAI office for more information."
+        },
+        {
+          "text": "Here are some of the benefits of obtaining an Food License:",
+          "items": "It gives you the legal right to manufacture, sell, or distribute food products in India. | It helps to ensure the safety and quality of food products. | It can help to build consumer confidence in your business. | It can help you to expand your business and reach new markets."
+        },
+        {
+          "text": "The application process for an Food License is straightforward. You can apply online/offline. The application fee is ₹1000 for a basic licence, ₹5000 for a state license, and ₹10000 for a central licence."
+        },
+        {
+          "text": "The processing time for an Food License is usually 30-60 days. Once your application is approved, you will be issued a licence certificate. This certificate is valid for a period of 5 years."
+        },
+        {
+          "text": "<b>Some of the capacity criteria for the business are mentioned as follows:</b>",
+          "datas": [
+            {
+              "type": "table",
+              "headings": ["Business", "Capacity"],
+              "rows": [
+                {
+                  "field1": "Food production capacity (other than milk and meat)",
+                  "field2": "Up to 100 kg/ltr per day"
+                },
+                {
+                  "field1": "Procurement, handling and collection of milk",
+                  "field2": "Up to 500 ltr per day"
+                },
+                {
+                  "field1": "Slaughtering capacity",
+                  "field2": "2 large animals or 10 small animals or 50 poultry birds per day or less"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "title": "Documents Required for FSSAI Registration",
+          "href": "section8",
+          "heading": "Documents for New FSSAI Registration Certificate",
+          "items": "Photograph of the Applicant | Government-issued photo identities | Proof of Address of Businesses activity"
+        },
+        {
+          "heading": "Documents for Modification of License/Registration",
+          "text": "Changes in the following documents or details from those provided while obtaining the previous food business license:"
+        },
+        {
+          "text": "1. Certificate indicating adoption of Food Safety Management System"
+        },
+        {
+          "text": "2. Medical fitness certificates of all workers in the firm"
+        },
+        {
+          "text": "3. Complete details of technical personnel overseeing the operation"
+        },
+        {
+          "text": "For renewal of registration/license, the following are required:"
+        },
+        {
+          "text": "1. Any changes in documents or information provided during the grant of the previous registration"
+        },
+        {
+          "heading": "Documents for FSSAI State/Central License",
+          "items": "Form-B | Address proof for production site | Production site layout | Proof of premises rent | Business certificate | Factory license (if any) | Power details for the unit | Contacts for partners, directors, members | ID and address proof for managers or signers | Water test report from a certified lab | Form IX (if you're nominated by the business owner) | NOC from the manufacturer | List of food items to be made | Food safety management plan"
+        }
+      ],
+      [
+        {
+          "title": "Penalty for Non- Compliance",
+          "href": "section9",
+          "text": "Non-compliance with FSSAI regulations can result in penalties and legal action by the authorities. Here are some of the penalties for FSSAI non-compliance:",
+          "items": "Penalty for selling unsafe or substandard food is up to ₹5 lakhs | Penalty for misleading advertising is up to ₹10 lakhs | Penalty for obstructing or failing to cooperate with FSSAI officials is up to ₹2 lakhs | Penalty for violating FSSAI regulations is up to₹2 lakhs | Penalty for carrying out food business without FSSAI registration or license  is up to ₹5 lakhs | Penalty for manufacturing or selling misbranded food is up to ₹3 lakhs | Penalty for manufacturing or selling food containing extraneous matter is up to ₹1 lakh | Penalty for causing injury or death due to the consumption of unsafe food: Imprisonment of up to 6 years and a fine of up to ₹5 lakhs"
+        }
+      ],
+      [
+        {
+          "title": "Difference Between FSSAI Registration and FSSAI License",
+          "href": "section10",
+          "datas": [
+            {
+              "type": "table",
+              "headings": ["Criteria", "FSSAI Registration", "FSSAI License"],
+              "rows": [
+                {
+                  "field1": "Applicability",
+                  "field2": "Small-scale food businesses",
+                  "field3": "Medium and large-scale food businesses"
+                },
+                {
+                  "field1": "Turnover",
+                  "field2": "Annual turnover of up to ₹12 lakhs",
+                  "field3": "Annual turnover of more than ₹12 lakhs"
+                },
+                {
+                  "field1": "Scope",
+                  "field2": "Limited to a specific local area",
+                  "field3": "Allows activities across the country"
+                },
+                {
+                  "field1": "Stringency",
+                  "field2": "Less stringent",
+                  "field3": "More comprehensive and mandatory"
+                },
+                {
+                  "field1": "Validity",
+                  "field2": "Valid for a maximum of 5 years",
+                  "field3": "Valid for a maximum of 5 years"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "title": "Why Vakilsearch?",
+          "href": "section11",
+          "text": "Vakilsearch provides an end-to-end service for food licensing and FSSAI registration. With us you get:",
+          "items": "Food License registration within the smallest time frame | Comprehensive help with food licence online application filling | Guidance on selecting the right food license type | Support through the entire registration procedure | Solution to all your questions and concerns."
+        }
+      ]
+    ],
+    "faqs":{"faqTitle": "FAQs on FSSAI Registration/License",
+    "href":"section12",
+    "items": [
+      {
+        "question": "Who needs an FSSAI License?",
+        "answer": "In India, a license and registration are required for any food-related business that produces, transports, stores, or distributes food. Depending on the size and type of the business, obtaining an FSSAI registration or license may be required."
+      },
+      {
+        "question": "Can we start a business without FSSAI?",
+        "answer": "No. The FSSAI Act mandates licenses from FSSAI for every food business established in order to provide safe and wholesome food for human consumption. It's crucial for all food business owners to have a 14-digit FSSAI license number and print it on each and every one of their food products. To learn more about the effects of opening a business without an FSSAI license in accordance with food safety norms."
+      },
+      {
+        "question": "Is GST required for FSSAI?",
+        "answer": "The Food Safety and Standards Authority of India (FSSAI) declared in a notice dated 27 July 2022 that GST at the stipulated rate would be applied on all services offered by FSSAI including issuing a Central license, Food Safety Mitra Fees, Product Approval Fees, Import Clearance Fees, and so forth."
+      },
+      {
+        "question": "My License was cancelled, can I apply for a new License?",
+        "answer": "Yes, you can apply for a new License, but it will depend on the reason for the cancellation of your previous License. If the License was cancelled due to non-compliance or violation of FSSAI regulations, you may need to rectify the issue before reapplying."
+      },
+      {
+        "question": "Moving my food company unit is necessary. Is it possible for me to use the current licence number at the new location?",
+        "answer": "The current license number cannot be carried over to the new place. You will need to apply for a new license for the new location and surrender the old license."
+      },
+      {
+        "question": "Who are petty food business operators?",
+        "answer": "Small-scale food enterprises with a yearly revenue of up to ₹12 lakhs are referred to as petty food business operators. Examples of petty food business operators include small food vendors, hawkers, and small-scale food manufacturers."
+      },
+      {
+        "question": "What is the eligibility for the Food registration certificate?",
+        "answer": "Food business operators who make less than ₹12 lakh annually are required to register with the FSSAI. Small-scale food makers that run food businesses can register. The form that must be completed in order to get FSSAI essential registration is Form A."
+      },
+      {
+        "question": "Are physical documents required to be furnished at Regional/State Offices for License after submitting an online application?",
+        "answer": "Yes, after filing an online application, physical documents must be provided at regional/state offices for license. Among other things, these documents include the self-attested declaration form, the operator's identity proof, and a proof of address."
+      },
+      {
+        "question": "I have closed down my food business. How to surrender the FSSAI License/Registration?",
+        "answer": "You must submit an application to the FSSAI together with the original license or registration certificate and the reason you wish to revoke your FSSAI license or registration."
+      },
+      {
+        "question": "How to transfer the FSSAI License from one owner FBO to another in case of the death of the owner?",
+        "answer": "In case of the death of the owner, the FSSAI license can be transferred to another owner by submitting a request to the FSSAI along with the death certificate of the previous owner, the proof of ownership transfer, and other relevant documents. The new owner also needs to apply for a new license or registration certificate with the updated details."
+      },
+      {
+        "question": "What is the validity of food & safety license registration?",
+        "answer": "FSSAI licenses issued to food businesses are valid for a period of 1 to 5 years."
+      },
+      {
+        "question": "When should I renew my FSSAI license?",
+        "answer": "It is mandatory to apply for fssai license renewal 30 days before the expiry of the existing food & safety license. Non-renewal of food & safety license can fetch a fine of ₹100 per day until the renewal is done."
+      },
+      {
+        "question": "Which FSSAI License should I obtain if I have multiple manufacturing units in different states?",
+        "answer": "The registered office of your company will need a central Fssai Registration fssai license registration. Your manufacturing units will also need individual state licenses for each state they’re in."
+      },
+      {
+        "question": "Do I need an FSSAI license for the import of food to sell in India?",
+        "answer": "Yes, you do. You need a central license registered from the address in the import export code."
+      },
+      {
+        "question": "Is a FoSCoS FSSAI Registration mandatory for the manufacture of food additives alone?",
+        "answer": "Yes, whether you manufacture, distribute, transport or trade food additives, you will need an FSSAI license to do it."
+      },
+      {
+        "question": "Is the FSSAI license needed for a catering business authorised by the central government?",
+        "answer": "It is mandatory for all catering establishments, even the railways, defence and airport to get an FSSAI license."
+      },
+      {
+        "question": "Is the entire FSSAI License registration process online?",
+        "answer": "Yes! It is 100% online with Vakilsearch!."
+      },
+      {
+        "question": "How long does it take to get fssai license done?",
+        "answer": "For a basic FSSAI registration, it takes 15-20 days from the day the application is filed. For state and central license, it may take up to 35-40 days to get your license."
+      },
+      {
+        "question": "Who is exempted from FSSAI registration?",
+        "answer": "Small-scale food businesses with an annual turnover of up to ₹12 lakhs, or food businesses that handle or manufacture food only for personal consumption, or religious and charitable institutions providing food as part of their activities are exempted from FSSAI registration."
+      },
+      {
+        "question": "Which products need an FSSAI license?",
+        "answer": "All food products, including packaged, bottled, or canned food items, as well as food businesses such as restaurants, food trucks, caterers, and food processors, need an FSSAI license."
+      },
+      {
+        "question": "Do I need an FSSAI registration if I am running a home kitchen?",
+        "answer": " Yes, if you are running a home-based food business, you need to obtain an FSSAI registration or license depending on your annual turnover and the scale of your business."
+      },
+      {
+        "question": "Should I mention the FSSAI number in the invoice?",
+        "answer": "Yes, it is mandatory to mention the FSSAI license or registration number on the food product label as well as on the invoice of the food business."
+      }
+    ]},
+    "recommendedPages": {
+      "title": "Recommended FSSAI Pages to check",
+      "links": [
+        {
+          "name": "FSSAI License Categories",
+          "url": "fssai-category-to-apply"
+        },
+        {
+          "name": "Food License Benefits",
+          "url": "importance-and-benefits"
+        },
+        {
+          "name": "How to Start a Restaurant in India?",
+          "url": "start-restaurant-in-india"
+        },
+        {
+          "name": "Partnering a Restaurant With an Online Food Delivery App",
+          "url": "hotel-and-food-delivery-app-tie-up"
+        },
+        {
+          "name": "Food Safety and Compliance System in India",
+          "url": "food-safety-and-compliance-system-foscos"
+        }
+      ]
+    },
+    "recentUpdates": [],
+    "license": false,
+    "tarsbotScript": "HyVOPR",
+    "hideformfields": true,
+    "citywidth": true,
+    "hidelangfield": "NA",
+    "nofreeconsultation": true,
+    "newbanner": false,
+    "newcontentgst": true,
+    "subheading4": "",
+    "submitbtn": "Get started",
+    "legalbtn": ""
+  },
+  "dashboardtm": true
+}

@@ -1,0 +1,1 @@
+export const ZOLVIT_BAR_KEY = 'zolvitAnnouncementsBarShown';

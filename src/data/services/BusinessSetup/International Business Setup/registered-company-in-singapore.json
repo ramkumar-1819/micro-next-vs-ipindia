@@ -1,0 +1,287 @@
+{
+  "url": "registered-company-in-singapore",
+  "serviceName": "Company Incorporation in Singapore",
+  "whitenav": true,
+  "sliderwidth": true,
+  "hideStateField": true,
+  "showCityField": true,
+  "hidePartnerList": true,
+  "hideBannerBottom": true,
+  "hideSubTitle": true,
+  "showYellowBorder": true,
+  "canonical": true,
+  "b2bServicePage": true,
+  "canonicalUrl": "registered-company-in-singapore",
+  "pageTitle": "Register Company in Singapore - Documents & Key Factors",
+  "meta": {
+    "title": "New Company Registration in Singapore for Foreigner",
+    "keyword": "registered company in singapore, register company in singapore for foreigner, new company registration in singapore, register your business in singapore, company incorporation in singapore, company registration in singapore, company registration in singapore for foreigners, singapore company registration, singapore register company, registration of company in singapore",
+    "description": "Company registration in Singapore is made easy with Vakilsearch. Discover the step-by-step process to establish your business successfully in Singapore!"
+  },
+  "schema": {
+    "articleSchema": {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://vakilsearch.com/registered-company-in-singapore"
+      },
+      "headline": "Register Company in Singapore - Documents & Key Factors",
+      "description": "Company registration in Singapore is made easy with Vakilsearch. Discover the step-by-step process to establish your business successfully in Singapore!",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://vakilsearch.com/blog/wp-content/uploads/2023/04/register-a-company-in-singapore.png"
+      },
+      "articleSection": "v2",
+      "keywords": "registered company in singapore, new company registration in singapore, register your business in singapore, company incorporation in singapore, company registration in singapore, company registration in singapore for foreigners, incorporation of company in singapore, singapore registered company, setting up company in singapore, company formation singapore, singapore business registration, singapore company registration from india",
+      "datePublished": "",
+      "dateModified": "",
+      "author": {
+        "@type": "Person",
+        "name": "VakilSearch"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "VakilSearch",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjpD1lt7g1naDsHjs2yuf-KpP9QtH0D9MJ30uqVkvc&s",
+          "width": 800,
+          "height": 344
+        }
+      }
+    }
+  },
+  "content": {
+    "serviceId": "411",
+    "workflow": "bsing-onboarding",
+    "title": "Register a Company in Singapore",
+    "subTitle": "Starting a business in Singapore is a challenging yet exciting proposition. While the law in Singapore is very business friendly, there are lots of legalities and red tape that need attending to, which means you need the experts from Vakilsearch on the job.",
+    "formTitle": "Apply for Company Incorporation",
+    "hideallleadforms": false,
+    "thirdform": true,
+    "newtestimonialWithReview": true,
+    "b2bBanner": true,
+    "bannerReviews": true,
+    "formSection": {
+      "title": "Register a Company in Singapore",
+      "subTitle": "",
+      "list": [
+        "We handle company registration in Singapore, including legal compliances, paperwork, and post-registration tax filing.",
+        "Based on the entity type our experts assist you in business name approval and document submission for your UEN"
+      ],
+      "formTitle": "Get Started!",
+      "submitCTA": "Talk to an expert",
+      "hasLanguageField": true,
+      "secondaryFormSection": {
+        "formTitle": "Get me more details",
+        "submitCTA": "Talk to an expert",
+        "hasLanguageField": true,
+        "bannerKey": "easy-monthly-emi"
+      }
+    },
+
+    "menus": [
+      {
+        "title": "Overview",
+        "href": "#section1"
+      },
+      {
+        "title": "Types of Business Entities",
+        "href": "#section2"
+      },
+      {
+        "title": "Documents Required",
+        "href": "#section3"
+      },
+      {
+        "title": "Key Factors",
+        "href": "#section4"
+      },
+      {
+        "title": "How Can Vakilsearch Assist?",
+        "href": "#section5"
+      },
+      {
+        "title": "FAQs",
+        "href": "#section6"
+      }
+    ],
+    "summary": {
+      "title": "How to Incorporate a Company in Singapore?",
+      "description": "Company formation in Singapore is quick, easy, and can be done online with Vakilsearch in 3 simple steps:",
+      "steps": [
+        {
+          "title": "We address all your queries about company incorporation in Singapore.",
+          "description": "",
+          "sign": "https://assets.vakilsearch.com/live-images/website_revamp/new-service-step1.svg"
+        },
+        {
+          "title": "We assist you in completing the whole filing and registration process.",
+          "description": "",
+          "sign": "https://assets.vakilsearch.com/live-images/website_revamp/new-service-step2.svg"
+        },
+        {
+          "title": "We help you with the formalities and compliances that follow registration.",
+          "description": "",
+          "sign": "https://assets.vakilsearch.com/live-images/website_revamp/new-service-step3.svg"
+        }
+      ]
+    },
+    "sections": [
+      [
+        {
+          "title": "Register Company in Singapore for Foreigner - An Overview",
+          "href": "section1",
+          "text": "Singapore is now the best place to start a business if you want to expand your worldwide reach. Because of its robust yet friendly investment and trade regulations, Singapore is recognised as one of the best countries in the world to do business. Company registration is required for the company's owners. New <strong> company registration in Singapore </strong> is simple and inexpensive."
+        },
+        {
+          "text": "Singapore is placed second in the Ease of Doing Business Report 2020, which serves as a benchmark for foreigners and locals interested in forming a company in Singapore. According to Singaporean legislation, foreign corporate entities or foreign individuals are not permitted to register as a business in Singapore. For New company registration in Singapore, they must use a local expert business."
+        }
+      ],
+      [
+        {
+          "title": "Types of Singapore Business Entities",
+          "href": "section2",
+          "text": "The following is a basic rundown of the many forms of business entities in singapore company formation:",
+          "items": "Private limited company | Limited liability company | Subsidiary company | Branch office | Representative office"
+        },
+        {
+          "title": "Private Limited Company Formation in Singapore",
+          "text": "A private limited company in Singapore has a different legal position from its owners and directors, who have limited accountability for the business's debts and losses. The owner of this business entity has the right to own property."
+        },
+        {
+          "heading": "Minimum Setup Requirements:",
+          "items": "A single individual/corporate shareholder | One resident director is required | One <a href='https://vakilsearch.com/company-secretary-services-near-me'><b>company secretary</b></a> | Paid-up capital of one dollar | One registered address"
+        },
+        {
+          "title": "Limited Liability Partnership Registration in Singapore",
+          "text": "A <a href='https://vakilsearch.com/llp-registration-india'><b>limited liability partnership</b></a> combines the benefits of a private limited company and a partnership to provide you the maximum freedom while keeping your legal entity independent from your partners."
+        },
+        {
+          "heading": "Minimum Setup Requirements:",
+          "items": "A minimum of two partners is required | A full-time resident manager | A registered address"
+        },
+        {
+          "title": "Setting up Subsidiary Company in Singapore",
+          "text": "A subsidiary company is a private limited company that is owned by an external business entity. This external corporate entity may possess 10% of the company. Setting up company in Singapore enjoys the same benefits as a Singapore-based private limited company."
+        },
+        {
+          "text": "To <strong> Register your business in Singapore</strong>  you can either apply for a Singapore work permit and relocate to Singapore, or you can appoint a nominee director and administer your business from outside."
+        },
+        {
+          "heading": "Minimum Setup Requirements:",
+          "items": "A single individual/corporate shareholder | A resident director is required | A company secretary | Paid-up capital of one dollar | A registered address"
+        },
+        {
+          "title": "Company's Branch Office Formation in Singapore",
+          "text": "A branch office is a non-Singapore-based growth of a foreign corporate entity. Because it is a non-resident, it is not eligible for tax exemptions like other Singapore private limited companies. To Register your business in Singapore you must apply for a Singapore company incorporation employment pass if your company desires to move or send staff to Singapore to conduct business."
+        },
+        {
+          "heading": "Minimum Setup Requirements:",
+          "items": "A corporate shareholder | A local agent | A registered address"
+        },
+        {
+          "title": "Business Representative Office in Singapore",
+          "text": "A representative office is a temporary structure that cannot last for more than three years. <strong> Setting up company in Singapore </strong> permits foreign corporations to temporarily move to Singapore to explore and interact with local distributors as well as analyse the market. To relocate, you'll need a Singapore incorporation employment pass."
+        },
+        {
+          "heading": "Minimum Setup Requirements:",
+          "items": "For Singapore company registration from India, sales turnover must be greater than $250,000. | Must have been in business for at least three years | For Singapore company registration from India, the proposed R.O. personnel must be not more than five employees."
+        }
+      ],
+      [
+        {
+          "title": "What are the Documents Required to Register Your Business in Singapore?",
+          "href": "section3",
+          "text": "For registering your company in Singapore, we will require the following documents from your end.",
+          "items": "Company name | Brief description of business activities | Shareholders | Particulars | Directors’ particulars | Registered address | Company secretary particulars | Memorandum of Association(MOA) | Articles of Association (AOA)."
+        },
+        {
+          "text": "<b>Note:</b>",
+          "items": "<b>On-Residents (Foreigners) -</b> Copy of passport, overseas residential address proof, and other KYC details such as a bank reference letter, business profile, etc. | <b>Singapore Residents -</b> Copy of Singapore identity card."
+        }
+      ],
+      [
+        {
+          "title": "Key Factors of Company Registration In Singapore",
+          "href": "section4",
+          "heading": "Liability/Legal Entity",
+          "text": "One of the most important factors to consider when choosing an organisational form is the liability structure. It is beneficial for both the business owner and the firm if the two are legally different entities. This will provide for a limit on what/who is responsible for any company indebtedness."
+        },
+        {
+          "heading": "Ability to Grow",
+          "text": "A long-term goal for every business is to continue to grow, thus owners must assess which organisational structure will allow them to broaden their horizons and enter new markets or products/services."
+        },
+        {
+          "heading": "Cost of Setting Up",
+          "text": "If the business is a startup, it's important to consider the amount of capital available to register in Singapore."
+        }
+      ],
+      [
+        {
+          "title": "How Can Vakilsearch Assist?",
+          "href": "section5",
+          "text": "When forming a company in Singapore, it's important to choose the right business structure. Thousands of businesses like yours, have chosen Vakilsearch to be a company in Singapore and break into a new market, and our team up with the InCorp Group will give you the best company registration experience a foreign company could hope for in Singapore. With service standards that are client-centred, reliable, and ethical, we will always be here to guide and support you.",
+          "items": "Our goal is to remove the barriers to interacting with traditional financial institutions and government agencies, such as paperwork and bureaucracy. | We believe in making things easier for small businesses so that they may focus on building their business rather than being overwhelmed by administrative responsibilities | Our skilled partners manage everything for you in a timely and efficient manner."
+        }
+      ]
+    ],
+    "faqs": {
+      "href": "section6",
+      "items": [
+        {
+          "question": "Can we use an Indian license in Singapore?",
+          "answer": " Yes, you can use an Indian driving license in Singapore, but only for a short period. If you plan to drive in Singapore for more than a year, you need to convert your Indian license to a Singapore driving license."
+        },
+        {
+          "question": "Do Indians need a work permit in Singapore?",
+          "answer": "Yes, Indians who want to work in Singapore need a work permit or employment pass. The type of permit you need depends on the job and your qualifications."
+        },
+        {
+          "question": "How long does it take to get a license for doing business in Singapore?",
+          "answer": "The time to get a business license in Singapore can vary. Generally, it takes about 1-2 weeks. But it can take longer if extra checks are needed."
+        },
+        {
+          "question": "How much is a Singapore work visa in Indian rupees?",
+          "answer": "Get in touch with a Vakilsearch expert to know more!."
+        },
+        {
+          "question": "How much is the income tax rate in Singapore?",
+          "answer": "<ul><li>Residents are eligible for a number of personal exemptions and are subject to progressive tax rates ranging from 0% to 22% (24% as of the year of assessment 2024)</li><li>Individuals who are non-residents are not eligible for any personal exemptions and must pay tax at a fixed rate of 22% (24% starting in the year of assessment 2024)</li><li>Non-residents are given a break by having their employment income taxed at the highest of a flat rate of 15% or the graduated resident rates with personal exemptions. Directors who are not residents are not eligible for this exception.</li></ul>"
+        },
+        {
+          "question": "Can an Indian company open a branch office in Singapore?",
+          "answer": "Yes, an Indian company can open a branch office in Singapore, subject to compliance with the regulations and requirements of the Singapore government. The company must register with the Accounting and Corporate Regulatory Authority (ACRA) and obtain necessary permits and licences to operate in Singapore."
+        },
+        {
+          "question": "How many Indian companies are in Singapore?",
+          "answer": "A number of Indian start-ups, like Flipkart, have established holding companies in Singapore to take advantage of more funding options."
+        },
+        {
+          "question": "What is the double tax agreement between India and Singapore?",
+          "answer": "The Double Tax Avoidance Agreement (DTAA) between Singapore and India prevents Singapore and India from taxing citizens of both countries twice on their income."
+        },
+        {
+          "question": "Who can incorporate a company in Singapore?",
+          "answer": "A Singaporean, Singapore Permanent Resident, or a Singapore Employment Pass holder can register a Singapore company. If a foreigner wishes to set up a company incorporation singapore, they will require a resident director who has one of the above residential statuses in Singapore."
+        },
+        {
+          "question": "How long does it take to incorporate a company in Singapore?",
+          "answer": "It takes one day to set up a company in Singapore with ACRA."
+        },
+        {
+          "question": "Can a foreigner be a shareholder in a company?",
+          "answer": "Yes, a foreigner can be a shareholder in a company. Although, the company must have a Singapore resident director."
+        },
+        {
+          "question": "What documents are required to set up a company in Singapore?",
+          "answer": "<ul><li>Passport copies of shareholders</li><li>Resident director’s address proof</li><li>Details of the parent company if a subsidiary company is being formed.</li></ul>"
+        }
+      ]
+    },
+    "submitbtn": "Talk to an Expert",
+    "tarsbotScript": "NyImmR"
+  },
+  "languages": []
+}

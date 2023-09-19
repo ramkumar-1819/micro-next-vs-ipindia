@@ -1,0 +1,389 @@
+{
+  "url": "change-company-name",
+  "serviceName": "Change company name online",
+  "sliderwidth": true,
+  "showCityField": true,
+  "hideStateField": true,
+  "showYellowBorder": true,
+  "hideSubTitle": true,
+  "hidePartnerList": true,
+  "hideBannerBottom": true,
+  "showDash": true,
+  "whitenav": true,
+  "canonical": true,
+  "canonicalUrl": "change-company-name",
+  "hidetars": true,
+  "criteoscript": true,
+  "b2bServicePage": true,
+  "hidewebengage": true,
+  "testvariantA2": true,
+  "testvariantAnew": true,
+  "newvariant": true,
+  "ptltestimonial": true,
+  "secondformtitle": "Change Name",
+  "pageTitle": "Change Company Name Online - Vakilsearch",
+  "meta": {
+    "keyword": "Change Company Name Online, How to change company name, change company name, procedure for change of name of company, Changing Your Business Name, Private Limited Company Name Change.",
+    "description": "Choose Vakilsearch to change the company name or check company name availability. Senior business experts at your service. Quick and reliable outcomes are assured."
+  },
+  "schema": {
+    "articleSchema": {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://vakilsearch.com/change-company-name"
+      },
+      "headline": "Change Company Name Online",
+      "description": "Choose Vakilsearch to change the company name or check company name availability. Senior business experts at your service. Quick and reliable outcomes are assured.",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://vakilsearch.com/blog/wp-content/uploads/2023/04/company-name-change.jpg"
+      },
+      "articleSection": "v2",
+      "keywords": "Change Company Name Online, How to change company name, change company name, procedure for change of name of company, Changing Your Business Name, Private Limited Company Name Change.",
+      "datePublished": "",
+      "dateModified": "",
+      "author": {
+        "@type": "Person",
+        "name": "VakilSearch"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "VakilSearch",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjpD1lt7g1naDsHjs2yuf-KpP9QtH0D9MJ30uqVkvc&s",
+          "width": 800,
+          "height": 344
+        }
+      }
+    }
+  },
+  "content": {
+    "serviceId": "35",
+    "workflow": "cnchg-onboarding",
+    "title": "Change Company Name Online",
+    "subTitle": "With Vakilsearch you can change your company’s name easily and quickly. <br><br>Get the process started at just ₹99/- and pay the rest conveniently after processing begins.",
+    "bannerClickspan": true,
+    "subcontent": "*Govt.fees",
+    "subcontent2": " depend on the state.",
+    "formTitle": "Change Company Name",
+    "thirdform": true,
+    "b2bBanner": true,
+    "newtestimonialWithReview": true,
+    "formSection": {
+      "title": "Change Company Name Online",
+      "list": [
+        "Change your company name with MCA compliance. Service includes name availability search, name approval & complete documentation",
+        "We draft applications for approval of company name change and file them with the registrar of companies"
+      ],
+      "formTitle": "Change Company Name",
+      "submitCTA": "Talk to an expert",
+      "secondaryFormSection": {
+        "formTitle": "Change Name",
+        "submitCTA": "Talk to an expert"
+      }
+    },
+    "menus": [
+      {
+        "title": "Overview",
+        "href": "#section1"
+      },
+      {
+        "title": "Why Change",
+        "href": "#section2"
+      },
+      {
+        "title": "Procedure",
+        "href": "#section3"
+      },
+      {
+        "title": "Documents Required",
+        "href": "#section4"
+      },
+      {
+        "title": "Why Vakilsearch",
+        "href": "#section5"
+      },
+      {
+        "title": "The Glossary",
+        "href": "#section6"
+      },
+      {
+        "title": "FAQs",
+        "href": "#section7"
+      },
+      {
+        "title": "Dash",
+        "href": "#section8",
+        "new": true
+      }
+    ],
+    "summary": {
+      "title": "Why should I choose Vakilsearch to change my company name?",
+      "description": "We have a team of Legal and business experts who can complete the process in 3 easy steps",
+      "steps": [
+        {
+          "title": "We will check the company name change and pass a resolution",
+          "description": "",
+          "sign": "https://assets.vakilsearch.com/live-images/website_revamp/new-service-step1.svg"
+        },
+        {
+          "title": "Our experts will draft an application for approval of the company name change and file it with the registrar of companies",
+          "description": "",
+          "sign": "https://assets.vakilsearch.com/live-images/website_revamp/new-service-step2.svg"
+        },
+        {
+          "title": "Once you receive the certificate of incorporation, we make changes to the MOA and AOA",
+          "description": "",
+          "sign": "https://assets.vakilsearch.com/live-images/website_revamp/new-service-step3.svg"
+        }
+      ]
+    },
+    "sections": [
+      [
+        {
+          "title": "Change Company Name - Overview",
+          "href": "section1",
+          "text": "Sometimes, the name of your company just doesn’t feel right or is not working well for your business; or maybe you need to change your company’s name in order to distance yourself from some negative association. In such a situation, you can change the name of your company to something more suited to your future plans. While picking an alternative name might sound like an easy task, the legal process to change the name of your company is tiresome."
+        },
+        {
+          "text": "That is why we at Vakilsearch have created this service to make that change easy for you. We have simplified the process to the maximum extent possible and take care of most of the tasks for you."
+        }
+      ],
+      [
+        {
+          "title": "Reasons for Change of Company Name",
+          "href": "section2",
+          "text": "People decide to change their company’s name for any of the following benefits:"
+        },
+        {
+          "text": "<b>Capitalising on the Popularity of a Product/Service:</b> If a business gains popularity for one particular product or service, it can rename its company around that product/service to capitalise on that popularity."
+        },
+        {
+          "text": "<b>Memorable Business Name:</b> If the existing name isn’t catchy enough, one can change the company’s name to something more memorable that will strike the right chord with their potential customers."
+        },
+        {
+          "text": "<b>Repositioning:</b> A company’s name can also be changed when the business is ready to move into a new market. This helps in repositioning the brand/company."
+        },
+        {
+          "text": "<b>Location-friendly Name:</b> Sometimes, based on the new geography you are entering, it might prove necessary/useful to change to a name that is more friendly and acceptable there."
+        },
+        {
+          "text": "<b>Avoiding Copyright Issues:</b> If a company’s name is subjected to <a href='https://vakilsearch.com/copyright-registration'>copyright</a> issues then it can change its name to avoid problems."
+        },
+        {
+          "text": "<b>Change of Ownership:</b> A new name would help a new owner to ‘stamp their authority’ on the company and give it a whole new direction."
+        },
+        {
+          "text": "<br>"
+        },
+        {
+          "title": "Does Changing a Company’s Name Affect Its Rights",
+          "href": "section2",
+          "items": "The change of name will not affect any rights/obligations of the company and any legal proceedings continued against/by the company in its old name | However, the commencing of any fresh legal proceedings against the company in the former name is not valid after the new name has been registered by the RoC. The company in its old name should be treated as non-existent. However, the new name can be substituted by amending the plaint | The legal proceedings commenced by the company in its old name can be continued under the new name. The entity of the company continues despite the Change Company Name Online."
+        }
+      ],
+      [
+        {
+          "title": "Procedure for Company Name Change",
+          "href": "section3",
+          "text": "To get the name of a company changed, you will need to follow the 5 steps:"
+        },
+        {
+          "heading": "<b>Step 1: Passing a Board Resolution</b>",
+          "text": "A board meeting is to be conducted where a resolution should be passed to change the name of the company. The directors should approve the new name and authorise either a director or a company secretary (CS) to check the availability of the new name with the MCA."
+        },
+        {
+          "heading": "<b>Step 2: Checking the Name Availability</b>",
+          "text": "The authorised person should apply to the MCA in form INC-1 for checking the availability of the proposed name. You can also run a search through this link. It is important to run a <a href='https://vakilsearch.com/trademark-search'>trademark search</a> for the proposed name."
+        },
+        {
+          "text": "It is advised that you should shortlist four to five business names before checking the availability to cover for the event of these names being taken or in use already."
+        },
+        {
+          "heading": "<b>Step 3: Passing Special Resolution</b>",
+          "text": "Once the availability of the new name is confirmed, the company should convene an extraordinary general meeting (EGM). A special resolution will be passed for changing the name and making appropriate changes to the AoA and the MoA."
+        },
+        {
+          "heading": "<b>Step 4: Applying to the Registrar</b>",
+          "text": "The special resolution will be submitted to the RoC within 30 days of passing, along with the form MGT-14, which will contain the details related to the special resolution."
+        },
+        {
+          "text": "Within 30 days of filing the MGT-14, form INC-24 needs to be filed with RoC along with the requisite fee. This is required for obtaining approval from the central government for changing the name. Certain documents also need to be enclosed with these two forms."
+        },
+        {
+          "heading": "<b>Step 5: Issuance of the Certificate of Incorporation</b>",
+          "text": "Upon being completely satisfied with the application and the accompanying documents, the RoC will issue a new certificate of incorporation, reflecting the name change."
+        },
+        {
+          "text": "This is a simplified version of the whole process. Vakilsearch will take all the drafting, filling out of forms, and filing out of your way to make this process easy for you."
+        }
+      ],
+      [
+        {
+          "title": "Documents Required For Company Name Change",
+          "href": "section4",
+          "text": "Firstly, Form MGT-14 needs to be filed with the RoC along with the following documents:",
+          "items": "Notice of the EGM | Certified copy of the special resolution passed in the EGM | The explanatory statement to EGM | Copy of altered MoA and AoA with the changed company name"
+        },
+        {
+          "text": "Once MGT-14 is approved, the INC-24 e-form should be filed within 30 days along with the following documents:",
+          "items": "A certified true copy of the minutes of the EGM | Notice of the EGM | Copy of any approval order received from the other authorities such as IRDA, SEBI, RBI, etc., if any | Copy of resolution agreement mentioning the members voting for and against the resolution | Copy of altered MoA and AoA with the new company name | Other documents regarding any other information sought as optional attachments."
+        }
+      ],
+      [
+        {
+          "title": "Why Vakilsearch for Business Name Change?",
+          "href": "section5",
+          "text": "Here is why you should choose Vakilsearch for changing your company name:",
+          "items": "Simple and speedy process | Our team will check the availability of your proposed name | A resolution drafted and forms filled & filed for you | We will make the amendments to your MoA and AoA | You get the best support | All your queries will be answered."
+        }
+      ],
+      [
+        {
+          "title": "The Glossary",
+          "href": "section6",
+          "heading": "AoA",
+          "text": "Articles of Association"
+        },
+        {
+          "heading": "MoA",
+          "text": "Memorandum of Association"
+        },
+        {
+          "heading": "EGM",
+          "text": "Extraordinary General Meeting"
+        },
+        {
+          "heading": "CS",
+          "text": "Company Secretary"
+        },
+        {
+          "heading": "ROC",
+          "text": "Registrar of Companies"
+        },
+        {
+          "heading": "MCA",
+          "text": "Ministry of Corporate Affairs"
+        }
+      ]
+    ],
+    "faqs": {
+      "href": "section7",
+      "items": [
+        {
+          "question": "What is the memorandum of association?",
+          "answer": "A memorandum of association (MoA) is a legal document that defines a company’s relationship with shareholders and it specifies the objectives for which the company has been formed. It is like the charter of the company and is prepared when the company is created."
+        },
+        {
+          "question": "What are the articles of association of a company?",
+          "answer": "Articles of association (AoA) is a legal document that talks about the internal management of the company and aims at carrying out the objectives as mentioned in the memorandum."
+        },
+        {
+          "question": "Can I check the availability of my proposed company name before applying to the MCA?",
+          "answer": "Yes, you can check the availability of your proposed company name through <a href=\"https://vakilsearch.com/company-name-search\">this link</a> before applying to the MCA."
+        },
+        {
+          "question": "Does a change of name mean the company becomes like a new company?",
+          "answer": "No, changing the name of the company doesn’t have the effect of starting a new company. All the old liabilities and obligations remain as it."
+        },
+        {
+          "question": "Can 2 companies have the same name?",
+          "answer": "No, two registered companies in India cannot have the same name. The RoC will not allow a company to register a name that is already in use."
+        },
+        {
+          "question": "Is the process completely online?",
+          "answer": "Yes, the process is 100% online. We will provide you with a dashboard in which you can comfortably do everything."
+        }
+      ]
+    },
+    "recentUpdates": [],
+    "additionBannerContent": {
+      "spanclick": true,
+      "spanclickcontent": {
+        "tables": [
+          {
+            "header_title": "Company Name Change - Charges & Fees",
+            "sub_headline": "For Pvt Ltd & OPC",
+            "rows": ["Break Up", "Amount"],
+            "columns": [
+              ["Name Approval Fees (Paid to Govt)", "₹1,000"],
+              ["Govt Upload Fees (1 Lakh to 5 Lakhs)", "₹1,300"],
+              ["PAN & TAN", "₹200"]
+            ]
+          },
+          {
+            "header_title": "",
+            "sub_headline": "For LLP",
+            "rows": ["Break Up", "Amount"],
+            "columns": [
+              ["Name Approval Fees (Paid to Govt)", "₹200"],
+              ["Stamp & Notary Fees", "Varies by State"],
+              ["Govt Upload Fees", "₹150"],
+              ["PAN & TAN", "₹200"]
+            ]
+          },
+          {
+            "header_title": "Stamp & Notary Fees for 1 Lakh Capital",
+            "sub_headline": "",
+            "rows": ["State", "Fees"],
+            "columns": [
+              ["Andaman & Nicobar", "₹1,350"],
+              ["Andhra Pradesh", "₹1,500"],
+              ["Arunachal Pradesh", "₹1,100"],
+              ["Assam", "₹1,950"],
+              ["Bihar", "₹6,850"],
+              ["Chandigarh", "₹2,000"],
+              ["Chhattisgarh", "₹3,850"],
+              ["Dadra and Nagar Haveli", "₹3,000"],
+              ["Daman and Diu", "₹1,150"],
+              ["Goa", "₹2,000"],
+              ["Gujarat", "₹3,000"],
+              ["Haryana", "₹2,850"],
+              ["Himachal Pradesh", "₹1,100"],
+              ["Jammu Kashmir", "₹1,950"],
+              ["Jharkhand", "₹6,000"],
+              ["Karnataka", "₹3,000"],
+              ["Kerala", "₹6,000"],
+              ["Lakshadweep", "₹6,000"],
+              ["Madhya Pradesh", "₹3,850"],
+              ["Maharashtra", "₹3,850"],
+              ["Manipur", "₹1,950"],
+              ["Meghalaya", "₹1,100"],
+              ["Mizoram", "₹1,100"],
+              ["Nagaland", "₹1,100"],
+              ["New Delhi", "₹3,850"],
+              ["Orissa", "₹2,050"],
+              ["Pondicherry", "₹1,350"],
+              ["Punjab", "₹2,850"],
+              ["Rajasthan", "₹5,850"],
+              ["Sikkim", "₹1,100"],
+              ["Tamil Nadu", "₹1,350"],
+              ["Telengana", "₹1,500"],
+              ["Tripura", "₹1,100"],
+              ["Uttar Pradesh", "₹2,600"],
+              ["Uttarakhand", "₹1,750"],
+              ["West Bengal", "₹2,000"]
+            ]
+          }
+        ]
+      }
+    },
+    "tarsbotScript": "B1AOHd",
+    "hideformfields": true,
+    "citywidth": true,
+    "hidecityfield": "1",
+    "hidelangfield": "NA",
+    "nofreeconsultation": true,
+    "newbanner": true,
+    "newcontentgst": true,
+    "subheading4": "",
+    "submitbtn": "Talk to an Expert",
+    "legalbtn": ""
+  },
+  "hide_city_lang": true,
+  "dashboardtm": true,
+  "languages": ["hindi"]
+}

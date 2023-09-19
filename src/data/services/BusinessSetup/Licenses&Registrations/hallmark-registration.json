@@ -1,0 +1,252 @@
+{
+  "url": "hallmark-registration",
+  "serviceName": "Hallmark Registration",
+  "whitenav": true,
+  "sliderwidth": true,
+  "showCityField": true,
+  "hideStateField": true,
+  "showYellowBorder": true,
+  "b2bServicePage": true,
+  "canonical": true,
+  "hidePartnerList": true,
+  "showDash": true,
+  "hideBannerBottom": true,
+  "canonicalUrl": "hallmark-registration",
+  "pageTitle": "BIS Hallmark Registration Process Online - Vakilsearch",
+  "meta": {
+    "title": "BIS Hallmark Registration Process Online - Vakilsearch",
+    "keyword": "",
+    "description": " Don't compromise on the quality of your jewellery. Get it certified with BIS Hallmark Registration, the leading authority on jewellery certification in India."
+  },
+  "conditionsApply": true,
+  "conditionText": "<b>*TERMS & CONDITIONS</b><br/><ol><li>All documents must be provided by the client on time</li><li>Government portal down-time might cause delays</li></ol>",
+  "content": {
+    "serviceId": "893",
+    "workflow": "hmark-onboarding",
+    "title": " Hallmark Registration in India",
+    "subTitle": "",
+    "formTitle": "",
+    "thirdform": "true",
+    "newtestimonialWithReview": true,
+    "b2bBanner": true,
+    "bannerReviews": true,
+    "formSection": {
+      "title": "Hallmark Registration in India",
+      "subTitle": "",
+      "list": [
+        "Gain a competitive edge in the Indian market with BIS hallmark certification. Give your customers peace of mind by certifying that your products meet the highest standards of safety and quality.",
+        "Our experts ensure a hassle-free registration process. Cost: ₹5000 +GST"
+      ],
+      "formTitle": "Get Started!",
+      "submitCTA": "Consult an Expert",
+      "secondaryFormSection": {
+        "formTitle": "Get me more details",
+        "submitCTA": "Consult an Expert",
+        "hasLanguageField": true,
+        "bannerKey": "easy-monthly-emi"
+      }
+    },
+    "menus": [
+      {
+        "title": "Hallmark Registration- An Overview",
+        "href": "#section1"
+      },
+      {
+        "title": "What Is Hallmarking?",
+        "href": "#section2"
+      },
+      {
+        "title": "Importance of Hallmark Registration Certification",
+        "href": "#section3"
+      },
+      {
+        "title": "New Marking Method",
+        "href": "#section4"
+      },
+      {
+        "title": "Types of BIS Hallmarking Registration Certificate",
+        "href": "#section5"
+      },
+      {
+        "title": "Who Is Not Eligible for Hallmark Registration in India?",
+        "href": "#section6"
+      },
+      {
+        "title": "Documents Required for Hallmark Registration",
+        "href": "#section7"
+      },
+      {
+        "title": "Hallmarking Procedure in India",
+        "href": "#section8"
+      },
+      {
+        "title": "Procedure for Hallmark Registration in India With Vakilsearch",
+        "href": "#section9"
+      },
+      {
+        "title": "How to Identify Hallmarked Jewellery?",
+        "href": "#section10"
+      },
+      {
+        "title": "FAQs",
+        "href": "#section11"
+      },
+      {
+        "title": "Dash",
+        "href": "#section12",
+        "new": true
+      }
+    ],
+    "summary": {
+      "title": "Why Should I Choose Vakilsearch for Hallmark Registration in India",
+      "description": "Vakilsearch simplifies hallmark registration in India, assuring legal compliance and timely completion",
+      "steps": [
+        {
+          "title": "",
+          "description": "Get in touch with our experts and provide the required documents to start the process",
+          "sign": "https://assets.vakilsearch.com/live-images/website_revamp/new-service-step1.svg"
+        },
+        {
+          "title": "",
+          "description": "We will submit the hallmark registration application on your behalf to the BIS",
+          "sign": "https://assets.vakilsearch.com/live-images/website_revamp/new-service-step2.svg"
+        },
+        {
+          "title": "",
+          "description": "Your application will be reviewed and inspected, and you will be granted the certificate of hallmark registration",
+          "sign": "https://assets.vakilsearch.com/live-images/website_revamp/new-service-step3.svg"
+        }
+      ]
+    },
+    "sections": [
+      [
+        {
+          "title": "Hallmark Registration- An Overview",
+          "href": "section1",
+          "text": "In accordance with Indian Standards, hallmark registration certifies the purity of gold and silver articles. This is conducted by the Bureau of Indian Standards (BIS).In order to ensure the quality of gold and silver products, manufacturers and sellers must obtain hallmark certification. A BIS-approved assaying and hallmarking centre conducts an inspection, tests, and issues a hallmark registration certificate."
+        }
+      ],
+      [
+        {
+          "title": "What Is Hallmarking?",
+          "href": "section2",
+          "serviceImage": [
+            {
+              "imgurl": "hallmark/hallmark-registration.png",
+              "alt": "Hallmark Registration",
+              "title": "Hallmark Registration"
+            }
+          ]
+        },
+        {
+          "text": "Hallmarking is the process of determining and certifying the purity of precious metal articles, such as gold and silver, in compliance with specific standards set by a regulatory body. The hallmark or mark of quality is then imprinted on the article as proof of its purity and quality. The process involves assaying or testing the metal content and fineness of the article, followed by hallmarking or stamping with the appropriate mark. Hallmarking ensures that consumers receive genuine and high-quality precious metal articles and also helps prevent fraud and counterfeiting in the market."
+        }
+      ],
+      [
+        {
+          "title": "Importance of Hallmark Registration Certification",
+          "href": "section3",
+          "items": "Hallmarking certifies the purity and quality of precious metal articles | It is mandatory for manufacturers and sellers of gold and silver articles to obtain hallmark certification in India | Hallmarking helps prevent fraud and counterfeiting on the market | Hallmarking is recognised globally as a mark of quality and purity | Due to their assurance of purity and quality, hallmarks for gold and silver articles have a higher resale and investment value."
+        }
+      ],
+      [
+        {
+          "title": "New Marking Method",
+          "href": "section4",
+          "text": "BIS has introduced a new method for marking jewellery, which includes a unique identification number, a BIS hallmark, and the purity of the metal. The Indian Government required gold artefacts and jewellery to be hallmarked in 2019. Upon obtaining a hallmark registration certificate, registered jewellers selling through certified sales outlets are permitted to sell precious articles of gold marked with hallmarks."
+        }
+      ],
+      [
+        {
+          "title": "Types of BIS Hallmarking Registration Certificate",
+          "href": "section5",
+          "text": "In India, there are two types of BIS hallmarking registration certificates:",
+          "items": "<b>BIS Registration for Jewellers or Showroom</b>: This registration type is mandatory for jewellers who manufacture or sell gold and silver jewellery. Under the hallmarking scheme, BIS grants hallmarking registration to jewellers at a specific location. Each sales outlet of a jeweller who wants to sell BIS hallmarked gold jewellery must obtain hallmark registration from BIS. Jewellers certified by BIS can get their jewellery hallmarked at BIS assaying & hallmarking centres. | <b>BIS Recognition of Assaying & Hallmarking Centre</b>: A hallmarking centre is a BIS-certified marking or third-party evaluation centre where the purity of precious metals is examined and stamped. BIS recognition is required for such centres, and they can apply for it."
+        }
+      ],
+      [
+        {
+          "title": "Who Is Not Eligible for Hallmark Registration in India?",
+          "href": "section6",
+          "items": "Suppose a hallmark jewellery registration is cancelled under sub-regulation 1(e) of Regulation 7 of the BIS (Hallmarking) Regulations, 2018. In that case, they cannot apply for a new certificate until one year has passed from the date of cancellation. | An individual who has been convicted under the Act is not eligible to apply for hallmark registration for one year from the date of conviction."
+        }
+      ],
+      [
+        {
+          "title": "Documents Required for Hallmark Registration",
+          "href": "section7",
+          "items": "Certificate of registration issued by ROCs along with MOA (memorandum of association); |<a href='https://vakilsearch.com/partnership-firm-registration'>partnership deed</a> (in case the applicant is a partnership firm)| CA certificate (in case the applicant is a proprietorship firm); | CA certificate incase of turnover more than ₹40 lakhs; | <a href='https://vakilsearch.com/online-gst-registration'>GST registration</a>| Sale or lease deed agreement;  | Rent agreement with last rent receipt; | Latest property tax receipt; | <a href='https://vakilsearch.com/income-tax-assessment'>Income tax assessment</a>| Registration with state government authority. | Copy of Aadhaar card or PAN card or passport or driving license or voter ID or photo ID card issued by Gazetted Officer on official letterhead; | Aadhaar-based verification or e-signature; | Location map indicating the location of premises from the nearest landmark for each outlet. | Copy of GST returns of previous financial year; | In case the firm is new, an undertaking should be taken from the firm with the estimation of expected turnover & assurance to submit GST returns."
+        }
+      ],
+      [
+        {
+          "title": "Hallmarking Procedure in India",
+          "href": "section8",
+          "text": "The hallmarking procedure consists of three stages:",
+          "items": "Homogeneity testing | Purity testing, and | Individual item marking"
+        },
+        {
+          "items": "<b>Homogeneity Testing</b>: During homogeneity testing, all items within a given sample are taken and checked to ensure that they meet BIS regulatory standards. | <b>Purity Testing</b>: Purity testing is the most difficult step in the process because the items are thoroughly tested. To begin, one of 50 similar items is chosen at random for testing. Then, a preliminary test is performed on the surface of each item, followed by the collection of smaller samples from each item for further detailed examination. Finally, intense assay tests are performed to determine the gold's value, purity, and fineness. | <b>Individual Item Marking</b>: After this rigorous testing is completed, the final step is to mark individual items. Hallmarks are applied using laser, press, or hand marking based on the results of the tests."
+        }
+      ],
+      [
+        {
+          "title": "Procedure for Hallmark Registration in India With Vakilsearch",
+          "href": "section9",
+          "items": "<b>Consultation</b>: The first step is to consult with Vakilsearch to understand the hallmark registration process, fees, and requirements. You can contact Vakilsearch through their website, email, or phone. We would do this process of hallmark registration online. | <b>Documentation</b>: After the consultation, Vakilsearch will guide you on the required documents and information to complete the registration process. This includes the application form, proof of ownership of the precious metal, and any other relevant documents. | <b>Application Submission</b>: Once the required documents have been collected, Vakilsearch will help you submit your hallmark registration application to the Bureau of Indian Standards (BIS). | <b>Application Review</b>: The nearest hallmarking centre will review your application and perform an inspection of the precious metal to ensure that it meets the required standards. | <b>Hallmarking</b>: After the inspection, if your precious metal meets the required standards, the BIS will hallmark it with a unique code that represents the quality and authenticity of the metal. | <b>Issuance of Certificate</b>: The BIS will issue a certificate of hallmark registration to you once the precious metal has been successfully hallmarked. | <b>Renewal</b>: The hallmark registration is valid for a period of one year, after which it must be renewed. Vakilsearch can help you with the renewal process."
+        },
+        {
+          "text": "<b>Disclaimer</b>: The process of registering a Hallmark in India may take anywhere from 30 to 45 days, and it is crucial to ensure that all necessary documents and procedures are correctly followed to prevent delays or rejection of the application. Please note that Vakilsearch is not liable for any application rejections as it is solely dependent on the Hallmark center's criteria, and it is important to meet their requirements. However, Vakilsearch can provide assistance throughout the process to ensure a seamless and stress-free Hallmark registration process."
+        }
+      ],
+      [
+        {
+          "title": "How to Identify Hallmarked Jewellery?",
+          "href": "section10",
+          "items": "<b>Look for the BIS Hallmark</b>: The Bureau of Indian Standards (BIS) is responsible for hallmarking jewellery in India. Look for the BIS hallmark on the jewellery, which consists of a triangle shape with the letters 'BIS' inside it. | <b>Check the Purity Grade</b>: The hallmark will also include the purity grade of the metal, which ranges from 14 karats to 22 karats for gold jewellery and from 825 to 999 for silver jewellery. The purity grade will be marked alongside the BIS logo. | <b>Look for the Jeweller's Identification Mark</b>: Every jeweller that registers with the BIS is assigned a unique identification mark that is engraved on the jewellery. This identification mark can be in the form of a logo or a code. | <b>Check the Year of Hallmarking</b>: The year of hallmarking is also engraved on the jewellery, indicating the year in which the jewellery was hallmarked. This is important as the hallmarking standards can change over time. | <b>Verify the Hallmark</b>: You can verify the authenticity of the hallmark by checking the BIS website or by using the BIS mobile app. Enter the unique hallmarking code to verify the authenticity of the jewellery."
+        }
+      ]
+    ],
+    "faqs": {
+      "href": "section11",
+      "items": [
+        {
+          "question": "What is hallmarking?",
+          "answer": "Hallmarking certifies the quality and purity of precious metals such as gold, silver, and platinum. It involves testing and marking the metal with a unique code representing its purity and authenticity."
+        },
+        {
+          "question": "Which metals are hallmarked in India?",
+          "answer": "In India, gold and silver are the two metals that are hallmarked. Platinum is currently optional to be hallmarked in India."
+        },
+        {
+          "question": "Who operates the hallmarking scheme in India? ",
+          "answer": "The Bureau of Indian Standards (BIS) operates the hallmarking scheme in India. It is responsible for setting the standards for hallmarking, testing precious metals, and issuing hallmarking certificates."
+        },
+        {
+          "question": "Is the cost of hallmarking determined by the weight of the jewellery?",
+          "answer": "The hallmarking charges in India are generally based on the weight of the metal being hallmarked, as well as the number of items being hallmarked. The charges can vary depending on the jeweller and the location."
+        },
+        {
+          "question": "What are the objectives of the hallmarking scheme?",
+          "answer": "The main objectives of the hallmarking scheme are to protect consumers from the adulteration of precious metals, to promote consumer confidence, and to support the growth of the precious metal industry by ensuring high standards of quality and purity."
+        },
+        {
+          "question": "What is the BIS hallmark for gold jewellery? ",
+          "answer": "The BIS hallmark for gold jewellery is a certification mark that indicates the purity of the gold in the jewellery. The hallmark consists of a triangle shape with the letters 'BIS' inside it, along with the purity grade of the gold."
+        },
+        {
+          "question": "What is the BIS hallmark for silver jewellery?",
+          "answer": "The BIS hallmark for silver jewellery is a certification mark that indicates the purity of the silver in the jewellery. The hallmark consists of a rectangular shape with the letters 'BIS' inside it, along with the purity grade of the silver."
+        },
+        {
+          "question": "On what conditions will a license be termed cancelled?",
+          "answer": "The BIS can cancel a jeweller's hallmarking license if the jeweller is found to be violating any of the hallmarking rules and regulations, such as using counterfeit hallmarks, providing false information, or failing to meet the required standards of purity and quality."
+        }
+      ]
+    },
+    "recentUpdates": [],
+    "submitbtn": "Consult an Expert",
+    "tarsbotScript": "SksVkN"
+  },
+  "languages": []
+}

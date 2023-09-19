@@ -1,0 +1,418 @@
+{
+  "url": "federation-of-indian-export-organisations",
+  "serviceName": "FIEO registration",
+  "whitenav": true,
+  "sliderwidth": true,
+  "showCityField": true,
+  "showYellowBorder": true,
+  "hideBannerBottom": true,
+  "hideSubTitle": true,
+  "showDash": true,
+  "hideStateField": true,
+  "canonical": true,
+  "b2bServicePage": true,
+  "hidePartnerList": true,
+  "showClickToWatch": true,
+  "canonicalUrl": "federation-of-indian-export-organisations",
+  "pageTitle": "FIEO Registration (RCMC): Membership, Documents & Process",
+  "meta": {
+    "title": "Federation of Indian Export Organisations | FIEO Registration",
+    "keyword": "federation of indian export organisations, fieo, fieo registration, fieo membership, indian export council, fieo org, fieo membership fees, fieo rcmc, fieo certificate of origin, fieo products list, export promotion council of india, trade promotion council of india, fieo export",
+    "description": "Learn about FIEO registration, promoted by the Federation of Indian Export Organisations. Gain insights into FIEO registration with assistance from Vakilsearch."
+  },
+  "schema": {
+    "articleSchema": {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://vakilsearch.com/federation-of-indian-export-organisations"
+      },
+      "headline": "Federation of Indian Export Organisations (FIEO) Registration",
+      "description": "Learn about FIEO registration, promoted by the Federation of Indian Export Organisations. Gain insights into FIEO registration with assistance from Vakilsearch.",
+      "image": {
+        "@type": "ImageObject",
+
+        "url": "https://vakilsearch.com/blog/wp-content/uploads/2023/04/fieo-registration.png"
+      },
+      "articleSection": "v2",
+      "keywords": "federation of indian export organisations, fieo, fieo registration, fieo membership, fieo registration renewal, fieo export, fieo membership fees, fieo registration online",
+      "datePublished": "",
+      "dateModified": "",
+      "author": {
+        "@type": "Person",
+        "name": "VakilSearch"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "VakilSearch",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjpD1lt7g1naDsHjs2yuf-KpP9QtH0D9MJ30uqVkvc&s",
+          "width": 800,
+          "height": 344
+        }
+      }
+    }
+  },
+  "serviceItems": [
+    {
+      "header": "",
+      "items": [
+        "Registration & filing queries clarified in 30 mins",
+        "Fully online consultation",
+        "Consultation fees paid will be adjusted against the registration cost"
+      ]
+    }
+  ],
+  "content": {
+    "serviceId": "687",
+    "title": "FIEO Registration Online",
+    "subTitle": "Consult an expert on FIEO- RCMC Registration with Vakilsearch.",
+    "workflow": "expf-onboarding",
+    "b2bBanner": true,
+    "newtestimonialWithReview": true,
+    "formSection": {
+      "title": "FIEO Registration Online",
+      "subTitle": "",
+      "list": [
+        "FIEO-RCMC registration done in 3 steps by top legal experts. RCMC certificate delivered directly.",
+        "Both FIEO renewal and registration handled seamlessly. 100% online and safe process"
+      ],
+      "formTitle": "Get Legal Assistance",
+      "submitCTA": "Talk to an Expert",
+      "secondaryFormSection": {
+        "formTitle": "Get me more details",
+        "submitCTA": "Talk to an Expert",
+        "hasLanguageField": true,
+        "bannerKey": "easy-monthly-emi"
+      }
+    },
+    "menus": [
+      {
+        "title": "Federation of Indian Export Organisations - An Overview",
+        "href": "#section1"
+      },
+      {
+        "title": "RCMC Membership Types for FIEO Registration",
+        "href": "#section5"
+      },
+      {
+        "title": "Services of FIEO in India",
+        "href": "#section2"
+      },
+      {
+        "title": "Federation of Indian Export Organisations Activities",
+        "href": "#section3"
+      },
+      {
+        "title": "Documents Required for FIEO Registration",
+        "href": "#section4"
+      },
+      {
+        "title": "Eligibility",
+        "href": "#section6"
+      },
+      {
+        "title": "FIEO Registration Process",
+        "href": "#section7"
+      },
+      {
+        "title": "Benefits of FIEO Registration",
+        "href": "#section8"
+      },
+      {
+        "title": "FIEO Membership Annual Subscription Fees",
+        "href": "#section9"
+      },
+      {
+        "title": "Why Vakilsearch",
+        "href": "#section11"
+      },
+      {
+        "title": "FIEO Registration FAQ's",
+        "href": "#section12"
+      },
+      {
+        "title": "Dash",
+        "href": "#section13",
+        "new": true
+      }
+    ],
+    "summary": {
+      "title": "Why Should I Use Vakilsearch for Federation of Indian Export Organisations RCMC? ",
+      "description": "Vakilsearch has a team of legal experts who can provide complete guidance to avail the RCM certificate!",
+      "steps": [
+        {
+          "title": "Fix an appointment",
+          "description": "Just reach out to our experts at vakilsearch on our website.",
+          "sign": "https://assets.vakilsearch.com/live-images/website_revamp/new-service-step3.svg"
+        },
+        {
+          "title": "Resolve all your queries",
+          "description": "On the call, get your queries resolved without any delay. Provide the required documents.",
+          "sign": "https://assets.vakilsearch.com/live-images/website_revamp/new-service-step2.svg"
+        },
+        {
+          "title": "Get your FIEO RCMC certificate",
+          "description": "FIEO RCMC registration is completed and the certificates will be sent to you.",
+          "sign": "https://assets.vakilsearch.com/live-images/website_revamp/new-service-step1.svg"
+        }
+      ]
+    },
+    "sections": [
+      [
+        {
+          "title": "Federation of Indian Export Organisations - An Overview",
+          "href": "section1",
+          "text": "The Ministry of Commerce, Government of India, established the Federation of Indian Export Organisations (FIEO) to supervise and promote India's exports. The council, which has its main office in New Delhi, stands in for the entrepreneurial spirit of Indian business people on the international stage."
+        },
+        {
+          "text": "The FIEO Membership works actively to bring up the issues and challenges faced by exporters with the relevant agencies in order to have them resolved as soon as possible. Its main objective is to help members take their businesses global."
+        }
+      ],
+      [
+        {
+          "title": "Services of FIEO in India",
+          "href": "section2",
+          "items": "A weekly e-bulletin is provided by FIEO to keep traders informed of both national and international trade-related news as well as developments on the global stage | The Indian trade portal offers a free online service that provides information on 65 countries' MFN tariffs, preferential tariffs, SPS/TBT, and rules of origin as well as 87 countries' import statistics and India's share of those imports | The council provides two additional chat services on the FIEO registration website to address inquiries regarding quality standards, business legal matters, arbitration, international treaties, transfer of technology, patent applications, trademarks, product marketing, and related topics | The website of Federation of Indian Export Organisations has press articles on topics pertaining to global trade | Spot rates, forward rates, a forward calculator, a FOREX matrix, pivot points, the LIBOR rate, historical data, a currency source, and a chart are among the FOREX Services that FIEO has launched."
+        }
+      ],
+      [
+        {
+          "title": "Federation of Indian Export Organisations Activities",
+          "href": "section3",
+          "items": "Addressing the issues of exporters by directing them to the proper authorities. | Gives exporters the chance to meet with specialists from the FIEO to talk about problems with global trade and get explanations on policy issues. | On the FIEO website, you may find details about organisations that promote international commerce as well as current trade policies. | To debate trade-related concerns, the FIEO organises house talks with the highest levels of government."
+        }
+      ],
+      [
+        {
+          "title": "Documents Required for FIEO Registration",
+          "href": "section4",
+          "items": "A self-certified copy of the import export code number provided by the appropriate licensing body | A yearly membership fee that must be paid in the form of a demand draft, pay order, or check made out to the FIEO | Letter of authority printed on the company's letterhead | A self-certified copy of the <a href='https://vakilsearch.com/udyam-udyog-aadhar-msme-registration'><b>SSI registration</b></a> certificate, an industrial license, or an IEM | A self-certified copy of the certificates for 1 to 5-star export houses | Director, partner, and owners government recognised ID | GSTIN | Export revenue by nation and/or commodity over the last three fiscal years | A statement of foreign exchange earnings for the previous three fiscal years for service providers"
+        }
+      ],
+      [
+        {
+          "title": "RCMC Membership Types for FIEO Registration",
+          "href": "section5",
+          "text": "The FIEO membership requirements are governed by the Foreign trade policy of the government of India. In order to receive the benefits offered to exporters under this policy, an exporter is required to obtain the Registration-cum-Membership Certificate (RCMC). The council for export promotion designated by the government for FIEO Registration. For the purposes of <a href='https://vakilsearch.com/rcmc-registration'><b>RCMC Registration</b></a> under FIEO, there are two categories of membership:"
+        },
+        {
+          "items": "<b>Common Membership:</b>"
+        },
+        {
+          "text": "As implied by the name of the membership, this type is intended for organisations that have recently started operating in the export and import sectors."
+        },
+        {
+          "items": "<b>Partner Membership:</b>"
+        },
+        {
+          "text": "Organisations that have long histories of exporting and importing goods are eligible for associate membership. The fees for associate membership are higher and are based on a fee in addition to the minimal GST rates."
+        }
+      ],
+      [
+        {
+          "title": "Eligibility Criteria for RCMC Registration in FIEO Membership",
+          "href": "section6",
+          "text": "When submitting an application to the FIEO Registration to obtain the RCMC certificate, the applicant must adhere to the following requirements:"
+        },
+        {
+          "heading": "Either a Merchant or an Exporter",
+          "text": "The applicant must confirm that the business being conducted is an export-import operation. It is one of the most crucial requirements for starting an export company in India. The exporter must also attest that they have given the appropriate authority a request for the <a href='https://vakilsearch.com/import-export-code'><b>Import Export Code registration</b></a> (IEC). The Director General of Foreign Trade (DGFT) supervises the IEC."
+        },
+        {
+          "heading": "Main Business Overview",
+          "text": "It is necessary for the exporter or merchant to specify their main business. For instance, if tea and coffee are the primary business lines, the relevant consent of the Coffee and Tea Progression Board must be obtained. The FIEO must approve the export of the goods if they are not listed with any export promotion boards or other authorities."
+        },
+        {
+          "heading": "Board Approval for the FIEO",
+          "text": "The applicant is responsible for making sure that the required authorisation is obtained from the relevant board or the FIEO membership. If there isn't a specific board for the relevant product, the applicant will need to apply to the FIEO for approval. The same requires approval from the FIEO."
+        }
+      ],
+      [
+        {
+          "title": "FIEO Registration Process",
+          "href": "section7",
+          "items": "Upload the necessary files and data to our web portal | For information about your category of scheduled goods, speak with our business advisor | Our experts will confirm the accuracy of the documents and information provided | Use one of the available payment methods to make your payment online | Our experts will submit an application along with the necessary paperwork | The government agency will issue an FIEO Registration certificate following a successful verification."
+        }
+      ],
+      [
+        {
+          "title": "Benefits of FIEO Registration",
+          "href": "section8",
+          "items": "Trade Concessions under foreign trade policy | MAI Grant – FIEO disburses MAI grants to eligible members participating in exhibitions/trade fairs/delegation abroad organised by it and also provides booths at subsidised cost to its members in overseas exhibitions. FIEO participates in around 50 well-renowned exhibitions in a year world over | Hosting on FIEO website – FIEO provides its members with the opportunity of uploading product pictures on its website free of cost. FIEO members can also host their profile on the FIEO website which is searchable. | Search with FIEO – FIEO website has a search engine where buyers can search for exporters from India dealing in different products. | Names of only FIEO Membership are displayed and buyers have the option to contact member exporters directly | Platform for members to discuss issues with various authorities like excise, customs, DGFT, etc. Regular meetings are organised with the decision-makers so as to solve the problems faced by exporters | FIEO certificate of origin and Visa recommendation letters to members to facilitate their overseas travel | Online chat facility to seek clarification on international trade issues, including policy clarifications.",
+          "serviceImage": [
+            {
+              "title": "Benefits of FIEO Registration",
+              "imgurl": "live-images/benefits-of-fieo-registration.png",
+              "alt": "fieo registration"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "title": "FIEO Membership Annual Subscription Fees",
+          "href": "section9",
+          "text": "An exporter that registers with FIEO will benefit from both the Foreign Trade Policy benefits as well as FIEO's services, facilities, credentials, and global reach. An exporter can still sign up on FIEO Membership under its Individual Exporter Category even if they do not want to obtain the RCMC and claim benefits under the Foreign Trade Policy. Here is the list of what different categories should pay annually:"
+        },
+        {
+          "datas": [
+            {
+              "type": "table",
+              "headings": ["S.No", "Category", "Fee"],
+              "rows": [
+                {
+                  "field1": "1",
+                  "field2": "Individual Exporter",
+                  "field3": "₹6,250/-"
+                },
+                {
+                  "field1": "2",
+                  "field2": "Multi-Products Group",
+                  "field3": "₹6,250/-"
+                },
+                {
+                  "field1": "3",
+                  "field2": "Multi-Product Group (Premier)*",
+                  "field3": "₹7,000/-"
+                },
+                {
+                  "field1": "4",
+                  "field2": "Service Providers",
+                  "field3": "₹6,250/-"
+                },
+                {
+                  "field1": "5",
+                  "field2": "FTZ units/EOUs",
+                  "field3": "₹9,375/-"
+                },
+                {
+                  "field1": "6",
+                  "field2": "One Star Export House",
+                  "field3": "₹9,375/-"
+                },
+                {
+                  "field1": "7",
+                  "field2": "Two Star Export House",
+                  "field3": "₹12,500/-"
+                },
+                {
+                  "field1": "8",
+                  "field2": "Three Star Export House",
+                  "field3": "₹25,000/-"
+                },
+                {
+                  "field1": "9",
+                  "field2": "Four Star Export House",
+                  "field3": "₹50,000/-"
+                },
+                {
+                  "field1": "10",
+                  "field2": "Five Star Export House",
+                  "field3": "₹93,750/-"
+                },
+                {
+                  "field1": "11",
+                  "field2": "State Export Organisation",
+                  "field3": "₹6,250/-"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "FIEO Registration Renewal/Validity",
+          "text": "RCMC shall be deemed to be valid from 1 April of the licensing year in which it was issued and shall be valid for five years ending 31 March of licensing year, unless otherwise specified."
+        }
+      ],
+      [
+        {
+          "title": "Why Vakilsearch? ",
+          "href": "section11",
+          "text": "When it comes to FIEO Registration, Vakilsearch has the top legal team. Our attorneys will complete the application for an RCMC once they have gathered all the required documentation. Our team can complete all the processes without any delays.  Our team has a lot of experience in multiple sectors and can provide complete holistic support through the process."
+        }
+      ]
+    ],
+    "faqs": {
+      "faqTitle": "FIEO Registration FAQ's",
+      "href": "section12",
+      "items": [
+        {
+          "question": "Who is a Status holder?",
+          "answer": "‘Status Holder’ refers to exporters who have received a Recognition Certificate from the Directorate General of Foreign Trade for their exceptional export performances."
+        },
+        {
+          "question": "How do I pay for my annual subscription?",
+          "answer": "The Head of accounts of the regional office creates the membership subscription bill for the upcoming fiscal year's subscription along with the current year's outstanding membership subscription in December of each year, and by December 15 mails it to the members with a cover letter bearing the signature of the regional head."
+        },
+        {
+          "question": "How do I obtain an FIEO certification?",
+          "answer": "Application for Registration/Membership with details of the business line. a copy of the Importer and Exporter Code (IEC) number that has been self-attested. An applicant's bank statement. SSI/IEM certificate if the applicant is in the manufacturing industry."
+        },
+        {
+          "question": "What is an FIEO certificate?",
+          "answer": "One of the organisations permitted to issue non-preferential FIEO certificates of origin is FIEO. Through two platforms, FIEO issues online non-preferential FIEO certificates of origin. 1. DGFT's common digital platform."
+        },
+        {
+          "question": "How much does IEC code cost?",
+          "answer": "According to the most recent notification, IEC code application fees are ₹500 and can be paid online with credit or debit cards, e-wallets, or net banking. So, in India, the government fee or official fee to obtain an IEC code is ₹500."
+        },
+        {
+          "question": "What is Registration Cum Membership Certificate (RCMC)?",
+          "answer": "RCMC stands for Registration-cum-Membership Certificate. It is a document that certifies an exporter's membership with a particular Export Promotion Council (EPC) or a commodity board."
+        },
+        {
+          "question": "What is Registration Cum Membership Certificate (RCMC)?",
+          "answer": "RCMC stands for Registration-cum-Membership Certificate. It is a document that certifies an exporter's membership with a particular Export Promotion Council (EPC) or a commodity board."
+        },
+        {
+          "question": "How FIEO registrations help its members to increase the credibility of Exporter?",
+          "answer": "FIEO (Federation of Indian Export Organisations) registration helps its members by providing them with a credible platform to showcase their export capabilities. It also offers access to various export-related services and information, which can help increase an exporter's credibility in the international market."
+        },
+        {
+          "question": "How is the FIEO Registration beneficial for Exporters?",
+          "answer": "FIEO registration can be beneficial for an exporter in many ways, such as providing them with access to export-related information, networking opportunities, training and capacity-building programs, and government schemes and incentives. It can also help increase an exporter's credibility in the international market."
+        },
+        {
+          "question": "What is the benefit of RCMC?",
+          "answer": "The benefit of RCMC is that it enables an exporter to become a member of a particular Export Promotion Council (EPC) or a commodity board. This membership provides them with access to various export-related services, incentives, and information, which can help facilitate their export activities."
+        },
+        {
+          "question": "What are the reports required to submit by the RCMC holder?",
+          "answer": "RCMC holders are required to submit periodic reports, such as export performance reports, to their respective Export Promotion Councils (EPCs) or commodity boards. These reports help the EPCs or commodity boards monitor and evaluate the export performance of their members."
+        },
+        {
+          "question": "Is FIEO an export promotion council?",
+          "answer": "FIEO is not an export promotion council, but rather a federation of Indian export organisations that acts as a platform for various export-related activities and services. However, it is recognised by the government of India as an apex export promotion organisation."
+        },
+        {
+          "question": "Can I export without RCMC?",
+          "answer": "Yes, you can export without RCMC, but it may limit your access to various export-related services, incentives, and information provided by Export Promotion Councils (EPCs) or commodity boards."
+        },
+        {
+          "question": "How long does it take to get IEC code?",
+          "answer": "It typically takes around 1-2 working days to get an IEC (Import Export Code) code from the Directorate General of Foreign Trade (DGFT) after submitting the application and required documents."
+        },
+        {
+          "question": "How do FIEO registrations assist members in enhancing their exporter's credibility?",
+          "answer": "FIEO registrations assist members in enhancing their exporter's credibility by providing access to a credible platform to showcase their export capabilities, access to export-related information, networking opportunities, and training and capacity-building programs."
+        },
+        {
+          "question": "What services are not covered by the FIEO-RCMC?",
+          "answer": "Services not covered by the FIEO-RCMC include customs clearance, transportation, and other logistic services related to the export of goods."
+        },
+        {
+          "question": "What is the Registration Validity?",
+          "answer": "The registration validity of RCMC is typically for 5 years, after which it needs to be renewed by submitting the required documents and fees."
+        }
+      ]
+    },
+    "recentUpdates": [],
+    "tarsbotScript": "rkOo3E",
+    "submitbtn": "Talk to an Expert",
+    "video": "https://www.youtube.com/embed/xYnqYkWpLq4?autoplay=1"
+  },
+  "languages": ["hindi"]
+}

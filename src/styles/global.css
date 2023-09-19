@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#banner-top a[href] {
+  color: #007aff !important;
+}
+
+.inline-table {
+  border-collapse: collapse;
+}
+
+.inline-table th,
+.inline-table td {
+  padding: 0.5rem;
+  border: 1px solid #caced1;
+}
+
+table li {
+  margin-left: 1rem;
+  text-align: left;
+}

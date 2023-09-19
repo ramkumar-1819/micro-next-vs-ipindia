@@ -1,0 +1,288 @@
+{
+  "url": "business-setup-in-dubai",
+  "whitenav": true,
+  "sliderwidth": true,
+  "hideStateField": true,
+  "hideSubTitle": true,
+  "hidePartnerList": true,
+  "hideCityField": true,
+  "canonical": true,
+  "incServicePage": true,
+  "showBackgroundImage": true,
+  "showClickToWatch": true,
+  "canonicalUrl": "business-setup-in-dubai",
+  "pageTitle": "Company Formation Business Setup In Dubai Free Zone - Vakilsearch",
+  "meta": {
+    "title": "Starting a Business | Dubai Company Registration & Formation",
+    "keyword": "opening company in dubai, business setup in dubai, starting a business in dubai, company registration in dubai, low cost business setup in dubai, registering company in dubai, setting up a company in dubai, company formation in dubai, new company setup in dubai, setup company in dubai, company setup in dubai, setting up a business in dubai",
+    "description": "Looking to open a company in Dubai? Explore our low-cost business setup services for registering a company in Dubai. Setting up a company in Dubai is easy with us!"
+  },
+  "schema": {
+    "articleSchema": {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://vakilsearch.com/business-setup-in-dubai"
+      },
+      "headline": "Company Formation Business Setup In Dubai Free Zone - Vakilsearch",
+      "description": "Opening and incorporating your new company or business setup in Dubai with the right filing and registration of formation at low costs, only at Vakilsearch.​​",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://vakilsearch.com/blog/wp-content/uploads/2023/04/business-setup-in-dubai.png"
+      },
+      "articleSection": "v2",
+      "keywords": "business setup in dubai, company registration in dubai, registering company in dubai, dubai company formation, new company setup in dubai, starting a business in dubai, setup business in dubai",
+      "datePublished": "",
+      "dateModified": "",
+      "author": {
+        "@type": "Person",
+        "name": "VakilSearch"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "VakilSearch",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjpD1lt7g1naDsHjs2yuf-KpP9QtH0D9MJ30uqVkvc&s",
+          "width": 800,
+          "height": 344
+        }
+      }
+    }
+  },
+  "content": {
+    "serviceId": "416",
+    "workflow": "bdub-onboarding",
+    "title": "Business Setup in Dubai",
+    "b2bBanner": true,
+    "newtestimonialWithReview": true,
+    "backgroundImage": "https://assets.vakilsearch.com/live-images/business-setup-uae/bg.svg",
+    "bannerInsight": "<b>15yrs</b> Tax Exemption.<b>15yrs</b> Renewable.<b>100%</b> Repatriation of Capital",
+    "bannerReviews": true,
+    "formSection": {
+      "title": "Setup Your Business in the UAE/Dubai",
+      "subTitle": "",
+      "list": [
+        "Get your company name registered in under <b>24 hrs</b> and receive a lifetime free visa with 100% tax exemption and ownership of your company",
+        "Complete secrecy of operations with lower renewal charges & zero import or export duties"
+      ],
+      "formTitle": "Get Started!",
+      "hideCityField": true,
+      "submitCTA": "Form my company",
+      "secondaryFormSection": {
+        "submitCTA": "Form my company",
+        "hasLanguageField": true,
+        "bannerKey": "no-spam"
+      }
+    },
+    "subTitle": "A Dubai Limited Liability Company allows foreigners’ ownership of up to 49% of a company. Whereas, a Dubai Free Zone Company permits foreign investors to own 100% ownership of the company.",
+    "formTitle": "Apply for Company Incorporation",
+    "hideallleadforms": false,
+    "thirdform": true,
+    "menus": [
+      {
+        "title": "Registering Company in Dubai",
+        "href": "#section1"
+      },
+      {
+        "title": "Types of Licenses",
+        "href": "#section2"
+      },
+      {
+        "title": "Benefits of Setting up a Company in Dubai",
+        "href": "#section3"
+      },
+      {
+        "title": "Documents Required",
+        "href": "#section4"
+      },
+      {
+        "title": "Eligibility",
+        "href": "#section5"
+      },
+      {
+        "title": "Low Cost Business Setup in Dubai Procedure",
+        "href": "#section6"
+      },
+      {
+        "title": "Why Vakilsearch",
+        "href": "#section7"
+      },
+      {
+        "title": "FAQs",
+        "href": "#section8"
+      }
+    ],
+    "summary": {
+      "title": "Process of incorporating a company in the UAE with Vakilsearch",
+      "description": "When forming a company, many opt for UAE because of its legacy as a thriving commercial centre and rapid expansion.",
+      "steps": [
+        {
+          "title": "Our experts answer all your queries and suggest the best package for UAE company formation.",
+          "description": "",
+          "sign": "https://assets.vakilsearch.com/live-images/website_revamp/new-service-step1.svg"
+        },
+        {
+          "title": "All of the documentation and filings for Dubai company registration will be taken care of by our experts",
+          "description": "",
+          "sign": "https://assets.vakilsearch.com/live-images/website_revamp/new-service-step2.svg"
+        },
+        {
+          "title": "We handle all the post-registration formalities and compliances",
+          "description": "",
+          "sign": "https://assets.vakilsearch.com/live-images/website_revamp/new-service-step3.svg"
+        }
+      ]
+    },
+    "priceSection": {
+      "uaeImage": "https://assets.vakilsearch.com/live-images/business-setup-uae/uae%20vect.svg",
+      "uaeTitle": "Free Zone business setup charges for",
+      "countriesAccordion": [
+        {
+          "img": {
+            "src": "https://assets.vakilsearch.com/live-images/business-setup-uae/uae1.svg",
+            "alt": "Al Khaimah"
+          },
+          "title": "Al Khaimah",
+          "withVisa": {
+            "price": "AED 7,499",
+            "description": "You get only licence with the 0 Visa Package"
+          },
+          "withoutVisa": {
+            "price": "AED 14,999",
+            "description": "Comes with one Life time visa-free (1 shareholder and either General Trading or E-Commerce activity)"
+          },
+          "points": "Includes registration fee |Lease fee|Administration Fee|E-Channel Registration|Pre-Approval Fee (1 Shareholder)|Medical ID|License Fee|Emirates ID|Immigration file fee|Change of Status|1 Investor VISA free for Life (Including entry permit and VISA Stamping)"
+        },
+        {
+          "img": {
+            "src": "https://assets.vakilsearch.com/live-images/business-setup-uae/uae2.svg",
+            "alt": "Sharjah"
+          },
+          "title": "Sharjah",
+          "withVisa": {
+            "price": "AED 8,499 ",
+            "description": "You get only licence with the 0 Visa Package"
+          },
+          "withoutVisa": {
+            "price": "AED 18,499",
+            "description": "Comes with one Life time visa-free (1 shareholder and either General Trading or E-Commerce activity)"
+          },
+          "points": "Includes registration fee |Lease fee|Administration Fee|E-Channel Registration|Pre-Approval Fee (1 Shareholder)|Medical ID|License Fee|Emirates ID|Immigration file fee|Change of Status|1 Investor VISA free for Life (Including entry permit and VISA Stamping)"
+        },
+        {
+          "img": {
+            "src": "https://assets.vakilsearch.com/live-images/business-setup-uae/uae3.svg",
+            "alt": "Dubai"
+          },
+          "title": "Dubai (MEYDAN)",
+          "withVisa": {
+            "price": "AED 14,499",
+            "description": "You get only licence with the 0 Visa Package"
+          },
+          "withoutVisa": {
+            "price": "AED 21,999",
+            "description": "Comes with one Life time visa-free (1 shareholder and either General Trading or E-Commerce activity)"
+          },
+          "points": "License cost for 1 year with 1 visa allocation | Immigration card cost | Investor VISA | Medical ID | Emirates ID | Knowledge and innovation fee | Company stamp charges."
+        }
+      ]
+    },
+    "sections": [
+      [
+        {
+          "title": "Overview on Setting up a Company in Dubai",
+          "href": "section1",
+          "text": "Setting up a company in Dubai is definitely the boost that your business needs. UAE is present in the perfect location and has greater availability for raw materials and highly skilled labour. Apart from this the free zone companies can experience greater infrastructure, exemptions from duty, and top-tier amenities. Opening a company in Dubai is now very easy through Vakilsearch. Our team of business experts will help in fulfilling all the requirements of Dubai company registration."
+        }
+      ],
+      [
+        {
+          "title": "UAE Company Incorporation Charges With Vakilsearch",
+          "text": "Vakilsearch offers the best pricing when it comes to incorporating your company in the UAE. You can choose easily from a 0 visa package or with a lifetime visa package. Here are some of the packages suited for different cities in the UAE."
+        }
+      ],
+      [
+        {
+          "title": "Types of Licenses Issued in the UAE",
+          "href": "section2",
+          "items": "<a href='https://vakilsearch.com/trade-license-registration'><b>Trade License</b></a> - Issued to companies engaged in trading activities | Industrial Licenses - Issued to the companies engaged in manufacturing | Professional Licenses - Issued to the companies working as service providers, professionals, artisans, and craftsmen."
+        }
+      ],
+      [
+        {
+          "title": "Benefits of Starting a Business in Dubai",
+          "href": "section3",
+          "text": "Here are some of the advantages of opening a company in Dubai.",
+          "items": "Complete ownership to the investors irrespective of the nationality | 100% tax exemption on both corporate and personal incomes | No export and import duty | Easy company set up by any individual | No corporate tax for the first 15 years and subsequent exemption renewable option for next 15 years | No data breaches and privacy issues in company operations | Lowest renewal charges and low cost business set up in Dubai | Greater flexibility in property purchase | Easy to open bank accounts and conduct multiple business related activities | Easy options for company liquidation."
+        }
+      ],
+      [
+        {
+          "title": "Documents Required for Starting a Business in Dubai",
+          "href": "section4",
+          "text": "You will have to provide the following documents for completing registration for setting up a company in Dubai.",
+          "items": "<a href='https://vakilsearch.com/shareholders-agreement'><b>Shareholders information</b></a> | Passport and Visa of the shareholders | Application form | PDF of business plan | Board resolution documents | Memorandum of Association (MOA) | Articles of Association (AOA) | Identity proof of the shareholders"
+        }
+      ],
+      [
+        {
+          "title": "Procedure for Company Registration in Dubai",
+          "href": "section6",
+          "text": "The procedure for company registration in Dubai varies depending on the business structure you choose."
+        },
+        {
+          "text": "<b>However, some common steps in the process include:</b>",
+          "items": "Decide on the type of business activity you want to undertake and make sure it is allowed in Dubai | Choose a unique business name and get it approved by the Department of Economic Development (DED) in Dubai | Depending on the business activity, you may need to obtain specific licenses and permits from the relevant authorities | Choose a location for your business and get it approved by the relevant authorities | Submit the necessary documents and fees to the DED to register your business | Once your business is registered, open a bank account in Dubai | Depending on your business structure, you may need to obtain visas for yourself and your employees."
+        },
+        {
+          "text": "It is important to seek legal advice and assistance when registering your business in Dubai, as the process can be complex and time-consuming."
+        }
+      ],
+      [
+        {
+          "title": "What Are Eligible Business Under Company Registration in Dubai?",
+          "href": "section5",
+          "text": "Dubai offers several business structures that foreign investors can choose from to set up their company. The types of eligible businesses for company registration in Dubai include:",
+          "items": "Limited Liability Company (LLC) | Free Zone Company | Branch Office | Partnership offices | Onshore and offshore office"
+        },
+        {
+          "text": "Each business structure has its own set of requirements and benefits. For example, Free Zone Companies are ideal for businesses looking to operate within a specific free zone, while Branch Offices are suitable for foreign companies looking to establish a presence in Dubai. It is important to research the different business structures and choose the one that best suits your business needs."
+        }
+      ],
+      [
+        {
+          "title": "Why Vakilsearch?",
+          "href": "section7",
+          "text": "Vakilsearch offers the best packages when it comes to companies in the UAE. Our experts have experience of incorporating multiple companies in the UAE and in Dubai. Based on the city you can choose your package and start your business within a week. The process is fast, affordable and hassle free. Get in touch with us right away!"
+        }
+      ]
+    ],
+    "faqs": {
+      "href": "section8",
+      "items": [
+        {
+          "question": "Can a foreigner establish a business in the UAE?",
+          "answer": "Yes, and many foreigners do, set up shop in Dubai. Over 80% of the residents are foreigners, and many of them own their own enterprises. Dubai aggressively welcomes foreign investors and entrepreneurs."
+        },
+        {
+          "question": "How quickly can I integrate?",
+          "answer": "Each state has a different turnaround time for the formation of a company in Dubai. It might take a few business days to a few months, and occasionally even longer. BUt through Vakilsearch we can get it done in just 7 to 10 days."
+        },
+        {
+          "question": "How much does it cost for the formation of a company in Dubai?",
+          "answer": "It is a low cost business set up in Dubai. Each free zone has a separate minimum share capital requirement that can range anywhere between AED 1,000 and AED 1,000,000 depending on the business activity and permissions. The usual share capital minimum for Dubai free zones is AED 50,000."
+        },
+        {
+          "question": "What types of businesses can I start in the UAE?",
+          "answer": "Businesses with a lot of potential include those in the e-commerce, beauty and fitness, employment, online trading, and cleaning services sectors."
+        }
+      ]
+    },
+    "submitbtn": "Form my company",
+    "tarsbotScript": "NyImmR",
+    "video": "https://www.youtube.com/embed/tDKtX4FHBGA?autoplay=1"
+  },
+  "languages": []
+}

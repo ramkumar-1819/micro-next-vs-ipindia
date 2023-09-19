@@ -1,0 +1,1082 @@
+{
+  "url": "online-gst-registration",
+  "hidetars": true,
+  "hideGoogleReviews": true,
+  "kommunicateGenricChatBot": true,
+  "kommunicateServiceBotName": "gst",
+  "transparentWhiteNav": true,
+  "criteoscript": true,
+  "hidewebengage": true,
+  "testvariantA2": true,
+  "testvariantAnew": true,
+  "newvariant": true,
+  "ptltestimonial": true,
+  "gstFirstFold": true,
+  "newMobileContent": true,
+  "clientLogos": true,
+  "hideStateField": true,
+  "showGoogleCityField": true,
+  "linkedInScript": true,
+  "hasHindiPage": true,
+  "secondformtitle": "Register Your GST Today",
+  "pageTitle": "GST Registration Online at ₹399 in 7 days! - Vakilsearch ",
+  "canonical": true,
+  "canonicalUrl": "online-gst-registration",
+  "meta": {
+    "keyword": "GST Registration, GST registration online, Enrollment for GST, New GST Registration, GST online, goods and services tax, gst certificate, process for GST registration, GST online, GST apply online, GST India",
+    "description": "GST registration process is now made easy with our experts. Get the GST registration and GSTIN for your business for just ₹399! in a hassle-free way."
+  },
+  "schema": {
+    "articleSchema": {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://vakilsearch.com/online-gst-registration"
+      },
+      "headline": "Online GST Registration - Vakilsearch",
+      "description": "​​GST registration process is now made easy with our experts. Get the GST registration and GSTIN for your business for just ₹399! in a hassle-free way.",
+      "image": {
+        "@type": "ImageObject",
+
+        "url": "https://vakilsearch.com/blog/wp-content/uploads/2023/04/online-gst-registration.jpg"
+      },
+      "articleSection": "v2",
+      "keywords": "gst registration, gst registration online, enrollment for gst, new gst registration, gst online, goods and services tax, gst certificate, process for gst registration, gst online, gst apply online, gst india",
+      "datePublished": "",
+      "dateModified": "",
+      "author": {
+        "@type": "Person",
+        "name": "VakilSearch"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "VakilSearch",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjpD1lt7g1naDsHjs2yuf-KpP9QtH0D9MJ30uqVkvc&s",
+          "width": 800,
+          "height": 344
+        }
+      }
+    }
+  },
+  "whatsappOptin": true,
+  "stateWiseList": {
+    "baseUrl": "online-gst-registration",
+    "baseHeading": "GST Registration Customised by Cities",
+    "stateWiseHeading": "Explore Other States for GST Registration",
+    "stateList": [
+      {
+        "id": 1,
+        "name": " Lakshadweep",
+        "url": "online-gst-registration/Lakshadweep"
+      },
+      {
+        "id": 2,
+        "name": " Arunachal Pradesh",
+        "url": "online-gst-registration/arunachal-pradesh"
+      },
+      {
+        "id": 3,
+        "name": " Bihar",
+        "url": "online-gst-registration/bihar"
+      },
+      {
+        "id": 4,
+        "name": " Chandigarh",
+        "url": "online-gst-registration/chandigarh"
+      },
+      {
+        "id": 5,
+        "name": " Chhattisgarh",
+        "url": "online-gst-registration/chhattisgarh"
+      },
+      {
+        "id": 6,
+        "name": " Jharkhand",
+        "url": "online-gst-registration/Jharkhand"
+      },
+      {
+        "id": 7,
+        "name": " Meghalaya",
+        "url": "online-gst-registration/meghalaya"
+      },
+      {
+        "id": 8,
+        "name": " Jammu and Kashmir",
+        "url": "online-gst-registration/jammu-and-kashmir"
+      },
+      {
+        "id": 9,
+        "name": " Puducherry",
+        "url": "online-gst-registration/puducherry"
+      },
+      {
+        "id": 10,
+        "name": " Sikkim",
+        "url": "online-gst-registration/sikkim"
+      },
+      {
+        "id": 11,
+        "name": " Tripura",
+        "url": "online-gst-registration/tripura"
+      },
+      {
+        "id": 12,
+        "name": " Manipur",
+        "url": "online-gst-registration/manipur"
+      },
+      {
+        "id": 13,
+        "name": " Karnataka",
+        "url": "online-gst-registration/karnataka"
+      },
+      {
+        "id": 14,
+        "name": " Punjab",
+        "url": "online-gst-registration/punjab"
+      },
+      {
+        "id": 15,
+        "name": " Odisha",
+        "url": "online-gst-registration/odisha"
+      },
+      {
+        "id": 16,
+        "name": " Maharashtra",
+        "url": "online-gst-registration/maharashtra"
+      },
+      {
+        "id": 17,
+        "name": " Gujarat",
+        "url": "online-gst-registration/gujarat"
+      },
+      {
+        "id": 18,
+        "name": " Uttarakhand",
+        "url": "online-gst-registration/uttarakhand"
+      },
+      {
+        "id": 19,
+        "name": " Telangana",
+        "url": "online-gst-registration/telangana"
+      },
+      {
+        "id": 20,
+        "name": " Madhya Pradesh",
+        "url": "online-gst-registration/madhya-pradesh"
+      },
+      {
+        "id": 21,
+        "name": " Delhi",
+        "url": "online-gst-registration/delhi"
+      },
+      {
+        "id": 22,
+        "name": " Kerala",
+        "url": "online-gst-registration/Kerala"
+      },
+      {
+        "id": 23,
+        "name": " Goa",
+        "url": "online-gst-registration/goa"
+      },
+      {
+        "id": 24,
+        "name": " West Bengal",
+        "url": "online-gst-registration/west-bengal"
+      },
+      {
+        "id": 25,
+        "name": " Tamil Nadu",
+        "url": "online-gst-registration/tamil-nadu"
+      },
+      {
+        "id": 26,
+        "name": " Rajasthan",
+        "url": "online-gst-registration/rajasthan"
+      },
+      {
+        "id": 27,
+        "name": " Haryana",
+        "url": "online-gst-registration/haryana"
+      },
+      {
+        "id": 28,
+        "name": " Uttar-Pradesh",
+        "url": "online-gst-registration/uttar-pradesh"
+      },
+      {
+        "id": 29,
+        "name": " Andhra-Pradesh",
+        "url": "online-gst-registration/andhra-pradesh"
+      },
+      {
+        "id": 30,
+        "name": " Assam",
+        "url": "online-gst-registration/gst-registration-in-assam"
+      },
+      {
+        "id": 31,
+        "name": " Mizoram",
+        "url": "online-gst-registration/gst-registration-in-mizoram"
+      },
+      {
+        "id": 32,
+        "name": " Daman And Diu",
+        "url": "online-gst-registration/gst-registration-in-daman-and-diu"
+      },
+      {
+        "id": 33,
+        "name": " Andaman And Nicobar",
+        "url": "online-gst-registration/gst-registration-in-andaman-nicobar-island"
+      },
+      {
+        "id": 34,
+        "name": " Ahmedabad",
+        "url": "online-gst-registration/gujarat/ahmedabad"
+      },
+      {
+        "id": 35,
+        "name": " Pune",
+        "url": "online-gst-registration/maharashtra/pune"
+      },
+      {
+        "id": 36,
+        "name": " Agra",
+        "url": "online-gst-registration/uttar-pradesh/agra"
+      },
+      {
+        "id": 37,
+        "name": " Aligarh",
+        "url": "online-gst-registration/uttar-pradesh/aligarh"
+      },
+      {
+        "id": 38,
+        "name": " Amravati",
+        "url": "online-gst-registration/maharashtra/amravati"
+      },
+      {
+        "id": 39,
+        "name": " Gurgaon",
+        "url": "online-gst-registration/haryana/gurgaon"
+      },
+      {
+        "id": 40,
+        "name": " Faridabad",
+        "url": "online-gst-registration/haryana/faridabad"
+      },
+      {
+        "id": 41,
+        "name": " Dehradun",
+        "url": "online-gst-registration/uttarakhand/dehradun"
+      },
+      {
+        "id": 42,
+        "name": " Nagpur",
+        "url": "online-gst-registration/maharastra/nagpur"
+      },
+      {
+        "id": 43,
+        "name": " Ghaziabad",
+        "url": "online-gst-registration/uttar-pradesh/ghaziabad"
+      },
+      {
+        "id": 44,
+        "name": " Gorakhpur",
+        "url": "online-gst-registration/uttar-pradesh/gorakhpur"
+      },
+      {
+        "id": 45,
+        "name": " Jaipur",
+        "url": "online-gst-registration/rajasthan/jaipur"
+      },
+      {
+        "id": 46,
+        "name": " Guwahati",
+        "url": "online-gst-registration/assam/guwahati"
+      },
+      {
+        "id": 47,
+        "name": " Indore",
+        "url": "online-gst-registration/madhya-pradesh/indore"
+      },
+      {
+        "id": 48,
+        "name": " Hyderabad",
+        "url": "online-gst-registration/telangana/hyderabad"
+      },
+      {
+        "id": 49,
+        "name": " Trichy",
+        "url": "online-gst-registration/tamil-nadu/trichy"
+      },
+      {
+        "id": 50,
+        "name": " Kochi",
+        "url": "online-gst-registration/kerala/kochi"
+      },
+      {
+        "id": 51,
+        "name": " Madurai",
+        "url": "online-gst-registration/tamil-nadu/madurai"
+      },
+      {
+        "id": 52,
+        "name": " Kolkata",
+        "url": "online-gst-registration/west-bengal/kolkata"
+      },
+      {
+        "id": 53,
+        "name": " Lucknow",
+        "url": "online-gst-registration/uttar-pradesh/lucknow"
+      },
+      {
+        "id": 54,
+        "name": " Ranchi",
+        "url": "online-gst-registration/jharkhand/ranchi"
+      },
+      {
+        "id": 55,
+        "name": " Noida",
+        "url": "online-gst-registration/uttar-pradesh/noida"
+      },
+      {
+        "id": 56,
+        "name": " Varanasi",
+        "url": "online-gst-registration/uttar-pradesh/varanasi"
+      },
+      {
+        "id": 57,
+        "name": " Srinagar",
+        "url": "online-gst-registration/jammu-and-kashmir/srinagar"
+      },
+      {
+        "id": 58,
+        "name": " Salem",
+        "url": "online-gst-registration/tamil-nadu/salem"
+      },
+      {
+        "id": 59,
+        "name": " Siliguri",
+        "url": "online-gst-registration/west-bengal/siliguri"
+      },
+      {
+        "id": 60,
+        "name": " Surat",
+        "url": "online-gst-registration/gujarat/surat"
+      },
+      {
+        "id": 61,
+        "name": " Vadodara",
+        "url": "online-gst-registration/gujarat/vadodara"
+      }
+    ]
+  },
+  "mobileContent": {
+    "title": "",
+    "subTitle": "GST Registration In 7 business days ",
+    "clickSpan": "",
+    "subText": "Enjoy hassle-free processing as Vakilsearch lays the groundwork for your business.",
+    "termsAndCondition": {
+      "title": "Terms & Conditions",
+      "list": [
+        {
+          "text": "Vakilsearch will deliver the GST registration in 7 days if all the documents are submitted and the following points are fulfilled by the user.",
+          "items": [
+            "Phone number & Aadhar has to be linked ",
+            "Pan Card & Aadhar has to be linked and contains the same name (with exact spelling)"
+          ]
+        }
+      ]
+    },
+
+    "proofOfDirector": {
+      "title": "You will also need to have 2 of the following to be shown as proof of address of a director :-",
+      "list": [
+        {
+          "items": [
+            "Passport",
+            "Voter Identity Card",
+            "Aadhar Card",
+            "Ration Card",
+            "Telephone or Electricity Bill",
+            "Driving License",
+            "Bank Account Statement"
+          ]
+        }
+      ]
+    }
+  },
+  "docLists": {
+    "title": "List of documents required for GST registration",
+    "list": [
+      {
+        "header": "Private Limited Company",
+        "items": [
+          "Certificate of Incorporation",
+          "PAN Card of Company",
+          "Articles of Association, AOA",
+          "Memorandum of Association, MOA",
+          "Resolution signed by board members",
+          "Identity and address proof of directors",
+          "Digital Signature"
+        ],
+        "directorProof": true
+      },
+      {
+        "header": "LLP",
+        "items": [
+          "PAN Card of LLP",
+          "LLP Agreement",
+          "Partners’ names and address proof"
+        ],
+        "directorProof": true
+      },
+      {
+        "header": "Individual/Proprietorship",
+        "items": ["PAN Card", "Address proof of proprietor"]
+      }
+    ]
+  },
+  "content": {
+    "serviceId": "248",
+    "title": "Online GST Registration @ Only ₹399 With Vakilsearch",
+    "titleTwo": "",
+    "subTitle": "GST Registration in 7 business days",
+    "subText": "Enjoy hassle-free processing as Vakilsearch lays the groundwork for your business.",
+    "goToDocumentList": "List of documents required to complete your GST registration.",
+    "formTitle": "Start Registering Your GST",
+    "thirdform": true,
+    "menus": [
+      {
+        "title": "Overview",
+        "href": "#section1"
+      },
+      {
+        "title": "Components",
+        "href": "#section2"
+      },
+      {
+        "title": "Documents Required",
+        "href": "#section3"
+      },
+      {
+        "title": "Process",
+        "href": "#section4"
+      },
+      {
+        "title": "GST Certificate",
+        "href": "#section5"
+      },
+      {
+        "title": "GST Tax Rates",
+        "href": "#section6"
+      },
+      {
+        "title": "GSTIN",
+        "href": "#section7"
+      },
+      {
+        "title": "Penalty",
+        "href": "#section8"
+      },
+      {
+        "title": "Voluntary Registration",
+        "href": "#section9"
+      },
+      {
+        "title": "GST Return Filing",
+        "href": "#section10"
+      },
+      {
+        "title": "Why Vakilsearch",
+        "href": "#section11"
+      },
+      {
+        "title": "FAQs",
+        "href": "#section13"
+      },
+      {
+        "title": "GST Glossary",
+        "href": "#section12"
+      }
+    ],
+    "summary": {
+      "title": "How does GST registration work for you?",
+      "description": "Any business offering the sale of goods with an annual turnover of ₹ 40 lacs or service with an annual turnover of ₹ 20 lacs would require registration for GST and have a valid GST number.",
+      "steps": [
+        {
+          "title": "",
+          "description": "We help you get a Secure GST Identification Number.",
+          "sign": "https://assets.vakilsearch.com/live-images/website_revamp/new-service-step1.svg"
+        },
+        {
+          "title": "",
+          "description": "We make it easy for you to get your GST from the comfort of your own home.",
+          "sign": "https://assets.vakilsearch.com/live-images/website_revamp/new-service-step2.svg"
+        },
+        {
+          "title": "",
+          "description": "We will file your returns and complete all other compliances as and when required.",
+          "sign": "https://assets.vakilsearch.com/live-images/website_revamp/new-service-step3.svg"
+        }
+      ]
+    },
+    "sections": [
+      [
+        {
+          "title": "GST Registration Online - An Overview",
+          "href": "section1",
+          "text": "Launched on 1 July 2017, the Goods & Services Tax (GST) applies to all Indian service providers (including freelancers), traders and manufacturers. A variety of Central taxes like Service Tax, Excise Duty, CST and state taxes like Entertainment Tax, Luxury Tax, Octroi, VAT are accumulated in the GST.  Also, taxpayers with a turnover of less than ₹1.5 crore can choose a composition scheme to get rid of tedious GST formalities and pay GST at a fixed rate of turnover."
+        },
+        {
+          "text": "Every product goes through multiple stages along the supply chain, including purchasing raw materials, manufacturing, selling to the wholesaler, selling to the retailer and then the final sale to the consumer. Interestingly, GST will be levied on all of these 3 stages. Let’s say if a product is produced in West Bengal but is being consumed in Uttar Pradesh, the entire revenue will go to Uttar Pradesh."
+        }
+      ],
+      [
+        {
+          "title": "What Are the Components of GST?",
+          "href": "section2",
+          "text": "GST has three tax components, namely:",
+          "items": "Central Goods and Services Tax or CGST, it is a central government | State Goods and Services Tax or SGST which is a state component. Where centre and state will levy GST on all entities for all the transaction in the state | The Integrated Goods and Services Tax (IGST), to be levied by the centre, i.e. when a transaction happens from one state to another."
+        }
+      ],
+      [
+        {
+          "title": "Mandatory Documents For Online GST Registration",
+          "href": "section3",
+          "text": "The list of documents required for registration of GST for various business are as follows:"
+        },
+        {
+          "heading": "Proprietorship",
+          "items": "PAN Card and address proof of proprietor"
+        },
+        {
+          "heading": "LLP",
+          "items": "PAN Card of LLP | LLP Agreement | Partners’ names and address proof"
+        },
+        {
+          "heading": "Private Limited Company",
+          "items": " Certificate of Incorporation |PAN Card of Company |Articles of Association, AOA |Memorandum of Association, MOA |Resolution signed by board members |Identity and address proof of directors |Digital Signature"
+        },
+        {
+          "text": "<b>The Following Can Be Shown as Proof of Address of a Director</b>"
+        },
+        {
+          "items": "Passport |Voter Identity Card |Aadhar Card |Ration Card |Telephone or Electricity Bill |Driving License |Bank Account Statement  "
+        },
+        {
+          "text": "Add what works as identity proof, One can use a <a href='https://vakilsearch.com/how-to-apply-for-a-pan-card'><b>PAN Card</b></a>, Aadhar Card as identity proof. For address proof, any of the director&#x2019;s can show their voters ID, passport, telephone bill, electricity bill and telephone bill."
+        }
+      ],
+      [
+        {
+          "title": "GST Registration Process",
+          "href": "section4",
+          "text": "<b>Step 1:</b> To apply <em>GST Registration</em> Online, visit the GST portal and select ‘New GST Registration’<br><b>Step 2:</b> Fill in the necessary details like name of business, state, pan card details, etc<br><b>Step 3:</b> Enter the OTP and click proceed<br><b>Step 4:</b> Make a note of the Temporary Reference Number(TRN)<br><b>Step 5:</b> Check the GST portal and select ‘Register’ in the ‘Taxpayers’ menu<br><b>Step 6:</b> Enter the TRN and proceed<br><b>Step 7:</b> Enter the OTP received on your registered mobile number or your email and then proceed<br><b>Step 8:</b> You can check the status of your application on the next page<br><b>Step 9:</b> Fill in the necessary details and upload the necessary documents<br><b>Step 10:</b> Submit your application after verifying by one of the three methods given<br><b>Step 11:</b> After completion, you will receive the Application Reference Number(ARN) on your registered mobile number and email id<br><b>Step 12:</b> Now you can access the status of the ARN on the GST portal."
+        },
+        {
+          "text": "After successful registration, you will get your GST registration certificate and GSTIN after verification of the GST application and other mandatory GST registration documents by the GST officer. Be aware that no hard copies of the certificate will be issued and the GST certificate can be downloaded from the GST Portal."
+        }
+      ],
+      [
+        {
+          "title": "Who Needs a GST Registration Service?",
+          "href": "section5",
+          "items": "Any individual or business entity that carries out taxable supplies of goods or services | Annual turnover of the business exceeds the prescribed threshold limit (currently ₹20 lakhs for most businesses) | E-commerce operators that facilitate the supply of goods and services through their platform | Non-resident taxable persons who occasionally supply goods or services in India | Businesses that are involved in inter-state supply of goods or services | Input service distributors who distribute input tax credit to their branches or units | Casual taxable persons who supply goods or services occasionally in India | Businesses that were previously registered under the old tax regime (VAT, Service Tax, etc.) and have migrated to GST."
+        },
+        {
+          "title": "What is a GST Certificate?",
+          "text": "A GST Certificate is a document issued by the Indian government to businesses registered under the Goods and Services Tax (GST) system. It serves as proof of the business's registration under GST and includes details such as the business's GST identification number, name, and address. Businesses are required to have a GST Certificate to be able to charge and collect GST from customers. It is also used for various other purposes such as availing input tax credits, applying for loans and participating in tenders."
+        }
+      ],
+      [
+        {
+          "title": "What Are the GST Tax Rates?",
+          "href": "section6",
+          "text": "Goods and Services Tax (GST) is a value-added tax that is levied on the supply of goods and services in India. The GST tax rates in India are as follows:",
+          "items": "0% - This rate is applicable for essential items such as food grains, fresh vegetables, and medical supplies. | 5% - This rate is applicable for items such as processed food, packaged food, and some household items. | 12% - This rate is applicable for items such as mobile phones, laptops, and television sets. | 18% - This rate is applicable for items such as air conditioners, refrigerators, and washing machines. | 28% - This rate is applicable for items such as luxury cars, tobacco, and aerated beverages."
+        },
+        {
+          "text": "In addition to these rates, there are some special rates that are applicable to specific goods and services. For example, gold is taxed at 3%, while crude oil and natural gas are taxed at 6%. GST is also levied on services such as telecom, insurance, and banking at the rate of 18%."
+        },
+        {
+          "text": "It's important to note that GST rates are subject to change and may vary depending on the type of goods or services being supplied. It's always a good idea to check the current GST rates before making a purchase or offering a service."
+        },
+        {
+          "text": "You can see the tax rates for all the products here: https://cbec-gst.gov.in/gst-goods-services-rates.html"
+        },
+        {
+          "text": "Check out the GST calculator, which comes in handy to calculate the Goods and Service Tax using different slabs."
+        }
+      ],
+      [
+        {
+          "title": "What is GSTIN?",
+          "href": "section7",
+          "text": "GSTIN is a unique identification number given to each GST taxpayer. To verify a GSTIN number, a person who has a GST number can log onto the GST portal."
+        },
+        {
+          "title": "What is the GSTN (Goods and Service Tax Network)?",
+          "text": "The Goods and Service Tax Network (or GSTN) is section 8 (non-profit), non-government, private limited company. GSTN is a one-stop solution for all your indirect tax requirements. GSTN is responsible for maintaining the Indirect Taxation platform for GST to help you prepare, file, rectify returns and make payments of your indirect tax liabilities."
+        }
+      ],
+      [
+        {
+          "title": "Penalties For Failure To GST Registration",
+          "href": "section8",
+          "text": "As per the Section 122 of the CGST act, in India, there is a direct penalty for all those taxable persons who fail to register for GST online."
+        },
+        {
+          "serviceImage": [
+            {
+              "imgurl": "live-images/infographics/gst-penalities-and-interest.jpg",
+              "alt": "interest on late payment of gst"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "title": "Voluntary Registration Under GST (for Companies With A Turnover Below ₹20 Lakhs)",
+          "href": "section9",
+          "text": "Any small business with turnover less than ₹ 20 lakh can voluntarily register for GST even though it is not compulsory by law. Voluntary GST registration has its own advantages and some of them are:",
+          "items": "<b>Take input credit:</b> In GST, there is a flow of input credit right from manufacturers of the goods to the consumers across the country. Input credit means a taxpayer while paying tax on output, can deduct the tax that has already been paid on inputs and pay only the remaining amount. Voluntarily registered businesses can increase their margins and profits through this | <b>Do inter-state selling with no restrictions:</b> SMEs can increase the scope of their businesses and find prospective customers and explore online platforms | <b>Register on e-commerce websites:</b> SMEs can widen their market by registering through e-commerce sites | Have a competitive advantage compared to other businesses."
+        }
+      ],
+      [
+        {
+          "title": "GST Return Filing",
+          "href": "section10",
+          "text": "GST return filing is the process of submitting the details of sales, purchases, and taxes collected and paid by a registered taxpayer to the government. In India, GST return filing is mandatory for all registered taxpayers who are registered under GST, regardless of whether they have made any sales or purchases during the period for which the return is being filed."
+        },
+        {
+          "items": "Output GST (On sales) | Sales | Input tax credit (GST paid on purchases) | Purchases"
+        },
+        {
+          "text": "For filing a GST Return, you need to have GST compliant sales and purchase invoices attached."
+        }
+      ],
+      [
+        {
+          "title": "How Can We Help You - Why Vakilsearch?",
+          "href": "section11",
+          "text": "Some of the best reasons to choose us are:"
+        },
+        {
+          "items": "Easy to get GST registration service and GST Identification Number online. | No hassle compliances as we completely take control of them. | All your returns will be filed duly"
+        },
+        {
+          "text": "Our legal representatives are available to explain the whole gst registration process and clear any queries you may have."
+        },
+        {
+          "text": "Although the <a href='https://vakilsearch.com/gst-advisory-portal'><b>GST portal</b></a> has a user-friendly interface, the GST Forms have a lot of complex fields. Hence, it is highly recommended that you seek the help of a professional for submitting the application, the required procedures, filing your returns and completing other formalities in the portal."
+        }
+      ],
+      [
+        {
+          "title": "The GST Glossary",
+          "href": "section12",
+          "text": "<b>GST</b> - GST Stands for Good and Service Tax"
+        },
+        {
+          "text": "<b>TRN</b> - Temporary Registration Number - It is a unique 15-digit reference number generated when you have finished filling Part-A of the GST application and have validated your mobile number & email id."
+        },
+        {
+          "text": "<b>ARN</b> - Application Reference Number - It is the number you get after filing the GST application and you can use it to check your application details."
+        },
+        {
+          "text": "<b>DSC</b> - Digital Signature Certificate - It is a certificate that acts as proof of the identity of individuals in digital space and protects data."
+        },
+        {
+          "text": "<b>SGST</b> - State Goods and Services Tax - A part of GST which is levied by the State Government."
+        },
+        {
+          "text": "<b>CGST</b> - Central Goods and Services Tax (<a href='https://vakilsearch.com/central-goods-and-service-tax'><b>CGST</b></a>) - A part of GST which is levied by the Central Government."
+        },
+        {
+          "text": "<b>IGST</b> - Integrated Goods and Services Tax (<a href='https://vakilsearch.com/integrated-goods-and-services-tax'><b>IGST</b></a>) - It is a type of GST paid in the case of interstate supply of goods and services."
+        },
+        {
+          "text": "<b>UGST</b> - Union Territory Goods and Services Tax (<a href='https://vakilsearch.com/union-territory-goods-and-services-tax-UTGST'><b>UTGST</b></a>) - A part of GST which is levied by the Union Government."
+        },
+        {
+          "text": "<b>GSTIN</b> - Goods and Services Tax Identification Number/GST registration number is a unique 15-character identity number given to the businesses that register for GST."
+        },
+        {
+          "text": "<b>GSTR</b> - GST Return (GSTR) is a document capturing the details of the income, which a taxpayer is supposed to file with the authorities to calculate his tax liability. There is a total of 11 <a href='https://vakilsearch.com/gst' target='_blank'><b>types of GST</b></a> returns."
+        },
+        {
+          "text": "<b>GSTN</b> - Goods and Services Tax Network (GSTN) is a non-profit, public-private partnership company that provides IT infrastructure and services for the implementation of GST."
+        },
+        {
+          "text": "<b>ITC</b> - Input tax credit [ITC] is the credit a taxable person receives for paying input taxes towards inputs used for his business."
+        },
+        {
+          "text": "<b>HSN Code</b> - HSN code is a 6-digit uniform code that classifies 5000+ products and is accepted worldwide. HSN stands for Harmonised System of Nomenclature."
+        },
+        {
+          "text": "<b>SAC Code</b> - SAC code is a code used to classify services under GST. Each service has a unique SAC code."
+        },
+        {
+          "text": "<b>Reverse Charge</b> - Reverse charge is when the liability to pay tax is on the recipient of goods instead of the supplier (which is the norm). However, this only applies to special categories of supply."
+        },
+        {
+          "text": "<b>Aggregate Turnover</b> - Aggregate turnover is the total value of all taxable supplies and it is used to determine the threshold for GST."
+        },
+        {
+          "text": "<b>Taxable Person</b> - A taxable person is any individual engaged in economic activity in India and who is or is required to be registered under GST."
+        },
+        {
+          "text": "<b>Mixed Supply</b> - Mixed supply is when two or more individual supplies of goods and/or services made together by a taxable person for a single price (when it does not form a composite supply)."
+        },
+        {
+          "text": "<b>Composite Supply</b> - Composite supply is when a supply consists of two or more goods and/or services, which are naturally bundled and provided together, where one is the principal supply."
+        },
+        {
+          "text": "<b>Continuous Supply</b> - Continuous supply is when the supply is provided at a specific interval (eg. weekly & monthly) and the payments are made accordingly."
+        },
+        {
+          "text": "<b>GST Compliance Rating</b> - <a href='https://vakilsearch.com/advice/importance-gst-compliance-rating-check/' target='_blank'><b>GST Compliance Rating</b></a> is a score between [0 -10] assigned to all the taxpayers, that depicts their GST compliance."
+        },
+        {
+          "text": "<b>Assessment</b> - Assessment is the process to determine the tax liability. There are 6 types of assessment in GST."
+        }
+      ]
+    ],
+    "faqs": {
+      "items": [
+        {
+          "question": "What are the types of GST registration?",
+          "answer": "There are four GST types namely <ul><li>Integrated Goods and Services Tax (IGST)</li><li>State Goods and Services Tax (SGST)</li><li>Central Goods and Services Tax (CGST), and</li><li>Union Territory Goods and Services Tax (UTGST)</li></ul> The taxation rate under each of them is different."
+        },
+        {
+          "question": "What are the steps to download a GST registration certificate?",
+          "answer": "Here are the steps to download the GST registration certificate: <ul><li>Login to the GST portal</li><li>Go to ‘Services’ > ‘User Services’ > ‘View/ Download Certificate</li><li>GST registration certificate</li><li>Click on the ‘Download’ icon</li><li>Open the downloaded PDF document and take a printout</li><li>Display the printed certificate prominently at all your places of business in the State or UT.</li></ul>"
+        },
+        {
+          "question": "What are the benefits of GST registration?",
+          "answer": "Listed are the benefits of GST registration: <ul><li>Eliminates the cascading effect of tax</li><li>Composition scheme for small business</li><li>Simple and easy online procedure</li><li>Defined treatment for e-commerce operators</li><li>The number of compliances is lesser</li><li>Improved efficiency of logistics</li><li>The unorganised sector is regulated under GST.</li></ul>"
+        },
+        {
+          "question": "Does GST apply to all businesses?",
+          "answer": "Yes, GST applies to all service providers, manufacturers and traders. It extends to any dealers, bloggers and writers, import-export businesses, all kinds of startups and companies, whether they are LLPs, proprietorships, partnerships, or private limited companies."
+        },
+        {
+          "question": "How many days will it take to get a GST number?",
+          "answer": "GST registration usually takes between 5-7 working days."
+        },
+        {
+          "question": "Can I apply for multiple GST registrations?",
+          "answer": "If a business operates in more than one state, the taxpayer must register for GST in each state separately. For example, if an automobile company sells in both Karnataka and Tamil Nadu, it must apply for GST registrations separately in both states."
+        },
+        {
+          "question": "Can I be voluntarily registered under GST?",
+          "answer": "<p>Yes, even if your annual turnover does not exceed the threshold limit (40/20 lakhs), you can voluntarily register for GST.</p><p>Registering for GST not only helps you get your business recognised as a legal registrant, but it also allows you to take advantage of a variety of benefits, such as the ability to raise GST invoices, take advantage of input tax credits, and much more.</p>"
+        },
+        {
+          "question": "What is the threshold limit for GST registration?",
+          "answer": "Businesses involved in the sale of goods whose turnover exceeds ₹40 lakhs (₹20 lakhs for north-eastern and hill states) are required to register as a normal taxable person. For service providers, the threshold is ₹20 lakhs (₹10 lakhs for north-eastern and hill states)."
+        },
+        {
+          "question": "Why is there a delay in GST registration?",
+          "answer": "Delays in GST registration are expected due to many reasons such as:<ul><li>The officials send a clarification notice to submit additional documents</li><li>Due to errors in documents such as name mismatches</li><li>Aadhaar not being linked to the mobile number</li></ul><p> The list is not exhaustive, but it is basically due to induced errors.</p>"
+        },
+        {
+          "question": "What are the documents required for GST registration?",
+          "answer": "Some of the important documents required for GST registration are:<ul><li>PAN card</li><li>Aadhaar card</li><li>Proof of business address</li><li>Proof of constitution of business</li><li>Passport-size photograph</li><li>ID and address proof for all directors with photographs</li><li>Authorisation details</li><li>Bank details</li><li>Board resolution</li></ul>"
+        },
+        {
+          "question": "What is the composition scheme under GST?",
+          "answer": "The composition scheme was introduced to reduce the compliance burden on small taxpayers and it allows them to file quarterly returns instead of monthly returns. Any taxpayer whose aggregate turnover is less than 1.5 crores is eligible to opt for the scheme."
+        },
+        {
+          "question": "What happens once the GST registration process is over?",
+          "answer": "<p>Once the GST registration process is over successfully, you will get a GST registration certificate and a valid GSTIN. You become eligible to claim the input tax credit and you can start filing GST returns.</p><p>We can take care of your GST filings if you want. Just like the registration process, we make filing easy and comfortable.</p>"
+        },
+        {
+          "question": "What is an E-way Bill?",
+          "answer": "EWay Bill is an Electronic Waybill a GST registered person should get for movement of goods in a vehicle whose value exceeds ₹ 50,000. You can do e-Way bill registration through e-Way Bill Portal (https://ewaybillgst.gov.in/)."
+        },
+        {
+          "question": "How long can I wait to register under GST?",
+          "answer": "Any person should get a GST registration within 30 days from the date on which they become liable to register."
+        },
+        {
+          "question": "Can a person without GST registration claim ITC and collect tax from their customers?",
+          "answer": "No. A person without GST registration cannot claim any input tax credit for the GST paid by him or collect GST from his customers."
+        },
+        {
+          "question": "Is GST charged on exported goods and services?",
+          "answer": "No, GST is not charged on exported goods and services. GST is a tax based on consumption and since in the case of export, the goods/services are not consumed in India, it is not taxed."
+        },
+        {
+          "question": "Is it mandatory for an e-commerce operator to obtain GST registration?",
+          "answer": "Yes, it is mandatory for e-commerce operators to get their GST registration done. The threshold limit doesn’t apply to them."
+        },
+        {
+          "question": "My business operates in two different states. Do I need to register for GST separately in these states?",
+          "answer": "Yes, if your business operates in two different states, you need to register for GST for both states separately. The same goes for multiple states."
+        },
+        {
+          "question": "I don’t know the HSN Code for any of the products I supply. What should I do?",
+          "answer": "The Goods and Services section of the new registration application form has a built-in online utility that will help you select the HSN Code. Simply start typing the type of product under Search HSN Chapter by Name or Code and there will be a dropdown from which you can select the relevant chapter. Once you have selected the chapter, start typing in the Search HSN Code field and select the type of product. The HSN Code of the goods will be auto-populated in the application. You can repeat the same if you want to enter details for more than one goods."
+        },
+        {
+          "question": "Is a PAN card mandatory for registering GST?",
+          "answer": "Yes, a PAN card is mandatory for GST registration. If you don’t have a PAN card, you need to get one before starting your GST registration except for TDS registration which is possible through TAN."
+        },
+        {
+          "question": "Can we use the same GST number for multiple businesses?",
+          "answer": "You can register two or more businesses under one GST registration but can’t use 2 trade names under it, provided the businesses are in the same state."
+        },
+        {
+          "question": "Can we apply for GST after cancellation?",
+          "answer": "The taxpayers whose GST registrations have been cancelled are mandatorily required to apply for a new one. Without a GST registration, taxpayers will not be able to continue their businesses."
+        },
+        {
+          "question": "What happens if the GST application is rejected?",
+          "answer": "If you applied for GST registration and your application was rejected, you will get a chance to reply to the rejection letter. However, if you wish to make a new application, then you would have to wait for a final rejection, which will take around 10 days."
+        },
+        {
+          "question": "How can I discover the GST rate for my product/service?",
+          "answer": "The GST department has issued a code for every product and service (for products - HSN code, for services - SAC code). Based on the code, the <a href='https://vakilsearch.com/gst-slab-rates-in-india' target='_blank'><b>GST rate</b></a> has to be identified. You can identify the HSN/SAC code and GST rate using our <a href='https://vakilsearch.com/gst-hsn-finder'><b>HSN Code</b></a> finder."
+        },
+        {
+          "question": "What are the types of GST registration?",
+          "answer": "These are the three types of the GST used<li>Central Goods and Services Tax or CGST, it is a central government</li><li>State Goods and Services Tax or SGST which is a state component</li><li>Integrated Goods and Services Tax (IGST)</li>"
+        }
+      ]
+    },
+    "recentUpdates": [],
+    "recommendedPages": {
+      "title": "Other Important Pages Related to GST Registration",
+      "links": [
+        {
+          "name": "Types of GST",
+          "url": "/types-of-gst-in-india"
+        },
+        {
+          "name": "GST Portal Guide",
+          "url": "/gst-portal-guide"
+        },
+        {
+          "name": "GST Structure",
+          "url": "/gst-structure"
+        },
+        {
+          "name": "Impact of GST on Automobiles",
+          "url": "/impact-of-gst-on-automobiles"
+        },
+        {
+          "name": "Pro Forma Invoice Under GST",
+          "url": "/proforma-invoice-under-gst"
+        },
+        {
+          "name": "Impacts of GST on Construction",
+          "url": "/gst-on-construction-and-construction-services"
+        },
+        {
+          "name": "Central Goods and Service Tax",
+          "url": "/central-goods-and-service-tax"
+        },
+        {
+          "name": "GST - Advantages and Disadvantages",
+          "url": "/gst-advantages-and-disadvantages"
+        },
+        {
+          "name": "GST Audit for Taxpayers Above 2 Crore Turnover",
+          "url": "/gst-audit"
+        },
+        {
+          "name": "GST Composition Scheme",
+          "url": "/gst-composition-scheme"
+        },
+        {
+          "name": "GST On Food and Restaurant Services",
+          "url": "/gst-on-food-restaurant-services"
+        },
+        {
+          "name": "E-invoicing under GST",
+          "url": "/e-invoicing"
+        },
+        {
+          "name": "Format of a GST Invoice",
+          "url": "/format-of-a-gst-invoice"
+        },
+        {
+          "name": "Integrated Goods & Services Tax",
+          "url": "integrated-goods-and-services-tax"
+        },
+        {
+          "name": "GST Issues",
+          "url": "/gst-common-problems-latest-changes"
+        },
+        {
+          "name": "Internal Audit under GST",
+          "url": "/internal-audit-under-gst-law"
+        },
+        {
+          "name": "GST Input Tax Credit",
+          "url": "/gst-input-tax-credit"
+        },
+        {
+          "name": "Reverse Charge Under GST Mechanism",
+          "url": "/reverse-charge-of-gst-mechanism"
+        },
+        {
+          "name": "Letter of Undertaking",
+          "url": "/letter-of-undertaking"
+        },
+        {
+          "name": "Cancellation or Surrender of GST Registration",
+          "url": "/cancellation-or-surrender-of-gst-registration"
+        },
+        {
+          "name": "Audit under GST",
+          "url": "/audit-under-gst"
+        },
+        {
+          "name": "GST on Gold",
+          "url": "/impact-of-gst-on-gold"
+        },
+        {
+          "name": "GST Compliant Private Limited Company Registration",
+          "url": "/gst-complaint-plc-registration"
+        },
+        {
+          "name": "GST for Individual",
+          "url": "/gst-for-individual"
+        },
+        {
+          "name": "GST Seva Kendra",
+          "url": "/gst-seva-kendra"
+        },
+        {
+          "name": "GST on Cars",
+          "url": "/gst-on-cars-commercial-vehicles"
+        },
+        {
+          "name": "GST on Insurance",
+          "url": "/gst-on-insurance"
+        },
+        {
+          "name": "GST on Transportation of Goods",
+          "url": "/gst-on-transportation-of-goods-gta"
+        },
+        {
+          "name": "Suo Moto Registration in GST",
+          "url": "/suo-moto-registration-features-checklist"
+        },
+        {
+          "name": "Union Territory Goods & Services Tax",
+          "url": "/integrated-goods-and-services-tax"
+        },
+        {
+          "name": "Gst on Real Estate",
+          "url": "/gst-on-real-estate"
+        },
+        {
+          "name": "State Goods and Service Tax",
+          "url": "state-goods-and-service-tax-SGST"
+        },
+        {
+          "name": "GST Invoice Format",
+          "url": "/gst-invoice-format"
+        },
+        {
+          "name": "GST Invoice",
+          "url": "/gst-invoice"
+        },
+        {
+          "name": "Gst Income Tax Credit Claim",
+          "url": "/gst-input-tax-credit-claim"
+        },
+        {
+          "name": "Tax Collected at Source Under GST",
+          "url": "/tax-collected-at-source-under-gst"
+        },
+        {
+          "name": "GST on Advertising Services & Advertisement",
+          "url": "/gst-on-advertising-services-advertising-agency"
+        },
+        {
+          "name": "42nd GST Council Meet",
+          "url": "/42nd-gst-council-meet"
+        },
+        {
+          "name": "GST Relaxation",
+          "url": "/gst-relaxation"
+        },
+        {
+          "name": "Gst Identification Number",
+          "url": "/gst-identification-number-gstin"
+        },
+        {
+          "name": "GST Compensation Cess",
+          "url": "/gst-compensation-cess"
+        },
+        {
+          "name": "GST on Electronic and Electrical Items",
+          "url": "/gst-on-electronic-electrical-domestic-appliances"
+        },
+        {
+          "name": "GST on Medicines and Medical Supplies",
+          "url": "/gst-on-medicines-and-medical-supplies"
+        },
+        {
+          "name": "Tax Invoice Under GST",
+          "url": "/invoicing-under-gst"
+        },
+        {
+          "name": "GST Payment and Refund",
+          "url": "/gst-payment-refund"
+        },
+        {
+          "name": "Invoicing Under GST",
+          "url": "/invoicing-under-gst"
+        },
+        {
+          "name": "GST E-Way Bill",
+          "url": "/gst-e-way-bill"
+        }
+      ]
+    },
+    "testimonials": [
+      {
+        "name": "Sanjay Sreenivasan",
+        "text": "&ldquo;Vakilsearch made my GST registration very seamless and simple. I got quick responses from their sales representatives and also valid information and inputs from them. They took full charge and got my GST registration done effortlessly. I really didn’t have to do much other than give them the necessary documents for the process. Extremely happy with their services. My good wishes to the Vakilsearch team to continue changing legal services and trends in India.&rdquo;"
+      },
+      {
+        "name": "Geetha Bhavani",
+        "text": "&ldquo;I was honestly lost when GST filing was announced as mandatory by the government of India. In order to find answers to the questions I had on my mind, I searched the internet and came across Vakilsearch and their services. True to their promise, they really made legal simple for me. Their staff explained each and every nuance of GST so well and also made me realise the importance of registering for the same. Thanks to Vakilsearch my returns are duly filed by them.&rdquo;"
+      },
+      {
+        "name": "Prakash Venkatesh",
+        "text": "&ldquo;Online registration of GST on the GST portal seems simple. But I found the application forms to be quite complex. A businessman like me who hardly has time but to drive business goals and close deals definitely needed the help of a professional. This is when Vakilsearch stepped in and made my life stress-free. I got myself registered online and got my GST identification number with their help in no time. Very impressed by their services and strongly recommend.&rdquo;"
+      },
+      {
+        "name": "Shruti Vasan",
+        "text": "&ldquo;I never thought filing my GST returns would be this easy. Vakilsearch practically did all the work for me in regards to collecting my documents, calculating my GST returns and input credit tax and also filing my GST returns promptly. I couldn’t have asked for anything more. Every step was well calculated and well organised by their team. Very well done Vakilsearch. I’ll keep coming back for more services.&rdquo;"
+      },
+      {
+        "name": "Nita Gangwani",
+        "text": "&ldquo;My experience with Vakilsearch has been pleasant. I reached out to them for multiple GST registrations returns on my behalf. Their approach was thoroughly professional. There was absolutely no delay from their end. I really appreciate the on-time delivery and the quick responses I received from their staff who were extremely polite and well-mannered. I have already referred two of my friends to avail services with Vakilsearch. Highly recommend!&rdquo;"
+      }
+    ],
+    "hideformfields": true,
+    "hidelangfield": "NA",
+    "tarsbotScript": "r1J0jl",
+    "nofreeconsultation": true,
+    "newbanner": true,
+    "newcontentgst": true,
+    "subheading4": "",
+    "submitbtn": "Let’s Get My GST Registration!",
+    "legalbtn": "",
+    "citywidth": true
+  },
+  "dashboardtm": true,
+  "languages": []
+}

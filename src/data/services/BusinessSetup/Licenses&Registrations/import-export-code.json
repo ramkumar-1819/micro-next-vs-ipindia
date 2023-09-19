@@ -1,0 +1,544 @@
+{
+  "url": "import-export-code",
+  "serviceName": "IEC Registration",
+  "sliderwidth": true,
+  "hideSubTitle": true,
+  "showDbsBanner": true,
+  "showPropsSection": true,
+  "whitenav": true,
+  "hidetars": true,
+  "showYellowBorder": true,
+  "hideBannerBottom": true,
+  "criteoscript": true,
+  "hidewebengage": true,
+  "b2bServicePage": true,
+  "hideBorder": true,
+  "testvariantA2": true,
+  "testvariantAnew": true,
+  "newvariant": true,
+  "ptltestimonial": true,
+  "hidePartnerList": true,
+  "showFlight": true,
+  "secondformtitle": "Get Started",
+  "pageTitle": "Apply IEC Code Online - Import Export Code Registration",
+  "canonical": true,
+  "canonicalUrl": "import-export-code",
+  "alternateUrl": "import-export-code.amp",
+  "alternateLang": "en-IN",
+  "hideStateField": true,
+  "showGoogleCityField": true,
+  "conditionsApply": true,
+  "conditionText": "<b>*TERMS & CONDITIONS</b><br/><ol><li>All documents must be provided by the client on time</li><li>Government portal down-time might cause delays</li></ol>",
+  "meta": {
+    "keyword": "import export code, import export licence, import export license online, import export code registration, apply for import export code",
+    "description": "Easily obtain your IEC code hassle-free and start your Import/Export business. Tap into international market opportunities and expand your business globally. Get started today!"
+  },
+  "schema": {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "serviceType": "IEC Code",
+    "name": "IEC Code",
+    "provider": {
+      "@type": "LegalService",
+      "name": "VakilSearch",
+      "image": "https://assets.vakilsearch.com/live-images/website_revamp/brandlogo.svg",
+      "priceRange": "$$-$$",
+      "telephone": "+917200365365",
+      "url": "https://vakilsearch.com/import-export-code",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Chennai",
+        "addressRegion": "TN",
+        "postalCode": "600058",
+        "streetAddress": "Prince Info Park, A-5th Floor, Ambattur Industrial Estate, Ambattur, Chennai"
+      }
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "IN"
+    }
+  },
+  "content": {
+    "serviceId": "106",
+    "newtestimonialWithReview": true,
+    "workflow": "iec-onboarding",
+    "title": "Importer Exporter Code Registration",
+    "subTitle": "Register your import-export business easily with Vakilsearch! <br><br>Start the process with our expert consultants for as little as ₹499/-.",
+    "formTitle": "Apply for IEC Code",
+    "iecBanner": true,
+    "bannerInsight": "<b>10,000+</b> IEC Registrations since 2011",
+    "bannerReviews": true,
+    "bgImage": "https://assets.vakilsearch.com/live-images/iec-banner-image.svg",
+    "modalTitle": "View Certificate sample",
+    "certificateLogo": "https://assets.vakilsearch.com/live-images/iec-sample-certificate-icon.svg",
+    "certificateImage": "https://assets.vakilsearch.com/live-images/iec-sample-certificate.jpg",
+    "showCertificate": "true",
+    "formSection": {
+      "title": "Importer Exporter Code Registration ",
+      "subTitle": "",
+      "list": [
+        "Guaranteed submission of IEC application within two days in the DGFT office",
+        "Make your business global. Apply from anywhere in India with IEC code"
+      ],
+      "formTitle": "Get Started",
+      "submitCTA": "Talk to our expert",
+      "secondaryFormSection": {
+        "formTitle": "Get Started",
+        "submitCTA": "Talk to our expert",
+        "bannerKey": "easy-monthly-emi",
+        "isIEC": true
+      }
+    },
+    "dbsBanner": {
+      "dbsBannerImage": "https://assets.vakilsearch.com/cashback.svg",
+      "desc": "Get <b>₹1000 cashback*</b> upon your incorporation with our banking partners offer",
+      "partner": "Banking partners",
+      "bankImages": "https://assets.vakilsearch.com/banks.svg",
+      "terms": [
+        "Cashback will be credited after the successful opening of a current account with the referred bank within 60 days from the account opening date.",
+        "To claim the cashback, the customer must share the account number of the current account with the Vakilsearch team.",
+        "Eligibility for opening a current account relies on the partner bank's serviceability and criteria. Customers failing to meet these specified criteria or not opening a current account with our partner banks, for any reasons, will be considered ineligible for the cashback offer."
+      ]
+    },
+    "procesStepsSection": {
+      "title": "IEC Code Registration With Vakilsearch",
+      "coloredTitle": "",
+      "showArrow": true,
+      "subTitle": "IEC registration online has never been this easier. Get in touch with our experts from Vakilsearch to complete the whole process in three steps",
+      "list": [
+        {
+          "image": "https://assets.vakilsearch.com/Ngo/summary-icon-1.svg",
+          "text": "Talk to our experts"
+        },
+        {
+          "image": "https://assets.vakilsearch.com/Ngo/summary-icon-3.svg",
+          "text": "Provide the required documents"
+        },
+        {
+          "image": "https://assets.vakilsearch.com/Ngo/summary-icon-4.svg",
+          "text": "Complete IEC registration"
+        }
+      ]
+    },
+    "thirdform": true,
+    "hideState": true,
+    "businessTypeRequired": true,
+
+    "menus": [
+      {
+        "title": "Overview - Import Export Code",
+        "href": "#section1"
+      },
+      {
+        "title": "Benefits of IEC Registration ",
+        "href": "#section2"
+      },
+      {
+        "title": "Validity of IEC Certificate",
+        "href": "#section3"
+      },
+      {
+        "title": "Process - Import Export Code Registration",
+        "href": "#section4"
+      },
+      {
+        "title": "Documents & Eligibility for IEC Registration",
+        "href": "#section5"
+      },
+      {
+        "title": "Exemption of IEC Code",
+        "href": "#section6"
+      },
+      {
+        "title": "Why Vakilsearch",
+        "href": "#section7"
+      },
+      {
+        "title": "The Glossary",
+        "href": "#section9"
+      },
+      {
+        "title": "FAQs on IEC Code Registration",
+        "href": "#section8"
+      },
+      {
+        "title": "Recent Updates on IEC Code",
+        "href": "#section10"
+      }
+    ],
+    "iecCashBackBanner": {
+      "imgUrl": "https://assets.vakilsearch.com/live-images/iec-banner-2.svg",
+      "mobileImgUrl": "https://assets.vakilsearch.com/live-images/m-cashback-banner.svg",
+      "alt": "cash-back-banner",
+      "content": "Get <b>100% cashback*</b> upon your IEC registration <br />with our DBS bank offer.",
+      "TandC": {
+        "title": "Terms & Conditions",
+        "list": [
+          "Cashback will be credited after the successful opening of a current account with the referred bank within 60 days from the account opening date.",
+          "To claim the cashback, the customer must share the account number of the current account with the Vakilsearch team.",
+          "Eligibility for opening a current account relies on the partner bank's serviceability and criteria. Customers failing to meet these specified criteria or not opening a current account with our partner banks, for any reasons, will be considered ineligible for the cashback offer."
+        ]
+      }
+    },
+    "termsAndConditionsBanner": {
+      "termsAgreementPopUp": "Terms & Condition",
+      "termsAgreementList": [
+        "Cashback will be credited after the successful opening of a current account with the referred bank within 60 days from the account opening date.",
+        "Cashback will be credited after the successful opening of a current account with the referred bank within 60 days from the account opening date.",
+        "Eligibility for opening a current account relies on the partner bank's serviceability and criteria. Customers failing to meet these specified criteria or not opening a current account with our partner banks, for any reasons, will be considered ineligible for the cashback offer."
+      ],
+      "hasButtonInModal": false,
+      "liColor": "#000"
+    },
+    "summary": {
+      "title": "IEC Code Registration With Vakilsearch",
+      "description": "IEC registration online has never been this easier. Get in touch with our experts from Vakilsearch to complete the whole process in three steps",
+      "steps": [
+        {
+          "title": "Talk to our experts",
+          "description": "Book a slot with our IEC experts and resolve all your queries  regarding the registration process",
+          "sign": "https://assets.vakilsearch.com/Ngo/summary-icon-1.svg"
+        },
+        {
+          "title": "Provide the required documents",
+          "description": "Our team of experts will cross verify all the submitted documents and make sure that it is up to date",
+          "sign": "https://assets.vakilsearch.com/Ngo/summary-icon-3.svg"
+        },
+        {
+          "title": "Complete IEC registration",
+          "description": "Our team will initiate the required paperwork and procure the IEC codes for your reference.",
+          "sign": "https://assets.vakilsearch.com/Ngo/summary-icon-4.svg"
+        }
+      ]
+    },
+    "sections": [
+      [
+        {
+          "title": "Import Export Code (IEC Code)- Overview",
+          "href": "section1",
+          "text": " An Import Export Code (IEC) is a 10-digit code necessary for Indian import/export businesses. It's issued by the DGFT, Ministry of Commerce, and doesn't require filing or renewal. Importers need IEC to clear customs and make payments to foreign banks, while exporters need it to send shipments and receive payments.The IEC Number is essential for any importer/exporter operating in India."
+        }
+      ],
+      [
+        {
+          "title": "Benefits of IEC Code",
+          "href": "section2",
+          "items": "The IEC registration online helps traders including e-commerce operators open the doors to venture into the global market | Businesses can avail government schemes like the Merchandise Export from India Scheme (MEIS), the Service Export from India Scheme (SEIS), and others from customs and export promotion | No compliance requirements post import export code registration and hence maintaining the business is relatively simple | The process of obtaining IEC Code online is not tedious and can be obtained with minimal, basic documents."
+        }
+      ],
+      [
+        {
+          "title": "Validity of Import Export Code",
+          "href": "section3",
+          "text": "The validity of an IEC certificate is for a lifetime. This means that once an IEC code is obtained, it is valid for all import or export transactions of the entity. There is no need to renew or update the IEC License after a certain period."
+        },
+        {
+          "heading": "Nature of the Firm Obtaining an IEC Code",
+          "text": "IEC certificate can be obtained by any individual, company, partnership firm, Limited Liability Partnership (LLP), or any other type of entity engaged in import or export activities.  Whether you are an exporter or importer, having an IEC certificate is mandatory for all such transactions. Even if a business is not actively engaged in import or export activities, but it plans to do so in the future, it still needs to obtain an IEC beforehand."
+        },
+        {
+          "heading": "Prerequisites for Applying IEC Code",
+          "text": "To apply IEC code online, the following prerequisites are required:",
+          "items": "A valid Permanent Account Number (PAN) card issued by the Income Tax Department of India is mandatory | The applicant must have a bank account in the name of the firm or individual, as IEC certificate is issued in the name of the applicant | The business entity should be registered under the Registrar of Companies (ROC) | The applicant needs to submit the relevant documents such as identity proof, address proof, and details of the business entity to the DGFT office."
+        }
+      ],
+      [
+        {
+          "title": "How to Register for Import Export Code?",
+          "href": "section4",
+          "text": "The process for importer exporter code registration online in India is relatively simple and can be completed in a few steps. Here's how to register for an import export license online in India:",
+          "items": "Visit the Directorate General of Foreign Trade (DGFT) website, which is the official website for IEC registration in India | If you are a new user, click on the <b>‘Register’</b> button and create a new account by providing your basic details such as name, email address, and phone number | Once you have registered, log in to the <b>DGFT</b> website using your registered email ID and password |Click on ‘<strong> Online IEC Application </strong>’ On the homepage of the DGFT website, which will redirect you to the import export code application form | Fill in the online IEC application form with all the required details such as the name and address of the firm or individual, PAN number, bank account details, and contact information and the required documentation | Pay the import export code application fee online through internet banking, debit card, or credit card | Once you have filled in the application form, uploaded the necessary documents, and paid the application fee, review the application and click on the <b>‘Submit’</b> button |  After submitting the IEC application, you can track the status of your application online. Once the IEC is issued, you will receive an IEC certificate on your registered email ID."
+        }
+      ],
+      [
+        {
+          "title": "Documents Required for Import Export Code (IEC) Registration",
+          "href": "section5",
+          "text": "The documents required for an IEC registration are listed below",
+          "items": "PAN card of the company (not applicable in case of the proprietor) | Applicant’s PAN and Aadhaar card (driving license/Aadhaar/voter ID) | Incorporation certificate/partnership deed | Address proof (electricity bill/rent agreement/Sale Deed of the office location) | Copy of cancelled cheque leaf/banker certificate of the current account in the name of the company.",
+          "serviceImage": [
+            {
+              "imgurl": "live-images/import-export-code-registration.png",
+              "alt": "import export code registration",
+              "title": "import export code"
+            }
+          ]
+        },
+        {
+          "title": "Eligibility to Get IEC Code",
+          "text": "Any type of business registration: sole proprietorship, partnership, private limited companies, charitable organizations dealing with import and exports in India can register for import export code, irrespective of the size. However, an IEC Number is not required for import/export of goods for personal use, which are not connected with trade, manufacture, or agriculture. There is no need for a business set up."
+        }
+      ],
+      [
+        {
+          "title": " Exemption of Import Export Code",
+          "href": "section6",
+          "items": "Persons undertaking Import and Export in India for personal reasons and not connected to trade, agriculture and manufacture | The parties/individuals who import/export goods to/from Nepal and Myanmar with single consignment must not exceed the value of ₹25,000 through Indo-Myanmar border areas and China (via Namgaya Shipkila, Gunji, and Nathula ports) | As listed in appendix - 3, schedule 2 of ITC, exemption from obtaining IEC Code shall not be applicable for export of materials, organisms, special chemicals, equipments & technologies (SCOMET) | Ministries/departments of central and state governments."
+        },
+        {
+          "text": "The following permanent IEC numbers shall be used by non-commercial PSUs and categories of importers/exporters mentioned against them for import/export purposes."
+        },
+        {
+          "datas": [
+            {
+              "type": "table",
+              "headings": [
+                "S.No",
+                "Code Number",
+                "Categories of Importers / Exporters"
+              ],
+              "rows": [
+                {
+                  "field1": "1",
+                  "field2": "0100000011",
+                  "field3": "All Ministries / Departments of Central Government and agencies wholly or partially owned by them."
+                },
+                {
+                  "field1": "2",
+                  "field2": "0100000029",
+                  "field3": "All Ministries / Departments of any State Government and agencies wholly or partially owned by them."
+                },
+                {
+                  "field1": "3",
+                  "field2": "0100000037",
+                  "field3": "Diplomatic personnel, Counselor officers in India and officials of UNO and its specialised agencies."
+                },
+                {
+                  "field1": "4",
+                  "field2": "0100000045",
+                  "field3": "Indians returning from / going abroad and claiming benefit under Baggage Rules."
+                },
+                {
+                  "field1": "5",
+                  "field2": "0100000053",
+                  "field3": "Persons / Institutions / Hospitals importing or exporting goods for personal use, not connected with trade or manufacture or agriculture."
+                },
+                {
+                  "field1": "6",
+                  "field2": "0100000061",
+                  "field3": "Persons importing/exporting goods from/to Nepal"
+                },
+                {
+                  "field1": "7",
+                  "field2": "0100000070",
+                  "field3": "Persons importing/exporting goods from/to Myanmar through Indo-Myanmar border areas"
+                },
+                {
+                  "field1": "8",
+                  "field2": "0100000088",
+                  "field3": "Ford Foundation"
+                },
+                {
+                  "field1": "9",
+                  "field2": "0100000096",
+                  "field3": "Importers importing goods for display or use in fairs/exhibitions or similar events under provisions of ATA Carnet. This IEC number can also be used by importers importing for exhibitions/fairs as per Para 2.29 of HBPv1."
+                },
+                {
+                  "field1": "10",
+                  "field2": "0100000100",
+                  "field3": "Director, National Blood Group Reference Laboratory, Bombay or their authorised offices."
+                },
+                {
+                  "field1": "11",
+                  "field2": "0100000126",
+                  "field3": "Individuals / Charitable Institution / Registered NGOs importing goods, which have been exempted from Customs duty under Notification issued by Ministry of Finance for bonafide use by victims affected by natural calamity."
+                },
+                {
+                  "field1": "12",
+                  "field2": "0100000134",
+                  "field3": "Persons importing/exporting permissible goods as notified from time to time, from/to China through Gunji, Namgaya Shipkila and Nathula ports, subject to value ceilings of single consignment as given in Para 2.8(iv) above."
+                },
+                {
+                  "field1": "13",
+                  "field2": "0100000169",
+                  "field3": "Non-commercial imports and exports by entities who have been authorised by the Reserve Bank of India (RBI)."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Commercial public sector undertakings (PSU) who have obtained PAN will, however, be required to obtain the import export code number. The permanent IEC number as mentioned above shall be used by non-commercial PSUs."
+        }
+      ],
+      [
+        {
+          "title": "Why Vakilsearch?",
+          "href": "section7",
+          "text": "Had a bad experience with an online retailer and would like to make a complaint? Then, Vakilsearch is a one stop solution. Book your slots with our experts. We will assist you in navigating the process and act as your advocate to fix the issue. We can help you if you have been unable to reach a satisfactory conclusion on your own. Our team of legal experts can help you in sending the legal notice and initiate the required actions without any errors."
+        }
+      ],
+      [
+        {
+          "title": "Importer Exporter Code Glossary",
+          "href": "section9",
+          "heading": "AES: Automated Export System",
+          "text": "Automated Export System (AES) is the system used by U.S. exporters to electronically declare their international exports to the census bureau to help compile U.S. export and trade statistics."
+        },
+        {
+          "heading": "FTR: Foreign Trade Regulations",
+          "text": "Trade regulation is a field of law, often bracketed with antitrust, including government regulation of unfair methods of competition and unfair or deceptive business acts or practices."
+        },
+        {
+          "heading": "POA: Power of Attorney",
+          "text": "A power of attorney or letter of attorney is a written authorisation to represent or act on another's behalf in private affairs, business, or some other legal matter. The person authorising the other to act is the principal, grantor, or donor (of the power). The one authorised to act is the agent or, in some common law jurisdictions, the attorney-in-fact."
+        }
+      ]
+    ],
+    "faqs": {
+      "faqTitle": "FAQs on Import Export Code",
+      "href": "section8",
+      "items": [
+        {
+          "question": "How can I print my IEC Certificate?",
+          "answer": "<li>Enter user name and password</li><li>Click services and IEC and Manage IEC</li><li>Verify your details</li><li>Click print IEC</li><li>PDF displayed to print</li>"
+        },
+        {
+          "question": "What is the technical requirement for filing IEC Number?",
+          "answer": "<li>Digital Signatures Token (Class II or III)</li><li>PAN</li><li>Mobile Number and Email ID</li><li>Address details of Branch office</li><li>Bank Account in the name of IEC holder</li><li>Aadhar card matching the details with PAN card</li>"
+        },
+        {
+          "question": "Is IEC Number Required by Service Exporters?",
+          "answer": "An Import Export Code (IEC) is not mandatory, unless the service provider seeks to avail benefits under the Foreign Trade Policy."
+        },
+        {
+          "question": "Who Issues IEC?",
+          "answer": "The Directorate General of Foreign Trade (DGFT), which falls under the Ministry of Commerce of the Government of India, issues the Import Export Code (IEC) in electronic form (e-IEC)."
+        },
+        {
+          "question": "DGFT Portal is compatible with which browsers?",
+          "answer": "The latest version of the portal is compatible with Google Chrome, Mozilla Firefox, Microsoft Internet Explorer, and Apple Safari."
+        },
+        {
+          "question": "What is the Validity of IEC Number?",
+          "answer": "An Import Export Code (IEC) assigned to an applicant will be valid permanently, but it is mandatory to update it annually to avoid deactivation. If the IEC is updated during the period of April to June each year, no fee will be charged for the update."
+        },
+        {
+          "question": "What happens if the IEC Code is not annually updated?",
+          "answer": "If the IEC is not updated within the specified time, it will be deactivated. The deactivated IEC can be reactivated upon successful updating, but this action will not prejudice any other measures taken for violation of other provisions of the Foreign Trade Policy (FTP)."
+        },
+        {
+          "question": "What is meant by IE code?",
+          "answer": "IEC stands for import export code which is a 10 digit number issued by the director general of foreign trade, department of commerce, government of India. It is a registration required for traders importing or exporting goods and services to or from India."
+        },
+        {
+          "question": "Who requires an Import Export Code?",
+          "answer": "Any person/company dealing in international trade of export and import of goods and services need to register for IE code."
+        },
+        {
+          "question": "Is there any tax levied based on Import Export Code?",
+          "answer": "IE code is not a tax registration. However, certain customs duty may be levied depending on the product."
+        },
+        {
+          "question": "Can export/import be made without having an importer exporter code?",
+          "answer": "No. IEC Registration is a mandatory document for recognition by the govt. of India as exporter / importer of goods and services. However, if the value of goods is too low, the customs authorities may permit first export by imposing nominal charges which is highly unlikely to happen."
+        },
+        {
+          "question": "Can individuals obtain IE code?",
+          "answer": "Anyone who is acting as sole proprietor of a business can obtain IE code registration."
+        },
+        {
+          "question": "What are the documents required for Import Export Code (IEC) registration?",
+          "answer": "To obtain IE code registration, a copy of PAN card and Aadhaar card, proof of address of business and constitution of the business [partnership deed, incorporation certificate, etc.,] and a cancelled cheque of the current account is required."
+        },
+        {
+          "question": "How long does it take to obtain IEC registration in India?",
+          "answer": "With Vakilsearch IEC registration can be done through the DGFT in 3-5 working days after submission of all required documents and application form."
+        },
+        {
+          "question": "What is the penalty levied for not registering for IE code?",
+          "answer": "As trade is not possible without a valid IEC Code, the penalty levied may be the pay duty depending upon the quantum of the goods"
+        },
+        {
+          "question": "Can export/import of goods and services be made without importer exporter code?",
+          "answer": "No. IEC is a mandatory document for recognition by govt. of India as exporter/importer. However, if the value of goods is very low, the concerned customs officer may permit the first export (only one time) by imposing penal charges."
+        },
+        {
+          "question": "Does the customs department use IEC Code?",
+          "answer": "Yes, the IEC number is reflected in all customs documents related to exports and imports."
+        },
+        {
+          "question": "How many IEC Code can a person get?",
+          "answer": "A single business owner can get only one license."
+        },
+        {
+          "question": "Can any changes be made in IEC Code?",
+          "answer": "Yes. In order to make changes, you need to raise a request with the DGFT and produce the relevant documents to make the modifications. Some government fees may be charged for the same."
+        },
+        {
+          "question": "How to cancel IEC Code?",
+          "answer": "IE code can be cancelled by initiating a formal request to the DGFT online. On receipt of such intimation, the authorities will cancel it electronically."
+        },
+        {
+          "question": "Is company registration required to get IEC Code?",
+          "answer": "No, there is no need for a customer to start a company to apply for an IEC certificate."
+        }
+      ]
+    },
+    "recentUpdates": {
+      "title": "on IEC Code",
+      "href": "section10",
+      "items": [
+        {
+          "text": "Recently the Indian government made changes regarding the export policy of red sandalwood exclusively sourced from cultivated origin from private lands. As per Section 3 and Section 5 of foreign trade development and regulation Act of 1992 the amendment was conducted. The central government amended the policy conditions that were pre-existing under chapter 44 of ITC HS 2018 scheduled to."
+        },
+        {
+          "text": "As per amendments Red sanders wood is not acceptable for export. However, the following yearly export quotas for red sanders (Rerocarpus santulinus) are permitted in accordance with the recommendations of the BSI NDF Report, MoEF&CC. The state government must create a digital platform with geo-referenced sites and MIS that provides information on the number of trees, their age, and their breast height diameter.  Specific management plans, harvest Plans, with approved rotation periods for sustainable harvest of red sanders wood from plantations in forest and non-forest regions must be included in the working policy guidelines of States."
+        }
+      ]
+    },
+    "serviceTypes": {
+      "title": "Types of Government Registrations",
+      "rows": [
+        "Who It's For",
+        "When You Need It",
+        "Returns to be Filed",
+        "Issuing Authority"
+      ],
+      "cols": [
+        " Importer-Exporter Code ",
+        " Shop & Establishments Act ",
+        " Professional Tax Registration "
+      ],
+      "values": [
+        [
+          "Importers & exporters",
+          "For any imports or exports ",
+          "No",
+          "Directorate General of Foreign Trade "
+        ],
+        [
+          "All businesses",
+          "Within 30 days of operations ",
+          "No",
+          "Municipal Corporation"
+        ],
+        [
+          "All employers",
+          "Within 30 days of operations ",
+          "Yes",
+          "State Government"
+        ]
+      ],
+      "links": [
+        "",
+        "/shop-and-establishment-license",
+        "/professional-tax-registration"
+      ]
+    },
+    "hideformfields": true,
+    "hidecityfield": "1",
+    "hidelangfield": "NA",
+    "tarsbotScript": "ByW9qG",
+    "nofreeconsultation": true,
+    "newbanner": true,
+    "newcontentgst": true,
+    "subheading4": "",
+    "submitbtn": "Talk to our expert",
+    "legalbtn": "",
+    "citywidth": true
+  },
+  "hide_city_lang": true,
+  "dashboardtm": true,
+  "languages": ["hindi"]
+}

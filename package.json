@@ -1,21 +1,46 @@
 {
-  "name": "micro-next-vs-ipindia",
+  "name": "vs-next-gateway-services",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "qeBuild": "next build",
+    "prodBuild": "cross-env-shell NODE_ENV=isProd \"next build && node sitemap_generator.js\"",
+    "awsCDN": "cross-env-shell NODE_ENV=awsCDN \"next build && node sitemap_generator.js\"",
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
-    "autoprefixer": "10.4.15",
-    "eslint": "8.49.0",
-    "eslint-config-next": "13.4.19",
-    "next": "13.4.19",
-    "postcss": "8.4.30",
+    "@uber9/micro-next-common-lib": "2.9.5",
+    "@uber9/web-react-components": "^0.0.42",
+    "autoprefixer": "10.4.14",
+    "axios": "^1.4.0",
+    "cross-env": "^7.0.3",
+    "eslint": "8.45.0",
+    "eslint-config-next": "13.4.12",
+    "formik": "^2.4.2",
+    "html-parser": "^0.11.0",
+    "html-react-parser": "^4.2.0",
+    "lodash": "^4.17.21",
+    "mixpanel-browser": "^2.47.0",
+    "next": "13.4.7",
+    "next-seo": "^6.1.0",
+    "parse5": "^7.1.2",
+    "postcss": "8.4.27",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "tailwindcss": "3.3.3"
+    "react-select": "^5.7.4",
+    "react-slick": "^0.29.0",
+    "react-switch": "^7.0.0",
+    "sass": "^1.58.0",
+    "slick-carousel": "^1.8.1",
+    "uuid": "^9.0.0",
+    "yup": "^1.2.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.3.3"
   }
 }

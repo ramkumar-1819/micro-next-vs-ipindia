@@ -1,0 +1,254 @@
+{
+  "url": "bis-registration",
+  "serviceName": "Online Trust Registration",
+  "sliderwidth": true,
+  "hideBorder": true,
+  "b2bServicePage": true,
+  "showYellowBorder": true,
+  "hideSubTitle": true,
+  "whitenav": true,
+  "canonical": true,
+  "canonicalUrl": "bis-registration",
+  "hidePartnerList": true,
+  "pageTitle": "BIS Registration Process Online | BIS Certification - Vakilsearch",
+  "hideStateField": true,
+  "showCityField": true,
+  "showDash": true,
+
+  "meta": {
+    "keyword": "Bis Registration, BIS Registration Process, BIS Certification,Bureau of Indian Standards",
+    "description": "BIS registration is a certification process required by the Bureau of Indian Standards for certain types of products sold in India to meet the quality standards."
+  },
+  "serviceItems": [
+    {
+      "header": "",
+      "items": ["Easy process", "Completely online ", "Affordable price"]
+    }
+  ],
+  "content": {
+    "serviceId": "878",
+    "workflow": "bis-onboarding",
+    "newtestimonialWithReview": true,
+    "title": "Earn Clients’ Trust With an ISI Mark",
+    "subTitle": "Get your trust registered in less than a few clicks through Vakilsearch.",
+    "formTitle": "Register Trust",
+    "b2bBanner": true,
+    "bannerInsight": "<b>5,000+</b> BIS registered since 2017",
+    "bannerReviews": true,
+    "showCertificate": "true",
+    "biscertificate": true,
+    "certificateImage": "https://assets.vakilsearch.com/live-images/bis-certificate.jpg",
+    "modalTitle": "View sample Certificate",
+    "certificateLogo": "https://assets.vakilsearch.com/live-images/bis-certificate-logo.svg",
+    "formSection": {
+      "title": "Earn Clients’ Trust With an ISI Mark",
+      "subTitle": "",
+      "list": [
+        "Boost your product credibility with an ISI mark. Now @ ₹4,500",
+        "Expert support throughout the BIS registration process."
+      ],
+      "formTitle": "Get Started!",
+      "submitCTA": "Talk to our expert",
+      "secondaryFormSection": {
+        "formTitle": "Get me more details",
+        "submitCTA": "Talk to our expert",
+        "hasLanguageField": true,
+        "bannerKey": "easy-monthly-emi"
+      }
+    },
+    "menus": [
+      {
+        "title": "Overview",
+        "href": "#section1"
+      },
+      {
+        "title": "What Is FMCS?",
+        "href": "#section2"
+      },
+      {
+        "title": "BIS Certification",
+        "href": "#section3"
+      },
+      {
+        "title": "Product Covered Under BIS Certification",
+        "href": "#section4"
+      },
+      {
+        "title": "Documents Required",
+        "href": "#section5"
+      },
+      {
+        "title": "Process",
+        "href": "#section6"
+      },
+      {
+        "title": "Types",
+        "href": "#section7"
+      },
+      {
+        "title": "Why vakilsearch",
+        "href": "#section8"
+      },
+      {
+        "title": "FAQ's",
+        "href": "#section9"
+      },
+      {
+        "title": "Dash",
+        "href": "#section10",
+        "new": true
+      }
+    ],
+    "summary": {
+      "title": "Why Do You Need a BIS Registration?",
+      "description": "BIS registration is a certification process that ensures that certain products meet the standards set by the Indian government for quality, safety, and reliability.",
+      "steps": [
+        {
+          "title": "Fix an Appointment",
+          "description": "Our experienced lawyers will get in touch with you.",
+          "sign": "https://assets.vakilsearch.com/live-images/website_revamp/new-service-step1.svg"
+        },
+        {
+          "title": "Resolve all your Queries",
+          "description": "Your documents are collected and verified by our legal experts. Our team will start the registration process.",
+          "sign": "https://assets.vakilsearch.com/live-images/website_revamp/new-service-step2.svg"
+        },
+        {
+          "title": "Complete Guidance",
+          "description": "Our lawyers will complete the BIS registration process and we will send you the registration details.",
+          "sign": "https://assets.vakilsearch.com/live-images/website_revamp/new-service-step3.svg"
+        }
+      ]
+    },
+    "sections": [
+      [
+        {
+          "title": "BIS Certification- An Overview",
+          "href": "section1",
+          "text": "The BIS is an Indian national standard body established by the Bureau of Indian Standards Act of 2016. It was created to facilitate the establishment of product standardisation, marking, and quality certification, as well as incidental or related issues."
+        },
+        {
+          "text": "Having a BIS mark on your product or service assures that you are supplying secure and trustworthy items of high quality, lowering consumer health risks. It also encourages import and export alternatives, reducing variety proliferation. As a result, indirectly BIS initiates traceable and noticeable advantages to the national economy."
+        },
+        {
+          "text": "<b>The main objective of the BIS is as follows:</b>"
+        },
+        {
+          "items": "Growth of standardisation, quality certification, and marking that is continuous and harmonious | Seamless creation of a national strategy for standard recognition and synchronisation with the growth of exports and products | To guarantee a fresh approach to quality assurance and standardisation."
+        }
+      ],
+      [
+        {
+          "title": "What Is FMCS Registration? ",
+          "href": "section2",
+          "text": "A foreign manufacturer is awarded a license under FMCS to use a standard mark on a product if it complies with an Indian Standard. The certification of the standards may be required or optional. For products produced in a manufacturing facility and meeting all applicable Indian standard requirements, a BIS license to use or apply the standard mark is awarded (s). The Foreign Manufacturers Certification Department (FMCD) at BIS Headquarters in New Delhi is responsible for issuing the license."
+        }
+      ],
+      [
+        {
+          "title": "How BIS Certification Can Help Your Business?",
+          "href": "section3",
+          "text": "BIS certification has a lot of advantages. Some of them are discussed below."
+        },
+        {
+          "heading": "Legal Benefit",
+          "text": "This is the primary advantage of having a BIS certificate. It assures that the products manufactured by your firm are of top quality. From a legal perspective, the BIS certificate assures the higher quality of the product and adheres to the rules and regulations laid by the government. This turns out to be a unique Identity."
+        },
+        {
+          "heading": "Competitive Advantage",
+          "text": "Having a BIS certificate provides greater leverage over your business competitors. A certified product tends to preserve credibility and the rest of the customers in the longer run. However uncertified products may face some legal issues and litigation. Most consumers tend to use certified products."
+        },
+        {
+          "heading": "Showcase your Quality Standards",
+          "text": "As previously mentioned BIS certification implies that your products are of higher quality and comprise the terms and conditions of the government. BIS certification is not given easily to any product. The product has to undergo examination and multiple tests under the authorities. Only after providing proper reports, the laboratory will certify that the product is up to mark and avails BIS certification."
+        },
+        {
+          "heading": "Greater Access to Global Markets",
+          "text": "Having your product certified through the BIS opens multiple doors on the global front. This provides greater opportunities for existing companies to gain access both in India and abroad. Manufacturers generate greater trust from the consumer and generate better revenue."
+        }
+      ],
+      [
+        {
+          "title": "Compulsory Product Covered Under BIS Certification",
+          "href": "section4",
+          "text": "<table class='inline-table' style='text-align:center;'><tr><td>Cement</td><td>Households electrical goods</td><td>Batteries</td><td>Oil pressure stoves</td><td>Automobile accessories</td></tr><tr><td>Cylinder, Values and regulation</td><td>Electrical motors</td><td>Food products</td><td>Pressure cooker</td><td>Woven socks</td></tr><tr><td>Medical equipment</td><td>Chemical and fertilisers</td><td>Water heaters</td><td>Toys</td><td>Cables</td></tr><tr><td>Steel products</td><td>Capacitors</td><td>LPG gas</td><td>Aluminium foil</td><td>Rubber hose for liquified petroleum gas</td></tr><tr><td>Electrical transformers</td><td>Kitchen appliances</td><td>Plugs and sockets</td><td>Glass: Sheet and safety</td><td>Electronics and IT goods</td></tr></table>"
+        }
+      ],
+      [
+        {
+          "title": "Documents Required for BIS Certificate",
+          "href": "section5",
+          "items": "Marking fees | Reports of internal lab setup | Manufacturer address proof | Regulatory approval | IP registration information | Product information | Manufacturing capacity information | Factory or manufacturing unit layout plan | Information regarding machinery and plant installation | Raw material information | Packaging material details | Test equipment details | Quality control information | Detail about organisational chart | Locational map of the factory | Letter from BIS-approved laboratory"
+        }
+      ],
+      [
+        {
+          "title": "BIS Registration Process",
+          "href": "section6",
+          "text": "With Vakilsearch, the BIS registration process is very easy. All you have to do is book an appointment with our experts to initiate the BIS process."
+        },
+        {
+          "items": "<b>Step 1:</b> Get in touch with our experts and they will help in choosing the correct IS mark for your product | <b>Step 2:</b> Our expert team will get in touch and initiate the testing facility and gear up your factory to make it ready for application | <b>Step 3:</b> Our team will initiate the documentation procedure and pass it on to the regional offices of BIS"
+        },
+        {
+          "text": "If you are a domestic manufacturer then any one of the following 3 application routes will be initiated"
+        },
+        {
+          "items": "<b>Inspection and testing scheme (120-180 days):</b> This is the primary procedure where application form V along with the documentation and fees is submitted to the BIS and officially visit the site, evaluate and take the samples get tested independently | <b>Third-party laboratory technique (30 days):</b> This is a quicker process where you can reduce the time involved in testing and analysing the samples. The testing can be conducted in BIS-approved labs | <b>Eco mark scheme:</b> BIS has specified a separate route for eco-friendly products. You have to confirm the different set of standards to qualify as an eco mark."
+        },
+        {
+          "items": "In the case of a foreign manufacturer, our team can support the FMCS registration process | Subsequently, the manufacturer has to install an in-house testing facility and appoint quality control personnel with expertise in the field. Our team can provide the best QC professionals and support you in the whole process | Within 15 days of applying for BIS registration factory visit and inspection Will be carried out | In case of rejections and objections from the officials, our team will provide complete support | After completing all the processes an ISI mark certification is provided."
+        }
+      ],
+      [
+        {
+          "title": "BIS Certification Types",
+          "href": "section7",
+          "text": "We adhere to all BIS schemes in the pursuit of BIS Certification. From filling out the application form to taking the test and collaborating with the BIS officer until you receive the certificate, we offer you full support. We help with both product testing and getting the different BIS-covered licenses."
+        },
+        {
+          "title": "Such permits include:"
+        },
+        {
+          "items": "Certification BIS,CRS | FMCS | ISI Certification/Mark | Assaying and hallmarking centre | Certification for BIS laboratory recognition scheme | Management systems | ECO mark certification."
+        }
+      ],
+      [
+        {
+          "title": "Why Vakilsearch?",
+          "href": "section8",
+          "text": "As a team, Vakilsearch provides holistic support when it comes to BIS registration. We simplify the legal process and make sure that it is business-friendly. Our whole team can provide complete support starting from the paperwork, conducting QC audit and inspection till providing reports along with lab testing. BIS registration has never been much easier. We have accountable professionals who can help you to slide through all the scrutiny of filings and provide precise analysis of proceedings and implement all the outputs on time. Get in touch with our experts right away and initiate the process without much delay."
+        }
+      ]
+    ],
+    "faqs": {
+      "href": "section9",
+      "items": [
+        {
+          "question": "How many years is the BIS certificate valid?",
+          "answer": "The certificates remain in effect for two years. BIS has the right to demand periodic product audits during these two years."
+        },
+        {
+          "question": "After certification, how do I have to mark my products?",
+          "answer": "Products must bear the ISI logo (for BIS, ISI) or the BIS,CRS logo, depending on the certification."
+        },
+        {
+          "question": "How long does it take to be BIS certified?",
+          "answer": "The process typically takes 2-3 months (without audit for BIS-CRS registration) or 4-6 months, depending on if an audit is necessary for your product certification (with an audit for BIS-ISI certification)."
+        },
+        {
+          "question": "Which facilities require an audit?",
+          "answer": "The product's production facility is where the audit for the BIS certification (ISI) always takes place. If production occurs at multiple sites, an audit must be performed at the facility where the final output of the quality-assuring production process occurs."
+        },
+        {
+          "question": "Are business licenses and ISO certificates required documents for FMCS certification?",
+          "answer": "<li>English translation must be provided even if it is accessible in another particular language</li><li>Flowchart for a process</li><li>Information on additional products or factory system certificates</li><li>List of production equipment</li><li>A list with details on test instruments and certificates attesting to their calibration</li><li>A drawing of the product or any of its parts, if applicable</li><li>Information on the deserving individual</li><li>Appointment letter, qualification certificate, and information on experience as an in-lab in charge.</li><li>Result of the test by Indian Standards</li><li>Declaration and undertaking.</li>"
+        }
+      ]
+    },
+    "submitbtn": "Talk to our expert",
+    "tarsbotScript": "V1MJ6s",
+    "bannerBottomContent": "Get complimentary access to our Invoicing & Accounting tool- DASH"
+  },
+  "languages": []
+}

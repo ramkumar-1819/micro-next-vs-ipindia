@@ -1,0 +1,368 @@
+{
+  "url": "nidhi-company-registration",
+  "serviceName": "Nidhi Company registration",
+  "whitenav": true,
+  "hideSubTitle": true,
+  "showYellowBorder": true,
+  "hidePartnerList": true,
+  "sliderwidth": true,
+  "hideStateField": true,
+  "hideBannerBottom": true,
+  "showCityField": true,
+  "b2bServicePage": true,
+  "bannerBottomContent": false,
+  "showClickToWatch": true,
+  "pageTitle": "Nidhi Company registration | eNidhi finances and rules",
+  "canonical": true,
+  "canonicalUrl": "nidhi-company-registration",
+  "meta": {
+    "keyword": "nidhi, nidhi company, e nidhi, nidhi company registration, what is nidhi company, nidhi company rules, nidhi company in india, nidhi finance, nidhi company registration fees, nidhi company compliances, nidhi company website, nidhi registration, section 406 of companies act 2013, what is nidhi",
+    "description": "Effortlessly start your Nidhi Company with Vakilsearch. Expert assistance in registration and compliance. Launch your financial venture today"
+  },
+  "schema": {
+    "articleSchema": {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://vakilsearch.com/nidhi-company-registration"
+      },
+      "headline": "Nidhi Company registration | eNidhi finances and rules",
+      "description": "Obtain Nidhi Company registration and comprehensive details on eNidhi through Vakilsearch. Explore Nidhi finances, fees, and more. Get started now!",
+      "image": {
+        "@type": "ImageObject",
+
+        "url": "https://vakilsearch.com/blog/wp-content/uploads/2023/04/nidhi-company.jpg"
+      },
+      "articleSection": "v2",
+      "keywords": "nidhi company registration, nidhi company registration online, enidhi, nidhi company, what is nidhi company, nidhi company registration process, nidhi company registration fees, nidhi company compliances, nidhi registration",
+      "datePublished": "",
+      "dateModified": "",
+      "author": {
+        "@type": "Person",
+        "name": "VakilSearch"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "VakilSearch",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjpD1lt7g1naDsHjs2yuf-KpP9QtH0D9MJ30uqVkvc&s",
+          "width": 800,
+          "height": 344
+        }
+      }
+    }
+  },
+  "content": {
+    "serviceId": "233",
+    "workflow": "nidhi-onboarding",
+    "title": "Nidhi Company Registration",
+    "serviceImage": [
+      {
+        "imgurl": "live-images/infographics/benefits-of-nidhi-company-registration.jpg",
+        "alt": "benefits of nidhi company registration"
+      }
+    ],
+    "subTitle": "An excellent option for people looking to save money and lead a thrifty lifestyle.",
+    "formTitle": "Begin Nidhi Company registration",
+    "newtestimonialWithReview": true,
+    "b2bBanner": true,
+    "bannerReviews": true,
+    "formSection": {
+      "title": "Nidhi Company Registration",
+      "subTitle": "",
+      "list": [
+        "Get your Nidhi company registered with us in 10 working days.",
+        "1 DSC and 3 DINs included. Company name registration & Expert support till RBI principle approval"
+      ],
+      "formTitle": "Get Started!",
+      "submitCTA": "Talk to a company expert",
+      "secondaryFormSection": {
+        "formTitle": "Get me more details",
+        "submitCTA": "Talk to a company expert",
+        "hasLanguageField": true,
+        "bannerKey": "easy-monthly-emi"
+      }
+    },
+    "menus": [
+      {
+        "title": "Overview",
+        "href": "#section1"
+      },
+      {
+        "title": "Benefits",
+        "href": "#section2"
+      },
+      {
+        "title": "Checklist",
+        "href": "#section3"
+      },
+      {
+        "title": "Things e-Nidhi Cannot do as an NBFC",
+        "href": "#section4"
+      },
+      {
+        "title": "e-Nidhi Registration Process",
+        "href": "#section5"
+      },
+      {
+        "title": "Documents Required",
+        "href": "#section6"
+      },
+      {
+        "title": "Fees",
+        "href": "#section7"
+      },
+      {
+        "title": "Latest Nidhi Company Rules",
+        "href": "#section8"
+      },
+      {
+        "title": "Important Facts",
+        "href": "#section9"
+      },
+      {
+        "title": "Nidhi Company in India vs RBI Recruitment",
+        "href": "#section10"
+      },
+      {
+        "title": "Rules - 2023",
+        "href": "#section11"
+      },
+      {
+        "title": "Why Vakilsearch",
+        "href": "#section12"
+      },
+      {
+        "title": "FAQs",
+        "href": "#section13"
+      },
+      {
+        "title": "Recent Updates",
+        "href": "#section14"
+      }
+    ],
+    "summary": {
+      "title": "Who Should Register For A Nidhi Company?",
+      "description": "It&apos;s ideal for those businesses looking to start a permanent and a mutual benefit fund, or a mutual benefit company.",
+      "steps": [
+        {
+          "title": "One DSC & three DINs",
+          "description": "The directors must be registered with the MCA",
+          "sign": "https://assets.vakilsearch.com/live-images/website_revamp/new-service-step3.svg"
+        },
+        {
+          "title": "Company Name Reservation",
+          "description": "Deciding on a company name and registering it",
+          "sign": "https://assets.vakilsearch.com/live-images/website_revamp/new-service-step2.svg"
+        },
+        {
+          "title": "RBI Approval",
+          "description": "Principle approval from RBI",
+          "sign": "https://assets.vakilsearch.com/live-images/website_revamp/new-service-step3.svg"
+        }
+      ]
+    },
+    "sections": [
+      [
+        {
+          "title": "What is Nidhi Company?",
+          "href": "section1",
+          "text": "A Nidhi Company is a non-banking financial company (NBFC) operating in India, governed by the Nidhi Rules, 2014, and recognised under Section 406 of the Companies Act, 2013. Functioning as a public limited company, its core objective revolves around promoting thrift and savings among its members while providing financial assistance to them through lending. ",
+          "serviceImage": [
+            {
+              "imgurl": "live-images/infographics/benefits-of-nidhi-company-registration.jpg",
+              "alt": "benefits of nidhi company registration"
+            }
+          ]
+        },
+        {
+          "text": "To establish a Nidhi Company, a minimum of seven members are required, and the company must possess a net owned fund of at least  ₹10 lakhs. Unlike other NBFCs, Nidhi Companies are limited in their operations, restricted to borrowing and lending activities among their individual members only. They cannot accept deposits from the general public or engage in other financial activities. Although exempted from RBI registration, Nidhi Companies must adhere to specific regulations provided by the Ministry of Corporate Affairs (MCA) in India."
+        }
+      ],
+      [
+        {
+          "title": "Benefits of a Nidhi Company",
+          "href": "section2"
+        },
+        {
+          "heading": "Affordable Borrowing ",
+          "text": " Being a member of a Nidhi company allows individuals to borrow money at a lower rate compared to banks. This provides a significant advantage during times of financial need, as different members may require funds at various points in time."
+        },
+        {
+          "heading": "Promotes Saving",
+          "text": "Nidhi companies encourage all their members to save money and cultivate a frugal lifestyle. By fostering a mutual benefit society, Nidhi registration enables members to lend or borrow money and receive financial assistance among themselves."
+        },
+        {
+          "heading": "Simplified Process",
+          "text": "Nidhi corporation has a much simpler process than the  banks or unauthorised lenders. Due to the well-organised incorporation processes, members of a Nidhi company can optimise the potential of their financial resources and have access to lower interest rates when they require cash for their own requirements."
+        }
+      ],
+      [
+        {
+          "title": "What Is the Checklist for a Nidhi Company in India?",
+          "href": "section3",
+          "items": "In India, a minimum of seven members are needed to start a Nidhi corporation | It needs 3 directors | It can have upto 200 members | A minimum equity share capital of ₹5 lakhs must be paid up in full | Within a year of Nidhi registration, Net Owned Funds (NOF) must increase to ₹10 lakhs | The following conditions must be met: <br> 1. Unencumbered term deposits must make up at least 10% of the total amount of the company's existing deposits <br> 2. One to twenty is the suggested NOF to deposit ratio. This includes equity share capital and free reserves. It excludes accumulated losses and intangible assets | Additionally, at least 10% of the total deposits must be held in the fixed deposit account of a nationalised bank."
+        }
+      ],
+      [
+        {
+          "title": "Things e-Nidhi Cannot do as an NBFC",
+          "href": "section4",
+          "text": "Here are some activities that e-nidhi cannot engage in:",
+          "items": "Chit fund operations | Rent-to-own financing | Purchasing or insuring securities issued by any corporate body conducting advance or loan activity as an NBFC | Leasable financing | purchase of marketable securities, including | Stocks, shares, bonds, and debentures, are issued by any local authority."
+        }
+      ],
+      [
+        {
+          "title": "What is e-Nidhi Registration Process With Vakilsearch?",
+          "href": "section5"
+        },
+        {
+          "heading": "Step 1: Name Reservation",
+          "text": "We help you reserve your desired name with the Ministry of Corporate Affairs (MCA)."
+        },
+        {
+          "heading": "Step 2: DSC and DINs",
+          "text": "We assist you in obtaining 1 Digital Signature Certificate (DSC) and 3 Director Identification Numbers (DINs)."
+        },
+        {
+          "heading": "Step 3: Documents and Approval",
+          "text": "We provide support throughout the documentation process. It helps you obtain in-principle approval from RBI."
+        }
+      ],
+      [
+        {
+          "title": "What are Types of Documents Required for Nidhi Company Registration?",
+          "href": "section6",
+          "text": "The following documents has to be submitted from all the directors "
+        },
+        {
+          "items": "PAN card (self-attested copy) | Driver's license/Voter ID/Aadhaar card/passport (self-attested copy) | Bank statement/telephone bill/mobile bill/electricity bill (self-attested copy) | Passport-size photograph | Specimen signature certificate"
+        }
+      ],
+      [
+        {
+          "title": "Nidhi Company Registration Fees in India",
+          "href": "section7",
+          "text": "A Nidhi business can be easily registered in India. We are a reliable company registrar who can assist you. Complete the necessary documentation, then pay the affordable e-Nidhi Company Registration fees online. You will obtain a Certificate of Incorporation as proof of the registration of your business when you register. In addition, there are Nidhi registration costs and yearly maintenance expenses, which, depending on state rules. Talk to our experts today to know more about the charges."
+        }
+      ],
+      [
+        {
+          "title": "What Are the Latest Nidhi Company Rules?",
+          "href": "section8",
+          "text": "By 2023, Nidhi firms having a share capital of ₹10 lakh or more were required to obtain a self-declaration from the central government before beginning operations. By establishing e-Nidhi Rules, Nidhi firms will be governed in a transparent, accountable, and democratic manner. Companies that match the criteria must file an application in Form NDH-4, including having a minimum of 200 members, a net owned fund of at least ₹20 lakh, and being considered as a fit and proper person. The application is judged successful after 45 days have elapsed without a response from the government. Existing Nidhi enterprises have 18 months to comply with these rules before new businesses are required to do so."
+        }
+      ],
+      [
+        {
+          "title": "Important Facts of Nidhi Companies",
+          "href": "section9",
+          "items": "Nidhi firms can be established without the RBI's consent | They are established as public corporations | The term 'Nidhi Limited' must be added to their name | Nidhi companies are regulated by the RBI, similar to NBFCs | Their primary focus is on internal loan and borrowing activities, without involving external parties | The Nidhi Rules of 2014 permit Nidhi firms to rent out locker facilities to their members | The rental income from lockers should not exceed 20% of the total revenue during the fiscal year."
+        }
+      ],
+      [
+        {
+          "title": "Nidhi Company in India vs RBI Recruitment",
+          "href": "section10",
+          "text": "The Reserve Bank of India (RBI) and the Nidhi Company Rules, 2014 have different responsibilities and rules. The RBI manages the financial system's regulation in its capacity as India's central bank. Nidhi businesses, on the other hand, are non-banking financial institutions (NBFIs) that serve the needs of its members."
+        },
+        {
+          "text": "In India, Nidhi firms are governed by the Nidhi Company Rules, 2014. These standards outline the specifications and rules that Nidhi firms must adhere to. They must maintain a minimum net owned fund (NOF) of ₹10 lakhs and allocate at least 10% of their resources to unencumbered term deposits in scheduled commercial banks. Nidhi firms must also adhere to a number of reporting and regulatory requirements imposed by the RBI. It is advisable to register a Nidhi company under the RBI's guidelines to ensure compliance and avoid penalties."
+        }
+      ],
+      [
+        {
+          "title": "Nidhi (Amendment) Rules, 2023",
+          "href": "section11",
+          "text": "The Nidhi (Amendment) Rules, 2023 were introduced by the Ministry of Corporate Affairs (MCA) on 20 January 2023. These rules specifically focus on modifying the forms associated with Nidhi companies, as originally specified in the Nidhi Rules of 2014. According to these new guidelines, Forms NDH-1, NDH-2, NDH-3, and Form NDH-4 have all been revised. The Nidhi (Amendment) Rules, 2023's Annexure contains the amended versions of these forms."
+        }
+      ],
+      [
+        {
+          "title": "Why Vakilsearch?",
+          "href": "section12",
+          "text": "Vakilsearch is a reliable choice for Nidhi company registration because of their expertise in legal services, simplified online processes, cost-effective solutions, and a dedicated team of professionals who guide you through the entire registration process, ensuring compliance with all legal requirements. Choosing Vakilsearch for registering your Nidhi company offers numerous advantages. With our expertise, simplified process, and experience in legal compliance, Vakilsearch ensures a smooth registration process. They provide customised solutions, transparent pricing, and post-registration support, making them a reliable partner for your Nidhi company registration needs. Our commitment to customer satisfaction and excellent service makes them a top choice in the industry."
+        }
+      ]
+    ],
+    "faqs": {
+      "faqTitle": "FAQs on Nidhi Company in India",
+      "href": "section13",
+      "items": [
+        {
+          "question": "What is rule 12 of nidhi company?",
+          "answer": "Rule 12 of Nidhi Company refers to the provision under the Nidhi Rules, 2014, which specifies the requirements and restrictions related to the appointment of a statutory auditor for the company."
+        },
+        {
+          "question": "Can a non-member apply for a nidhi loan?",
+          "answer": "No, to apply for a loan from a Nidhi firm, you must be a registered member. Non-members are not allowed to avail themselves of the loan facility."
+        },
+        {
+          "question": "What is the minimum par value of nidhi company shares?",
+          "answer": "Each share issued by a Nidhi company must have a minimum par value or face value of ₹ 10 (ten rupees)."
+        },
+        {
+          "question": "What is the maximum amount of dividend a company can pay?",
+          "answer": "In accordance with the Companies Act, 2013, the Companies Act allows a company to distribute dividends up to a maximum of 10% of its paid-up share capital, free reserves, and securities premium account, provided that there are sufficient profits available."
+        },
+        {
+          "question": "Does a nidhi company issue preference shares?",
+          "answer": "No, a Nidhi company is prohibited from issuing preference shares. It can only issue equity shares to its members."
+        },
+        {
+          "question": "How can I expand the operations of my Nidhi company to different areas?",
+          "answer": "You must adhere to the requirements of the Nidhi Rules, 2014 in order to diversify the activities of a Nidhi firm. This includes obtaining necessary approvals, fulfilling capital requirements, and adhering to the prescribed procedures for opening branches or extending operations."
+        },
+        {
+          "question": "Should I dissolve my Nidhi company because it has not gained the necessary number of representatives despite completing one full year of tenure?",
+          "answer": "While the decision to dissolve a Nidhi company is subjective, you may consider reviewing your business strategy, promoting the company's benefits, and exploring avenues to attract more representatives before considering dissolution."
+        },
+        {
+          "question": "In a Nidhi company, are members allowed to credit or debit cash to the general fund?",
+          "answer": "Yes, members of a Nidhi corporation may deposit cash into the general fund or withdraw it. However, such transactions must adhere to the policies and guidelines controlling the company's activities."
+        },
+        {
+          "question": "What are the criteria to become a representative of a Nidhi company?",
+          "answer": "Depending on the internal policies of the firm, different qualifications may be needed to join a Nidhi company as a representative. Talk to our experts to know more about the same."
+        },
+        {
+          "question": "In a Nidhi company, what should the limit for cash deposit be for its representatives?",
+          "answer": "The limit for cash deposit by representatives of a Nidhi company is determined by the company's internal policies. It is advisable to refer to the company's rules and guidelines regarding cash deposits by representatives."
+        },
+        {
+          "question": "Is a Nidhi company the same as a Chit Fund?",
+          "answer": "No, a Nidhi company is different from a Chit Fund. A Nidhi company primarily deals with accepting deposits and providing loans to its members, while a Chit Fund operates as a type of savings scheme where subscribers contribute to a common pool and receive periodic payouts through an auction process."
+        },
+        {
+          "question": "What are the fees required to close a Nidhi company in India?",
+          "answer": "The fees for closing a Nidhi company in India may vary depending on various factors such as the company's capital, assets, liabilities, and the applicable regulations. It is recommended to consult a legal professional or a chartered accountant to determine the specific fees and procedures for closing a Nidhi company."
+        },
+        {
+          "question": "Can a director take a loan from a Nidhi company?",
+          "answer": "Yes, as per the Nidhi Rules, 2014, a director of a Nidhi company can avail of a loan from the company, subject to certain conditions. The loan should be in accordance with the company's lending policies, and the director should disclose his/her interest in the transaction and abstain from participating in the board decision regarding the loan."
+        }
+      ]
+    },
+    "recentUpdates": {
+      "title": "on Nidhi Company",
+      "href": "section14",
+      "items": [
+        {
+          "title": "17th March: Stringent compliance norms for Nidhi Companies",
+          "text": "To protect the interest of investors, the Ministry has advised them to verify a Nidhi Company status before pumping in money. They can verify it from the notification in the official gazette."
+        },
+        {
+          "title": "21st March: Time-frame for filing Form NDH-4",
+          "text": "To enhance transparency and investor-friendliness, Nidhi companies are now instructed to follow the time frame for applying in Form NDH-4. In case of non-compliance, a Nidhi Company will not be allowed to file Form No SH-7 and Form PAS-3."
+        }
+      ]
+    },
+    "submitbtn": "Talk to a company expert",
+    "tarsbotScript": "SJe_Mc",
+    "video": "https://www.youtube.com/embed/7-cFc659unc?autoplay=1"
+  },
+  "languages": ["hindi"]
+}

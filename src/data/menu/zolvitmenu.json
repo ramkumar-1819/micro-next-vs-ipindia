@@ -1,0 +1,434 @@
+[
+    {
+      "tabName": "Business",
+      "type": "withNav",
+      "content": [
+        {
+          "name": "Register a Business",
+          "description": "All entity types - India & Abroad",
+          "img": "https://assets.zolvit.com/live-images/zolvit-header/Notes.svg",
+          "links": {
+            "firstColumn": [
+              {
+                "groupName": "Business Setup",
+                "links": [
+                  { "text": "Private Limited Company (Pvt Ltd)", "href": "/online-company-registration" },
+                  { "text": "Limited Liability Partnership (LLP)", "href": "/llp-registration-india" },
+                  { "text": "One Person Company (OPC)", "href": "/one-person-company-opc-in-india", "zolvit": true },
+                  { "text": "Nidhi Company", "href": "/nidhi-company-registration", "zolvit": true },
+                  { "text": "Producer Company", "href": "/farmer-producer-company-registration" },
+                  { "text": "Sole Proprietorship", "href": "/sole-proprietorship-registration-india", "zolvit": true },
+                  { "text": "Partnership Firm", "href": "/partnership-firm-deed", "zolvit": true }
+                ]
+              },
+              {
+                "groupName": "Name search",
+                "links": [
+                  { "text": "Company Name Search", "href": "/company-name-search" },
+                  { "text": "Brand Name Search", "href": "/trademark-search" }
+                ]
+              }
+            ],
+            "secondColumn": [
+              {
+                "groupName": "International Business Setup",
+                "links": [
+                  { "text": "Dubai Company Incorporation", "href": "/business-setup-in-dubai" },
+                  { "text": "US Company Incorporation", "href": "/usa-incorporation" },
+                  { "text": "Singapore Company Incorporation", "href": "/registered-company-in-singapore", "zolvit": true },
+                  { "text": "UK Company Incorporation", "href": "/incorporating-a-company-in-united-kingdom" },
+                  { "text": "Hong Kong Company Incorporation", "href": "/incorporating-a-company-in-hong-kong" },
+                  { "text": "Australia Company Incorporation", "href": "/incorporating-a-company-in-australia" },
+                  { "text": "China Company Incorporation", "href": "/incorporating-a-company-in-china" },
+                  { "text": "Malaysia Company Incorporation", "href": "/incorporating-a-company-in-malaysia" }
+                ]
+              },
+              {
+                "groupName": "Fundraising",
+                "links": [
+                  { "text": "Fundraising", "href": "/online-fundraising-startup-funding" },
+                  { "text": "Pitch Deck", "href": "/business-plan-pitch" },
+                  { "text": "Business Ideas", "href": "/business-ideas" }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "Licenses and Registrations",
+          "description": "GST, FSSAI, Startup India & more",
+          "img": "https://assets.zolvit.com/live-images/zolvit-header/Cerificate.svg",
+          "links": {
+            "firstColumn": [
+              {
+                "groupName": "",
+                "links": [
+                  { "text": "Digital Signature Certificate", "href": "/digital-signature-online-dsc" },
+                  { "text": "MSME/SSI Registration", "href": "/udyam-udyog-aadhar-msme-registration" },
+                  { "text": "ISO Certification", "href": "/iso-certification", "zolvit": true },
+                  { "text": "FSSAI [Food License]", "href": "/online-food-license-fssai-registration" },
+                  { "text": "IEC [Import/Export Code]", "href": "/import-export-code" },
+                  { "text": "Psara License", "href": "/psara-license" },
+                  { "text": "Trade License", "href": "/trade-license" },
+                  { "text": "Startup India Registration", "href": "/startup-india-scheme", "zolvit": true },
+                  { "text": "Shops and Establishments License", "href": "/shop-and-establishment-license" }
+                ]
+              }
+            ],
+            "secondColumn": [
+              {
+                "groupName": "",
+                "links": [
+                  { "text": "AEPC", "href": "/apparel-export-promotion-council" },
+                  { "text": "Legal Metrology", "href": "/legal-metrology", "zolvit": true },
+                  { "text": "APEDA registration", "href": "/apeda-rcmc-registration" },
+                  { "text": "RCMC", "href": "/registration-cum-membership-certificate" },
+                  { "text": "FIEO", "href": "/federation-of-indian-export-organisations" },
+                  { "text": "Spice Board Registration", "href": "/spice-board-registration-certificate" }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "Manage your Business Filings",
+          "description": "Accounting, Tax, Compliance & more",
+          "img": "https://assets.zolvit.com/live-images/zolvit-header/Tool.svg",
+          "links": {
+            "firstColumn": [
+              {
+                "groupName": "Mandatory Annual Filings",
+                "links": [
+                  { "text": "Private Limited Company / OPC", "href": "/company-maintenance-package" },
+                  { "text": "Limited Liability Partnership", "href": "/form-8-llp-annual-filings", "zolvit": true },
+                  { "text": "CFSS", "href": "/fresh-start-for-companies" }
+                ]
+              },
+              {
+                "groupName": "Changes in Pvt Ltd Company",
+                "links": [
+                  { "text": "Add a Director", "href": "/appointment-of-director" },
+                  { "text": "Remove a Director", "href": "/removal-of-a-director" },
+                  { "text": "Increase Authorized Capital", "href": "/authorised-share-capital", "zolvit": true },
+                  { "text": "Close a Pvt Ltd Company", "href": "/liquidation-of-company" },
+                  { "text": "Change Objective/Activity", "href": "/changing-objectives-of-business", "zolvit": true },
+                  { "text": "Change Address", "href": "/change-the-official-address-of-your-business-within-the-city" },
+                  { "text": "Change Company Name", "href": "/change-company-name", "zolvit": true }
+                ]
+              },
+              {
+                "groupName": "Changes In LLP",
+                "links": [
+                  { "text": "Add Designated Partner", "href": "/adding-a-designated-partner", "zolvit": true },
+                  { "text": "Changes to LLP Agreement", "href": "/change-llp-agreement" },
+                  { "text": "Close the LLP", "href": "/close-your-limited-liability-partnership" }
+                ]
+              },
+              {
+                "groupName": "Convert Your Business",
+                "links": [
+                  { "text": "Proprietorship to Pvt Ltd Company", "href": "/convert-your-sole-proprietorship-into-a-private-limited-company" },
+                  { "text": "Compliance Check - Secretarial Audit", "href": "/secretarial-audit-package-for-companies" },
+                  { "text": "Due Digilence", "href": "/due-diligence-of-company" },
+                  { "text": "RBI Compliance", "href": "/proposal-for-rbi-compounding-application" },
+                  { "text": "Partnership to LLP", "href": "/convert-your-partnership-into-an-llp" },
+                  { "text": "Private to Public Limited Company", "href": "/convert-your-private-limited-company-into-a-public-limited-company" },
+                  { "text": "Private to One Person Company", "href": "/convert-plc-to-opc" }
+                ]
+              }
+            ],
+            "secondColumn": [
+              {
+                "groupName": "GST",
+                "links": [
+                  { "text": "GST Registration", "href": "/online-gst-registration" },
+                  { "text": "GST Filing", "href": "/gst-return-filing" },
+                  { "text": "GST Advisory", "href": "/gst-advisory-portal" },
+                  { "text": "GST HSN Finder", "href": "/hsn-code" }
+                ]
+              },
+              {
+                "groupName": "Accounting & Tax",
+                "links": [
+                  { "text": "Accounting and Book-keeping", "href": "/accounting-bookkeeping-services" },
+                  { "text": "Company & LLP Income Tax Return Filing", "href": "/company-and-LLP-Income-Tax-Return-Filing" },
+                  { "text": "Payroll Maintenance", "href": "/online-payroll-management", "zolvit": true },
+                  { "text": "TDS Return Filing", "href": "/online-tds-return" },
+                  { "text": "Income Tax Return Filing Online", "href": "/income-tax-return-filing-online", "zolvit": true },
+                  { "text": "Proprietorship ITR Filing", "href": "/proprietorship-tax-return-filing" },
+                  { "text": "Professional Tax Registration", "href": "/professional-tax-registration", "zolvit": true },
+                  { "text": "USA Tax Law", "href": "/file-income-tax-return-usa" },
+                  { "text": "Accounting & Business Complaince", "href": "/online-accounting-compliance-service" },
+                  { "text": "Corporate Tax", "href": "/corporate-tax-india" },
+                  { "text": "NRI Legal Service", "href": "/tax-legal-services-for-nri" }
+                ]
+              },
+              {
+                "groupName": "Labour Complaince",
+                "links": [
+                  { "text": "Labor Law", "href": "/labor-law-advisor" },
+                  { "text": "Provident Fund (PF) Registration", "href": "/epf-registration-online" },
+                  { "text": "ESI Registration", "href": "/online-esi-registration", "zolvit": true },
+                  { "text": "Employee Stock Option Plan [ESOP]", "href": "/esop" }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "Brand Identity Protection & IP",
+          "description": "Trademarks, Copyrights & Patents",
+          "img": "https://assets.zolvit.com/live-images/zolvit-header/Zoom.svg",
+
+          "links": {
+            "firstColumn": [
+              {
+                "groupName": "Trademark",
+                "links": [
+                  { "text": "Trademark Registration", "href": "/online-trademark-registration" },
+                  { "text": "Design Registration", "href": "/design-registration" },
+                  { "text": "Search for Trademark Class", "href": "/trademark-className-search" },
+                  { "text": "Respond to TM Objection", "href": "/trademark-objection" },
+                  { "text": "Trademark Watch", "href": "/trademark-watch" },
+                  { "text": "Trademark Renewal", "href": "/trademark-renewal", "zolvit": true },
+                  { "text": "Trademark Assignment", "href": "/trademark-assign", "zolvit": true },
+                  { "text": "International Trademark Regoistration", "href": "/international-trademark-registration" },
+                  { "text": "USA Trademark", "href": "/trademark-registration-in-usa", "zolvit": true }
+                ]
+              },
+              {
+                "groupName": "Logo Registration",
+                "links": [{ "text": "Logo Design", "href": "/logo-design" }]
+              }
+            ],
+            "secondColumn": [
+              {
+                "groupName": "Copyright",
+                "links": [
+                  { "text": "Copyright Registration", "href": "/copyright-registration" },
+                  { "text": "Copyright For Music", "href": "/copyright-protection-music" }
+                ]
+              },
+              {
+                "groupName": "Patent",
+                "links": [
+                  { "text": "Patent Search", "href": "/indian-patent-search" },
+                  { "text": "Provisonal Application", "href": "/provisional-patent" },
+                  { "text": "Permanent Patent", "href": "/permanent-patent" }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "Documents & Agreements",
+          "description": "Policies, Contracts, Notices & more",
+          "img": "https://assets.zolvit.com/live-images/zolvit-header/Remark.svg",
+
+          "links": {
+            "firstColumn": [
+              {
+                "groupName": "Business Contracts",
+                "links": [
+                  { "text": "Non Disclosure Agreement NDA", "href": "/nondisclosure-agreement-nda" },
+                  { "text": "Service Level Agreement", "href": "/service-level-agreement" },
+                  { "text": "Franchise Agreement", "href": "/franchise-business-agreement" },
+                  { "text": "Master Service Agreement", "href": "/master-service-agreement" },
+                  { "text": "Shareholders Agreement", "href": "/shareholders-agreement" },
+                  { "text": "Joint Venture Agreement", "href": "/joint-venture-agreement" },
+                  { "text": "Founders Agreement", "href": "/founders-agreement" },
+                  { "text": "Vendor Agreement", "href": "/vendor-agreement" },
+                  { "text": "Consultancy Agreement", "href": "/consultancy-agreement" },
+                  { "text": "Memorandum of Understanding", "href": "/memorandum-of-understanding" }
+                ]
+              },
+              {
+                "groupName": "HR Policies",
+                "links": [{ "text": "Employment Agreement", "href": "/labour-employment-contract" }]
+              }
+            ],
+            "secondColumn": [
+              {
+                "groupName": "Website Policies",
+                "links": [
+                  { "text": "Disclaimer", "href": "/disclaimer" },
+                  { "text": "Terms of Service Privacy Policy", "href": "/terms-of-service-privacy-policy" },
+                  { "text": "General Data Protection Regulation (GDPR)", "href": "/general-data-protection-regulation" },
+                  { "text": "Scope of Work and Deliverables Agreement", "href": "/scope-of-work-and-deliverables-agreement" }
+                ]
+              },
+              {
+                "groupName": "Notices",
+                "links": [
+                  { "text": "Legal Notice", "href": "/legal-notice" },
+                  { "text": "Legal Notice for recovery of dues", "href": "/legal-notice-recovery-of-dues" },
+                  { "text": "Cheque Bounce Notice", "href": "/cheque-bounce-case" }
+                ]
+              },
+              {
+                "groupName": "Real Estate",
+                "links": [
+                  { "text": "Rent and Lease agreement", "href": "/rent-and-lease-agreement" },
+                  { "text": "Sale Deed", "href": "/sale-deed" }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "NGO & Non-profit",
+          "description": "Registration and Compliance for NGOs",
+          "img": "https://assets.zolvit.com/live-images/zolvit-header/BPO.svg",
+
+          "links": {
+            "firstColumn": [
+              {
+                "groupName": "Registrations",
+                "links": [
+                  { "text": "NGO", "href": "/online-ngo-registration" },
+                  { "text": "Section 8", "href": "/section-8-company-registration-online" },
+                  { "text": "Trust Registration", "href": "/online-trust-registration" },
+                  { "text": "Society Registration", "href": "/online-society-registration" }
+                ]
+              }
+            ],
+            "secondColumn": [
+              {
+                "groupName": "NGO Compliance",
+                "links": [
+                  { "text": "NGO Compliance", "href": "/ngo-compliance-darpan-80g-12a-csr-1" },
+                  { "text": "Section 8 Complaince", "href": "/annual-compliances-of-section-8-company" },
+                  { "text": "CSR-1 Filing", "href": "/form-csr-1-filing" },
+                  { "text": "Sec.80G & Sec.12A", "href": "/registration-under-section-80G-12A" },
+                  { "text": "Darpan Registration", "href": "/ngo-darpan-registration" }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "tabName": "Personal",
+      "groupName": "Property and Personal",
+      "type": "simple",
+      "content": {
+        "firstColumn": [
+          {
+            "groupName": "Property",
+            "links": [
+              { "text": "Property Title Verification", "href": "/property-verification" },
+              { "text": "Property Registration", "href": "/real-estate-property-registration" },
+              { "text": "RERA Complaint", "href": "/rera-complaint" },
+              { "text": "Legal Heir Certificate", "href": "/legal-heir-certificate" },
+              { "text": "Succession Certificate", "href": "/succession-certificate" }
+            ]
+          },
+          {
+            "groupName": "Name Change & Other Conditiions",
+            "links": [
+              { "text": "Name Change", "href": "/online-name-change" },
+              { "text": "Religion Change", "href": "/religion-conversion-certificate" },
+              { "text": "Gender Change", "href": "/gender-change" }
+            ]
+          }
+        ],
+        "secondColumn": [
+          {
+            "groupName": "Marriage",
+            "links": [
+              { "text": "Marriage Registration", "href": "/marriage-registration" },
+              { "text": "Court Marriage", "href": "/court-marriage-registered" },
+              { "text": "Divorce Consultation", "href": "/mutual-divorce" },
+              { "text": "Alimony Laws", "href": "/divorce-alimony-laws-India" }
+            ]
+          },
+          {
+            "groupName": "Immigration",
+            "links": [
+              { "text": "Corporate Immigration", "href": "/corporate-immigration" },
+              { "text": "Family Immigration", "href": "/family-immigration" },
+              { "text": "College Immigration", "href": "/college-immigration" }
+            ]
+          }
+        ],
+        "thirdColumn": [
+          {
+            "groupName": "Consumer Complaints",
+            "links": [
+              { "text": "Consumer Complaints", "href": "/consumer-complaints" },
+              { "text": "Consumer Court Online Complaint", "href": "/consumer-court-online-complaint" }
+            ]
+          },
+          {
+            "groupName": "Legal Documents",
+            "links": [
+              { "text": "Make a Will", "href": "/how-to-make-a-will-in-india" },
+              { "text": "Power of Attorney", "href": "/preparing-power-of-attorney" }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "tabName": "Products",
+      "type": "accordions",
+      "content": {
+        "firstColumn": [
+          {
+            "groupName": "Property",
+            "links": [
+              { "text": "Property Title Verification", "href": "/property-verification" },
+              { "text": "Property Registration", "href": "/real-estate-property-registration" },
+              { "text": "RERA Complaint", "href": "/rera-complaint" },
+              { "text": "Legal Heir Certificate", "href": "/legal-heir-certificate" },
+              { "text": "Succession Certificate", "href": "/succession-certificate" }
+            ]
+          },
+          {
+            "groupName": "Name Change & Other Conditiions",
+            "links": [
+              { "text": "Name Change", "href": "/online-name-change" },
+              { "text": "Religion Change", "href": "/religion-conversion-certificate" },
+              { "text": "Gender Change", "href": "/gender-change" }
+            ]
+          }
+        ],
+        "secondColumn": [
+          {
+            "groupName": "Marriage",
+            "links": [
+              { "text": "Marriage Registration", "href": "/marriage-registration" },
+              { "text": "Court Marriage", "href": "/court-marriage-registered" },
+              { "text": "Divorce Consultation", "href": "/mutual-divorce" },
+              { "text": "Alimony Laws", "href": "/divorce-alimony-laws-India" }
+            ]
+          },
+          {
+            "groupName": "Immigration",
+            "links": [
+              { "text": "Corporate Immigration", "href": "/corporate-immigration" },
+              { "text": "Family Immigration", "href": "/family-immigration" },
+              { "text": "College Immigration", "href": "/college-immigration" }
+            ]
+          }
+        ],
+        "thirdColumn": [
+          {
+            "groupName": "Consumer Complaints",
+            "links": [
+              { "text": "Consumer Complaints", "href": "/consumer-complaints" },
+              { "text": "Consumer Court Online Complaint", "href": "/consumer-court-online-complaint" }
+            ]
+          },
+          {
+            "groupName": "Legal Documents",
+            "links": [
+              { "text": "Make a Will", "href": "/how-to-make-a-will-in-india" },
+              { "text": "Power of Attorney", "href": "/preparing-power-of-attorney" }
+            ]
+          }
+        ]
+      }
+    }
+  ]

@@ -1,0 +1,448 @@
+{
+  "url": "usa-incorporation",
+  "serviceName": "USA Incorporation",
+  "hidePartnerList": true,
+  "Noflag": true,
+  "showTestimonial": true,
+  "showClicktoWatch": true,
+  "hideBannerBottom": true,
+  "b2bServicePage": true,
+  "showFlag": true,
+  "showClickToWatch": true,
+  "showDash": true,
+  "more": "Change Goals",
+  "pageTitle": "Company Registration In USA from India - Vakilsearch",
+  "meta": {
+    "keyword": "registering a company in usa, how to register a company in usa, company incorporation in usa",
+    "description": "Form an LLC or INC in the United States as a foreign national with the right procedure. Vakilsearch assists with company registration in the USA from India."
+  },
+  "schema": {
+    "articleSchema": {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://vakilsearch.com/usa-incorporation"
+      },
+      "headline": "Company Registration In USA from India - Vakilsearch",
+      "description": "Form an LLC or INC in the United States as a foreign national with the right procedure. Vakilsearch assists with company registration in the USA from India.",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://vakilsearch.com/blog/wp-content/uploads/2023/04/us-company-incorporation.jpg"
+      },
+      "articleSection": "v2",
+      "keywords": "usa litigation",
+      "datePublished": "",
+      "dateModified": "",
+      "author": {
+        "@type": "Person",
+        "name": "VakilSearch"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "VakilSearch",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjpD1lt7g1naDsHjs2yuf-KpP9QtH0D9MJ30uqVkvc&s",
+          "width": 800,
+          "height": 344
+        }
+      }
+    }
+  },
+  "ogtags": [
+    {
+      "property": "og:title",
+      "content": "Company Registration In USA from India - Vakilsearch"
+    },
+    {
+      "property": "og:site_name",
+      "content": "Vakilsearch"
+    },
+    {
+      "property": "og:url",
+      "content": "https://vakilsearch.com/usa-incorporation"
+    },
+    {
+      "property": "og:description",
+      "content": "Any foreign national can form an LLC or an INC in the United States by following the right procedure. Vakilsearch can help you register a company in the USA from India."
+    },
+    {
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "property": "og:locale",
+      "content": "en_IN"
+    }
+  ],
+  "twittercards": [
+    {
+      "name": "twitter:card",
+      "content": "summary"
+    },
+    {
+      "name": "twitter:site",
+      "content": "Vakilsearch"
+    },
+    {
+      "name": "twitter:title",
+      "content": "Company Registration In USA from India - Vakilsearch"
+    },
+    {
+      "name": "twitter:description",
+      "content": "Any foreign national can form an LLC or an INC in the United States by following the right procedure. Vakilsearch can help you register a company in the USA from India."
+    },
+    {
+      "name": "twitter:url",
+      "content": "https://vakilsearch.com/usa-incorporation"
+    }
+  ],
+  "serviceItems": [
+    {
+      "header": "",
+      "items": [
+        "Talk with business incorporation experts",
+        "Completely online process",
+        "Easy to track progress",
+        "Affordable price"
+      ]
+    }
+  ],
+  "canonical": true,
+  "canonicalUrl": "usa-incorporation",
+  "conditionsApply": true,
+  "conditionText": "<b>*TERMS & CONDITIONS</b><br/><ol><li>All documents must be provided by the client on time</li><li>Government portal down-time might cause delays</li></ol>",
+  "secondformtitle": "Start my registration",
+  "content": {
+    "serviceId": "231",
+    "newtestimonialWithReview": true,
+    "workflow": "usa-onboarding",
+    "title": "Company Incorporation in USA",
+    "subTitle": "Get your USA company incorporated in just 10 working days and receive your Employer Identification Number (EIN) in under 48 hours",
+    "formTitle": "Apply for Company Incorporation",
+    "iecBanner": true,
+    "usaBanner": true,
+    "bannerInsight": "USA Business incorporation starts from <b>$499+</b> taxes",
+    "bannerReviews": true,
+    "videoTitle": "Watch to know about US Incorp",
+    "certificateTitle": "Sample Incorporation Certificate",
+    "bgImage": "https://assets.vakilsearch.com/live-images/usa-inc-bg-image.svg",
+    "sampleCertificateIcon": "https://assets.vakilsearch.com/live-images/usa-inc-sample-doc-icon.svg",
+    "sampleCertificateLink": "https://assets.vakilsearch.com/live-images/usa-inc-sample-doc-image.jpg",
+    "hidelangfield": true,
+    "usaSection": true,
+    "hideLine": true,
+    "titleSection": {
+      "title": "<h1>Company Incorporation in USA</h1>&nbsp;<span>with<span>",
+      "subTitle": "Get your USA company incorporated in just 10 working days and receive your Employer Identification Number (EIN) in under 48 hours",
+      "formTitle": "Register my US incorporation",
+      "note": "Registering as a C corporation provides immediate access to venture capital firms and startup investors."
+    },
+    "slickText": [
+      "Registered Agent",
+      "US Company Address",
+      "Business Number",
+      "Company Annual Filing",
+      "Business Bank Account",
+      "EIN Number"
+    ],
+    "formSection": {
+      "formTitle": "Register my US incorporation",
+      "hideCityField": true,
+      "submitCTA": "Talk to our expert",
+      "secondaryFormSection": {
+        "submitCTA": "Talk to our expert",
+        "bannerKey": "no-spam"
+      }
+    },
+    "newProcessSection": {
+      "title": "Incorporate in USA in just 4 simple steps",
+      "lists": [
+        {
+          "listTitle": "Basic Information",
+          "listDescription": "Day 1-2"
+        },
+        {
+          "listTitle": "Document Signature & Company Registration",
+          "listDescription": "Day 3 - 7"
+        },
+        {
+          "listTitle": "Get EIN",
+          "listDescription": "Day 8-15"
+        },
+        {
+          "listTitle": "Business Bank Account Creation",
+          "listDescription": "Day 16-20",
+          "listImage": "https://assets.vakilsearch.com/live-images/final-verified-process.svg"
+        }
+      ]
+    },
+    "newAdvantages": {
+      "title": "Benefits of US Incorporation",
+      "lists": [
+        {
+          "image": "https://assets.vakilsearch.com/live-images/newadvantage-list-1.svg",
+          "listTitle": "Registered Agent",
+          "description": "Engage a registered agent and effortlessly file documents without lifting a finger."
+        },
+        {
+          "image": "https://assets.vakilsearch.com/live-images/newadvantage-list-2.svg",
+          "listTitle": "US Company Address",
+          "description": "Get your company incorporated seamlessly, regardless of physical office or director’s presence."
+        },
+        {
+          "image": "https://assets.vakilsearch.com/live-images/newadvantage-list-3.svg",
+          "listTitle": "Business Number",
+          "description": "Submission of all forms, notices, and reports is on us as we act on your behalf with the state."
+        },
+        {
+          "image": "https://assets.vakilsearch.com/live-images/newadvantage-list-4.svg",
+          "listTitle": "Company Annual Filing",
+          "description": "Get your annual reports filed even before the calendar date."
+        },
+        {
+          "image": "https://assets.vakilsearch.com/live-images/newadvantage-list-5.svg",
+          "listTitle": "Business Bank Account",
+          "description": "Get your business bank account & debit card with Mercury for low fees and competitive interest rates."
+        },
+        {
+          "image": "https://assets.vakilsearch.com/live-images/newadvantage-list-6.svg",
+          "listTitle": "EIN Number",
+          "description": "Generate a EIN (Employer Identification Number) from IRS that can be used with Shopify, Google ads, Stripe etc,."
+        }
+      ]
+    },
+    "menus": [
+      {
+        "title": "Overview",
+        "href": "#section1"
+      },
+      {
+        "title": "Advantages",
+        "href": "#section2"
+      },
+      {
+        "title": "Documents Required",
+        "href": "#section3"
+      },
+      {
+        "title": "Process for Company Registration in USA",
+        "href": "#section4"
+      },
+      {
+        "title": "Differences",
+        "href": "#section5"
+      },
+      {
+        "title": "Review and Approval",
+        "href": "#section6"
+      },
+      {
+        "title": "Why Vakilsearch?",
+        "href": "#section7"
+      },
+      {
+        "title": "FAQs",
+        "href": "#section8"
+      },
+      {
+        "title": "Dash",
+        "href": "#section9",
+        "new": true
+      }
+    ],
+    "summary": {
+      "title": "USA Company Incorporation Process",
+      "description": "Incorporate your company with Vakilsearch. We help startups worldwide incorporate their companies in the US.",
+      "steps": [
+        {
+          "title": "Connect with our experts",
+          "description": "",
+          "sign": "https://assets.vakilsearch.com/Ngo/summary-icon-1.svg"
+        },
+        {
+          "title": " We collect the details and file the <br>application for incorporation",
+          "description": "",
+          "sign": "https://assets.vakilsearch.com/Ngo/summary-icon-2.svg"
+        },
+        {
+          "title": "Your Federal Employer Identification Number (EIN) is delivered and company is registered",
+          "description": "",
+          "sign": "https://assets.vakilsearch.com/Ngo/summary-icon-4.svg"
+        }
+      ]
+    },
+    "sections": [
+      [
+        {
+          "title": "US Company Incorporation - Overview",
+          "href": "section1",
+          "text": "The United States of America has a multicultural population and a sizable English-speaking population. It is generally friendly to foreign firms due to its diversity. The US market is open for business options from all over the world. US company incorporation easily by getting in touch with Vakilsearch. This will prove to be a fantastic opportunity and provides added tax advantages to your business."
+        },
+        {
+          "text": "It is very simple to establish a US corporation for your business as it has an economy fourteen times larger than India's and offers one of the most hospitable environments for Indian enterprises to readily thrive. As a result, a non-resident seeking US incorporation must follow all standard US business procedures in the same way as a resident, plus a few additional legalities."
+        }
+      ],
+      [
+        {
+          "title": "Why Is It Advantageous for Indian in Company Registration in USA?",
+          "href": "section2",
+          "text": "The US has well-developed company laws and regulations. Apart from this it also has  extremely low corporate income tax rates. These are the primary advantages of incorporating a company in the USA"
+        },
+        {
+          "text": "On the other hand the state laws and regulations that each state in the US are highly different from one another. It is wise to incorporate your firm in order to obtain a Foreign Qualification Certificate. This certificate is necessary if your company is heavily reliant on one specific state and its demand for your services. However, Delaware, Wyoming, and Nevada in particular offer the most favorable tax and business legislation, making incorporation commonplace for businesses. Delaware is believed to have no state sales taxes and an extremely low franchise tax rate for small US firms. It doesn't require any residence to individually pay corporate income tax."
+        }
+      ],
+      [
+        {
+          "title": "Information and Documents Required for Company Registration in US",
+          "href": "section3",
+          "items": "Company name | Type of business | Physical US address for a registered business | (Y/N) Registered agent (in case of having another address it is mandatory to provide under the section) | Business partner's name (s) | Addresses of partners in business (s) | Possession: (%)"
+        },
+        {
+          "heading": "Documents Required for Company Registration In USA",
+          "items": "PAN Card  | Passport | Aadhaar card | Company incorporation details  | Other crucial information"
+        },
+        {
+          "heading": "Related Business Registrations",
+          "text": "Depending on the type of business activity engaged in, a business may need additional registrations in addition to registration or incorporation. Find out what registrations your business might need after registration by speaking with an advisor from Vakilsearch."
+        },
+        {
+          "heading": "Types for Company Registration in USA from India",
+          "text": "The United States of America has different laws and rules governing the creation and upkeep of businesses. In the USA, there are five different kinds of companies that are typically registered.",
+          "items": "S Corporations | Corporate entities (C-corp) | nonprofit organisations | Limited Liability Businesses (LLCs) | Single-person businesses"
+        }
+      ],
+      [
+        {
+          "title": "Process for Company Registration in USA",
+          "href": "section4",
+          "items": "Decide on the legal structure of your business, such as sole proprietorship, partnership, LLC, or corporation | Choose a unique name for your business that complies with state laws | Register your business with the state by filing the necessary paperwork and paying the registration fee | Depending on the type of business you operate, you may need to obtain additional licenses and permits | Apply for an Employer Identification Number (EIN) from the Internal Revenue Service (IRS) | Set up a business bank account to keep your business finances separate from personal finances | Register for federal and state taxes, including income tax, sales tax, and employment tax | Depending on your business, you may need to obtain insurance, such as liability insurance or workers' compensation insurance | If you plan to hire employees, make sure you comply with federal and state employment laws."
+        },
+        {
+          "text": "At Vakilsearch we provide clear inputs and can complete the whole USA company incorporation process easily. We provide a holistic solution and can complete the incorporation in just 10 days."
+        }
+      ],
+      [
+        {
+          "title": "Difference between LLC and C Corp",
+          "href": "section5",
+          "text": "The following documents, in either Dutch, English, German, or French, must be supplied. "
+        },
+        {
+          "datas": [
+            {
+              "type": "table",
+              "headings": ["LLC", "C Corp"],
+              "rows": [
+                {
+                  "field1": "The owners also act as the partners in the business",
+                  "field2": "The owners play the role of Shareholders"
+                },
+                {
+                  "field1": "This is apt for small scale companies that has a restriction on total number of shareholders",
+                  "field2": "Mid size sustainable businesses with multiple shareholders can choose this type of corporation"
+                },
+                {
+                  "field1": "Partners enjoy the right to set up the configuration based on their choice and supervise the whole process",
+                  "field2": "In this type the shareholders have the power to choose the directors and manage the whole business "
+                },
+                {
+                  "field1": "The partners do not stand liable in case of any issues",
+                  "field2": "In this type shareholders are not liable"
+                },
+                {
+                  "field1": "Banking on the restrictions of the operating treaty and transferability is scheduled",
+                  "field2": "In this business model the stocks and shares can be transferred easily"
+                },
+                {
+                  "field1": "In common, stakeholders from outside  don’t want an LLC because they are structured to regulate as co-operations mostly",
+                  "field2": "Foreign investors like C corp because they include stocks, which is allocated among the shareholders"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "title": "Vakilsearch US Company Incorporation Package Review and Approval",
+          "href": "section6",
+          "text": "Vakilsearch has the best US incorporation package, we provide the following services ",
+          "items": "Article of association preparation  | Filing registered agent service (one year) | An association certification is provided | Federal employer identification number (EIN) "
+        }
+      ],
+      [
+        {
+          "title": "Why Vakilsearch?",
+          "href": "section7",
+          "text": "In just four working days, Vakilsearch can deliver all of your documentation needs. If you're not completely satisfied, we'll take a few extra days to make the necessary changes. Both online and off, everything is offered for the lowest price. We as a firm help multiple businesses to effectively incorporate their business in the USA. Just get on call with our experts from Vakilsearch and resolve all your queries."
+        }
+      ]
+    ],
+    "faqs": {
+      "href": "section8",
+      "items": [
+        {
+          "question": "Can my business have its headquarters somewhere outside Delaware?",
+          "answer": "Yes. There is no requirement for a business seeking US incorporation to have its headquarters or any of its operations in Delaware."
+        },
+        {
+          "question": "Is a corporate seal required to be used?",
+          "answer": "Yes, having a company seal has benefits of its own. On contracts with employees and vendors, meeting minutes, loan paperwork, you may use your company seal. We aid you in obtaining a corporate seal. After completing all the required paperwork the seal will be created."
+        },
+        {
+          "question": "Do I require an auditor or an attorney to incorporate my business?",
+          "answer": "Not necessary. Vakilsearch offers very affordable assistance with various professionals (lawyers, subject matter experts, and others) throughout the US incorporation process. Contact our legal professionals for further details."
+        },
+        {
+          "question": "What information is required to open a new corporate bank account?",
+          "answer": "The applicant should provide important documents like articles of incorporation, federal employee identification number (EIN), US business license and an operation agreement in order to incorporate a company in the US. Apart from this the applicant should also provide a corporate bank account for the company opened in the US. Subsequently a passport photocopy and a certificate of good standing should be submitted to the authorities. Our legal consultants will provide you with free expert advice if you need additional details."
+        },
+        {
+          "question": "What kind of business company may it be?",
+          "answer": "Typically, a corporation or a limited liability firm is registered."
+        },
+        {
+          "question": "What exactly is a registered agent?",
+          "answer": "A company is a legal entity and can take legal action. It can be served with a lawsuit through a physical mail or via registered agent. A registered agent and a registered physical US location within the state of incorporation are further essentials for USA company registration."
+        },
+        {
+          "question": "What are the primary distinctions between a S company and an LLC?",
+          "answer": "When opposed to a S company, an LLC has fewer corporate rules and more operating flexibility. For instance, a S company is required to hold an annual meeting of stockholders and is restricted to having no more than 100 stockholders. However, S company owners could pay less in taxes than LLC owners."
+        },
+        {
+          "question": "What is a US incorporated company?",
+          "answer": "A US incorporated company is a type of business entity that is formed under the laws of a specific state in the United States. It is a legal structure that separates the company's liabilities and legal obligations from those of its owners, providing protection to shareholders and facilitating growth and expansion."
+        }
+      ]
+    },
+    "testimonials": [
+      {
+        "name": "Sainath Iyer",
+        "text": "&ldquo;I never thought getting my company incorporated in the US would be so easy. Every single phase of the registration went well. My documents were collected personally by the Vakilsearch team. All correspondences and responses were prompt. Will definitely use their services again in the future. Great job, team.&rdquo;"
+      },
+      {
+        "name": "Arjun Gopalan",
+        "text": "&ldquo;Extremely pleased by the services offered at Vakilsearch. Would like to thank you for all the hard work your team put into Incorporating my company in Delaware within the stipulated time promised. I will definitely come back for more. Strongly recommend Vakilsearch. &rdquo;"
+      },
+      {
+        "name": "Swathi Rajkumar",
+        "text": "&ldquo;Absolutely worth every penny I spent. Vakilsearch has delivered maximum quality with absolute professionalism. I got all my paperwork done on-time and I will definitely recommend Vakilsearch’s incorporation services to anyone. Very happy by the service provided. All the best team!&rdquo;"
+      },
+      {
+        "name": "Akash Ravi",
+        "text": "&ldquo;Thank you Vakilsearch for making our dreams come true. Incorporating our company in the US was a dream and the execution of the same was done very well. Your team made every step of the incorporation process simple and easy. I am a very happy customer and will be recommending your name to my business friends. Will surely be availing your services soon.  &rdquo;"
+      },
+      {
+        "name": "Aarti Menon",
+        "text": "&ldquo;Thank you for providing stellar services for US incorporation. I am thoroughly impressed by the services and the way it was offered by your firm. Extremely courteous staff who were responsive at all times. Most importantly the services were offered at an affordable cost without any compromise on quality. Please continue your good work Vakilsearch.&rdquo;"
+      }
+    ],
+    "tarsbotScript": "NyImmR",
+    "submitbtn": "Talk to our expert",
+    "video": "https://www.youtube.com/embed/qMKbQsm_o_A?autoplay=1"
+  },
+  "languages": ["hindi"]
+}
